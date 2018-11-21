@@ -1,0 +1,4271 @@
+﻿#Version 3
+#Begin-Auto-Completion 
+AutoCompletion/Scene/Enabled:True
+AutoCompletion/Scene/Items:0
+AutoCompletion/Character/Enabled:True
+AutoCompletion/Character/Items:0
+AutoCompletion/Transition/Enabled:True
+AutoCompletion/Transition/Items:12
+AutoCompletion/Transition/Items/1:BACK TO:
+AutoCompletion/Transition/Items/2:CROSSFADE:
+AutoCompletion/Transition/Items/3:CUT TO:
+AutoCompletion/Transition/Items/4:DISSOLVE TO:
+AutoCompletion/Transition/Items/5:FADE IN:
+AutoCompletion/Transition/Items/6:FADE OUT
+AutoCompletion/Transition/Items/7:FADE TO BLACK
+AutoCompletion/Transition/Items/8:JUMP CUT TO:
+AutoCompletion/Transition/Items/9:MATCH CUT TO:
+AutoCompletion/Transition/Items/10:SLOW FADE TO BLACK
+AutoCompletion/Transition/Items/11:SMASH CUT TO:
+AutoCompletion/Transition/Items/12:TIME CUT:
+#End-Auto-Completion 
+#Begin-Config 
+FontSize:12
+Margin/Bottom:25.40
+Margin/Left:38.10
+Margin/Right:25.40
+Margin/Top:12.70
+Paper/Height:297.00
+Paper/Width:210.00
+PageBreakActionLines:2
+PageBreakDialogueLines:2
+SceneContinueds:False
+SceneContinuedIndent:45
+ShowSceneNumbers:False
+IncludeTOC:True
+ShowTOC:True
+OpenOnCurrentPage:True
+RemoveNotes:False
+OutlineNotes:True
+ShowMargins:False
+ShowLineNumbers:False
+Cursor/Line:4029
+Cursor/Column:26
+String/MoreDialogue:(MORE)
+String/ContinuedPageEnd:(CONTINUED)
+String/ContinuedPageStart:CONTINUED:
+String/DialogueContinued: (cont'd)
+Element/Scene/BeforeSpacing:10
+Element/Scene/IntraSpacing:0
+Element/Scene/Indent:0
+Element/Scene/Width:60
+Element/Scene/Screen/AllCaps:True
+Element/Scene/Screen/Bold:True
+Element/Scene/Screen/Italic:False
+Element/Scene/Screen/Underlined:False
+Element/Scene/Export/AllCaps:True
+Element/Scene/Export/Bold:False
+Element/Scene/Export/Italic:False
+Element/Scene/Export/Underlined:False
+Element/Action/BeforeSpacing:10
+Element/Action/IntraSpacing:0
+Element/Action/Indent:0
+Element/Action/Width:60
+Element/Action/Screen/AllCaps:False
+Element/Action/Screen/Bold:False
+Element/Action/Screen/Italic:False
+Element/Action/Screen/Underlined:False
+Element/Action/Export/AllCaps:False
+Element/Action/Export/Bold:False
+Element/Action/Export/Italic:False
+Element/Action/Export/Underlined:False
+Element/Character/BeforeSpacing:10
+Element/Character/IntraSpacing:0
+Element/Character/Indent:22
+Element/Character/Width:38
+Element/Character/Screen/AllCaps:True
+Element/Character/Screen/Bold:False
+Element/Character/Screen/Italic:False
+Element/Character/Screen/Underlined:False
+Element/Character/Export/AllCaps:True
+Element/Character/Export/Bold:False
+Element/Character/Export/Italic:False
+Element/Character/Export/Underlined:False
+Element/Dialogue/BeforeSpacing:0
+Element/Dialogue/IntraSpacing:0
+Element/Dialogue/Indent:10
+Element/Dialogue/Width:35
+Element/Dialogue/Screen/AllCaps:False
+Element/Dialogue/Screen/Bold:False
+Element/Dialogue/Screen/Italic:False
+Element/Dialogue/Screen/Underlined:False
+Element/Dialogue/Export/AllCaps:False
+Element/Dialogue/Export/Bold:False
+Element/Dialogue/Export/Italic:False
+Element/Dialogue/Export/Underlined:False
+Element/Parenthetical/BeforeSpacing:0
+Element/Parenthetical/IntraSpacing:0
+Element/Parenthetical/Indent:16
+Element/Parenthetical/Width:25
+Element/Parenthetical/Screen/AllCaps:False
+Element/Parenthetical/Screen/Bold:False
+Element/Parenthetical/Screen/Italic:False
+Element/Parenthetical/Screen/Underlined:False
+Element/Parenthetical/Export/AllCaps:False
+Element/Parenthetical/Export/Bold:False
+Element/Parenthetical/Export/Italic:False
+Element/Parenthetical/Export/Underlined:False
+Element/Transition/BeforeSpacing:10
+Element/Transition/IntraSpacing:0
+Element/Transition/Indent:45
+Element/Transition/Width:20
+Element/Transition/Screen/AllCaps:True
+Element/Transition/Screen/Bold:False
+Element/Transition/Screen/Italic:False
+Element/Transition/Screen/Underlined:False
+Element/Transition/Export/AllCaps:True
+Element/Transition/Export/Bold:False
+Element/Transition/Export/Italic:False
+Element/Transition/Export/Underlined:False
+Element/Shot/BeforeSpacing:10
+Element/Shot/IntraSpacing:0
+Element/Shot/Indent:0
+Element/Shot/Width:60
+Element/Shot/Screen/AllCaps:True
+Element/Shot/Screen/Bold:False
+Element/Shot/Screen/Italic:False
+Element/Shot/Screen/Underlined:False
+Element/Shot/Export/AllCaps:True
+Element/Shot/Export/Bold:False
+Element/Shot/Export/Italic:False
+Element/Shot/Export/Underlined:False
+Element/Note/BeforeSpacing:10
+Element/Note/IntraSpacing:0
+Element/Note/Indent:5
+Element/Note/Width:55
+Element/Note/Screen/AllCaps:False
+Element/Note/Screen/Bold:False
+Element/Note/Screen/Italic:True
+Element/Note/Screen/Underlined:False
+Element/Note/Export/AllCaps:False
+Element/Note/Export/Bold:False
+Element/Note/Export/Italic:True
+Element/Note/Export/Underlined:False
+Element/Act break/BeforeSpacing:10
+Element/Act break/IntraSpacing:0
+Element/Act break/Indent:25
+Element/Act break/Width:10
+Element/Act break/Screen/AllCaps:True
+Element/Act break/Screen/Bold:True
+Element/Act break/Screen/Italic:False
+Element/Act break/Screen/Underlined:True
+Element/Act break/Export/AllCaps:True
+Element/Act break/Export/Bold:False
+Element/Act break/Export/Italic:False
+Element/Act break/Export/Underlined:True
+Font/Bold-Italic/Name:
+Font/Bold-Italic/Filename:
+Font/Bold/Name:
+Font/Bold/Filename:
+Font/Italic/Name:
+Font/Italic/Filename:
+Font/Normal/Name:
+Font/Normal/Filename:
+#End-Config 
+#Begin-Locations 
+Locations:0
+#End-Locations 
+#Begin-Spell-Checker-Dict 
+Words:0
+#End-Spell-Checker-Dict 
+#Title-String 0.000000,105.000000,24,cb,Helvetica,,The Chosen One of Chinatown-Draft 1
+#Title-String 0.000000,120.460000,12,c,Courier,,by\n\nSam Holladay
+#Title-String 15.000000,248.460000,12,,Courier,,2017\n985-640-8234\nsam.holladay@gmail.com
+#Header-String 1,0,r,,${PAGE}.
+#Header-Empty-Lines 1
+#Start-Script 
+.\FADE IN:
+.\Int. Martial arts arena - day (1970s)
+>.A crowded martial arts arena on the day of a big kung fu
+>.tournament, the stands packed with noisy spectators, the
+>.atmosphere circus-like. The walls are festooned with
+..banners, and lights are trained on the center mat. 
+>.On this mat we see, on one side, TONY KONG, mid twenties,
+>.Chinese, a hard-edged, leanly muscled athlete in peak
+>.condition. Sweat drips off him; he wears white robes with a
+>.black belt. Intense but in control, sure of himself and his
+..abilities. 
+>.Across the ring is his BOUT OPPONENT, a burly Asian man
+>.towering over Tony. A  broad, greedy face with a lack of
+..restraint and a lack of grace; Tony's foil.
+>.The referee signals for them to begin. The bout opponent
+..bows quickly and insincerely; Tony bows with calm control. 
+>.The bout opponent immediately charges at Tony, who quickly
+..parries his attack. 
+>.Though his opponent's blows land with massive force, Tony is
+..too quick to be hit. 
+>.He deflects several of the bout opponent's hits before
+..pouncing upon a weak spot and HITTING him on the side. 
+>.Tony's fighting is as stylized and graceful as the dancing
+..of a ballerina, in the way of an old Hong Kong movie.
+>.The bout opponent backs up for relief, and we pan over the
+..crowds, cheering on their champion. 
+>.We focus upon a pretty, fashionably dressed young Asian
+>.woman smiling and cheering wildly; she appears to be his
+..wife. 
+>.The bout opponent attack Tony again and again is deflected.
+>.Tony is in control. He moves around the mat now, searching
+>.for a weak spot in his exhausted opponent. His opponent
+>.makes a misstep, and Tony punishes him dearly. His
+>.opponent's face is bewildered and angry at being
+..overmatched. 
+..                                                 CLOSE ON
+..Tony's face, staring down his man with the eyes of a killer.
+.\Int. TONY's APARTMENT - day (30 years later)
+>.We see the same view of TONY's face, now old and hardened
+>.through years of weathering. The look of controlled
+..intensity replaced by one of ennui. 
+>.He is now an old man, alone in a shabby apartment. He wears
+>.a white tanktop to show his still lean frame. While still no
+>.one to fuck with, with his gray stubble and unkempt hair he
+..clearly hasn't taken care of himself in years.
+..TITLE CARD "The Chosen One of Chinatown"
+>.Credits roll as sunlight streams into his cramped and dingy
+>.apartment. There is a small bookshelf and an old TV, but no
+>.trophies, medals, or other signs of his former kung fu
+..glory--except for two framed photos.
+>.One shows Tony as a young man clad in robes, standing with
+>.his wife after a tournament win. Next to it is a photo of a
+>.family standing around a distinctive temple arch in a
+>.village in China; it is Tony as a child in his family's
+..ancestral village, one we will see again.
+>.Tony walks over to his messy kitchen, pours himself a mug of
+>.tea from a kettle, and grabs a piece of toast from the
+..toaster. 
+>.He rummages around in the shelf above the sink, but pulls
+>.out an empty bottle of bourbon. Sighing, he tosses the
+..bottle onto a huge pile of glass next to his trashcan.
+>.Tony sourly drinks his alcohol-less coffee and eats the
+>.toast while reading the the San Francisco Chronicle at his
+>.table. As he brushes his teeth and changes into a beat-up
+>.brown leather jacket and jeans, we sense the mundanity of
+..his life.
+.\EXT. STREETs of oakland chinatown - day
+>.Now afternoon, Tony meanders down the streets and passes a
+>.few Chinese businesses and markets filled with odd fruits
+>.and vegetables. The atmosphere feels relaxed and neighborly,
+>.if a little shabby, like a relaxed village transported into
+..a major city.
+>.He walks by a group of children playing, who immediately
+..stop when they see him and run away giggling.
+>.As he passes the various businesses he nods and smiles wryly
+>.at many of the older shopowners and patrons. At one market
+>.DONNA HU, 58, a genial, gracefully aged female shopowner,
+..and her friend WAN-MIN recognize him and smiles.
+._DONNA
+.:Good to see you this morning, Tony!
+._WAN-MIN
+.((teasing)
+>:Isn't it a little early for you to
+.:be up and about?
+..Tony glances at them and smiles, not bothering to parry.
+._Tony
+.:Good morning, ladies.
+..Donna laughs with Wan-Min.
+._DONNA
+>:You think he knows it's not
+.:morning?
+>.Tony continues past the market. A souped-up Honda, playing
+>.loud music and driven by two tough-looking Asian teenagers,
+..drives by him slowly.
+.\INT. benny's Liquor store - continuous
+>.Tony nods to the owner, BENNY, a middle-aged,
+>.friendly-looking man. Tony glances around the store, seeing
+>.only two tattooed wannabe-tough teenagers, BLACK YOUTH and
+..ASIAN YOUTH, browsing by the flavored vodka.
+._Benny
+>:A pretty day outside for you to
+.:come in here.
+._TONY
+>:It's just as pretty as all the
+.:other days.
+._BENNY
+.((smiling)
+>:Is that why you're here every day,
+.:Tony?
+..Tony stops for a moment to look at Benny.
+._TONY
+.:How's Victoria doing, Benny?
+._BENNY
+>:Oh, she's fine. Just finished up
+>:her first year at UCLA. I guess I
+>:should be thanking you for helping
+.:pay her tuition!
+._TONY
+.((sarcastic)
+>:You know me, I do all I can to
+.:help.
+>.Tony turns away to search for some whiskey. He walks by the
+>.two youths, who give the older man an amused and
+>.condescending look. Tony tries to ignore the look and looks
+>.up and down the store aisles, placing his finger on the
+..bottles as he brushes by them.
+>.The youths continue talking and laughing and BLACK YOUTH
+..lights a cigarette.
+._BENNY
+.:Excuse me! You can't smoke in here. 
+..They stop talking and look over, surprised.
+._BLACK YOUTH
+.:What's that, boss?
+..Benny looks uncomfortable.
+._BENNY
+>:I'm sorry, but you can't smoke in
+>:here. See that sign over there? I
+.:can't have this in my store.
+._BLACK YOUTH
+.:What you talking about, man?
+._ASIAN YOUTH
+.:It's just one cig.
+._BLACK YOUTH
+.:It ain't gonna hurt your store.
+._ASIAN YOUTH
+>:You really got a problem with one
+.:cig?
+._BENNY
+.:I know, I know, but...
+._ASIAN YOUTH
+>:What, you got a problem with us?
+.:That it?
+._BLACK YOUTH
+>:I'm your customer, you're supposed
+.:to be helping me out, man.
+._BENNY
+.:Listen, it's just the store rules.
+>.Tony, standing by a shelf, looks over to the counter, where
+>.the two youths are now standing threateningly in front of
+..Benny, who looks smaller than ever. Tony looks conflicted.
+._ASIAN YOUTH
+>:I think you gotta change these
+.:store rules.
+._BLACK YOUTH
+>:You don't want to be pissing off
+.:your customers, do you?
+._ASIAN YOUTH
+>:You don't want to be fucking with
+>:us, no way. You fuck with us, you
+.:fuck with Clarence Tran.
+>.Benny shrinks away, clearly fearful upon the mention of that
+..name. The Asian Youth seems pleased with his bravado.
+._BENNY
+.:Guys, it's not like that.
+>.There is an ugly silence. The Black Youth, quite a bit
+>.taller than Benny, takes a long drag of his cigarette and
+..blows it in the air above Benny's head.
+._BLACK YOUTH
+>:Let's get out of here. This place
+.:is all fucked, man.
+._ASIAN YOUTH
+>:Ain't gonna buy no more liquor
+.:here.
+>.As they walk out the Black Youth makes aggressive eye
+>.contact with Benny. He glances back at Tony with a look of
+..great disdain.
+._BLACK YOUTH
+.:Yeah, if you lucky.
+..He stamps out his cigarette on the floor as he leaves.
+._ASIAN YOUTH
+.:These fucking places, man...
+>.Tony avoids looking at Benny. It's hard to tell if his look
+>.is one of shame or disinterest. There is a long pause that
+..Benny finally breaks by exhaling.
+._BENNY
+>:It's like every day I got a new
+>:situation to deal with. My hand
+>:feels like it's always under the
+.:counter.
+>.He knowingly taps the wooden stock of a shotgun under his
+..counter.
+._TONY
+.:The kids don't stop coming.
+._BENNY
+>:Not recently. If it's not them it's
+>:the kids they sell it to. I tell
+>:you, walking home feels like I'm
+>:back in Vietnam, but they're
+.:needles instead of mines.
+>.Tony grabs one bottle of bourbon and one of vodka, and
+..brings it up to the counter.
+._BENNY
+.((CONT'D)
+>:I'm so glad Victoria is away from
+>:all this nonsense. She left at just
+.:the right time.
+._TONY
+.:Anytime's the right time.
+.\EXT. liquor Storefront - continuous
+>.Tony walks out, holding a paper bag with his purchases,
+>.framed by some graffiti on the wall to his right and a empty
+>.boot standing up in the alley to his left. The street looks
+..shabbier than when we saw it before.
+>.A black SUV drives by with its window open. A book is tossed
+>.out and hits the wall. Tony steps over and looks down at the
+..pavement to see the book: "Cracking the Coding Interview."
+>.Tony opens the front cover with his foot. The page is
+>.covered with scrawling notes, and the owner wrote, in large
+..red letters across the cover, "THIS IS BULLSHIT".
+.\INT. Trendy coffee shop - day
+>.Later that day, Tony enters the bright, spacious cafe full
+>.of chatting young professional types, clad in tech T-shirts
+..and Oxford shirts. Expensive laptops litter the tabletops.
+>.Tony looks around the shop for his friend but doesn't see
+>.him. He steps up to the counter manned by a female BARISTA
+..and studies it with some interest.
+._Barista
+.:Can I help you today, sir?
+>.Tony doesn't answer but keeps looking at the menu for a
+..while.
+._BARISTA
+.((CONT'D)
+>:Actually, we have a special today,
+>:we're offering a seasonal Mint
+>:Mojito Latte. We use special
+>:Indonesian beans for a full-bodied,
+>:kind of earthy taste, and it's one
+.:of our more popular--
+..TONY interrupts her.
+._TONY
+.:Green tea, please.
+._BARISTA
+>:I, uh, I see. How do you like your
+.:tea, sir?
+._TONY
+.:In a cup.
+>.From the side his friend REID MAYER approaches. Reid is
+>.white, well-built, about the same age, with silver temples
+>.and an avuncular look. He wears an open-neck shirt and khaki
+>.blazer, looking like a king next to the casual younger
+..people in the cafe.
+._Reid
+.:Tony, there you are.
+._TONY
+.:I didn't see you when I came in.
+._Reid
+>:I'm at a table behind that column
+.:over there. 
+..Reid stands back and smiles a bit.
+._Reid
+.((CONT'D)
+>:Now what happened to the famous
+>:Tony Kong situational awareness?
+.:Total focus, if I remember right?
+>.Tony gives him his first truly genuine smile, the smile of
+>.old friends forged by years of camarederie and shared
+..experiences.
+._TONY
+.:I get worse every year, Reid. 
+._Reid
+>:Not the first time I've told you
+.:you're out of practice.
+._TONY
+>:Not the first time I've told you
+.:it's entirely by choice.
+>.Tony and Reid sit together at a table, Reid leaning back on
+..the column with a large latte in hand. 
+._TONY
+>:I suppose I don't have to ask how
+.:the business is doing.
+._Reid
+>:There are more of these tech types
+>:pouring in every day. They all have
+>:money and they all want to look
+>:cooler than the next guy in the
+>:office. What better way to blow it
+>:than with premium martial arts
+.:lessons? 
+>.Tony delicately stirs a sugar cube into his tea and smiles
+..sarcastically.
+._TONY
+>:These sound like top-notch
+.:students. 
+._Reid
+>:Of course not. But it's a gold mine
+.:nonetheless.
+._TONY
+>:Maybe for them. Not every ship in
+>:this neighborhood is lifted by this
+.:tide, Reid.
+._Reid
+>:Say what you will, but these people
+>:are motivated. And they're willing
+>:to pay extra for the best. They
+>:want the expertise, the
+.:uh...authenticity.
+..Reid leans forward and looks at Tony seriously.
+._Reid
+.((CONT'D)
+>:I know how you feel about it. But
+>:there is a real place for someone
+.:like you.
+._TONY
+.((wryly)
+.:Someone with authenticity?
+._Reid
+>:Someone with real understanding and
+>:decades of experience. Tony, I
+>:could really fight in my younger
+.:days, but you?
+._TONY
+.:I don't fight. I never did.
+._Reid
+>:Perform, then. Years ago I always
+>:wanted you to teach me. I always
+>:wanted your advice. Now you can
+>:teach them, a whole new generation
+.:of students.
+..Tony leans back, looking away from his friend.
+._TONY
+>:The seasons turn and times change,
+>:but I'm still gonna refuse you.
+.:Same way I always have.
+._Reid
+>:Don't you ever think about the way
+.:things were?
+._TONY
+>:I don't like talking about the old
+.:days.
+._Reid
+.:Then why do you still talk to me?
+..Point taken.
+._TONY
+>:It's a nasty business, Reid. I
+>:don't want to spend more of my life
+.:bringing pain into this world. 
+._Reid
+>:If that's really what you think,
+>:I'm not sure how you get out of
+.:bed.
+._TONY
+>:That's why I don't like talking
+.:about it.
+..Reid stands up, looking sadly at his onetime comrade.
+._Reid
+>:You don't get a lot of chances to
+>:be really good at something, Tony.
+>:If you ever change your mind,
+>:there's always a place for you at
+.:my dojo. I'll see you around.
+._TONY
+.:Bye, Harry.
+>.Reid walks out as Tony finishes his tea. He looks around the
+>.coffee shop and stares at a mural on the wall, a
+>.1930s-New-Deal-style piece showing a diverse collection of
+>.workers rallying together. Next to it is a picture of an
+>.Asian worker (presumably from Indonesia) holding a basket of
+..coffee beans.
+.\Int subway car - late evening
+>.Cramped between a diverse group of Bay Area passengers on
+>.BART (a tableau similar to the mural), we meet LUCY MAO, 21,
+>.a pretty college student wearing a backpack, coming back
+>.home to Oakland from classes at SFSU. She's slim, not very
+>.physically intimidating, but seems to have a kind of wiry
+..strength. 
+>.Running off a few hours of sleep at most, exhausted by her
+>.day of classes and travel, she looks and feels like a
+>.squeezed lemon, pushed into the corner of the train car by
+..more assertive passengers.
+>.She is squashed between an older woman with a walker, some
+>.teenagers with headphones, and a few older, stressed-looking
+>.businessmen. The train stops and some finance bros enter,
+>.all talking loudly, clad in brightly-colored button-up
+..shirts, with one of them bent staggering in, looking sick.
+._Finance bro #1
+>:Damn, Connor, at least make it onto
+.:the train!
+._Finance bro #2
+>:I thought you were gonna puke back
+.:at the fucking bar, man!
+._Connor
+.:Nah, I'm good.
+._FINANCE BRO #1
+.((roars with laughter)
+.:He's good! He's fucking good!
+._FINANCE BRO #2
+.:You went so hard back there.
+._FINANCE BRO #1
+>:Bro, I haven't seen him do Happy
+>:Hour like that since St. Patrick's
+.:Day!
+._FINANCE BRO #2
+>:Oh yeah! Now that was some real
+.:shit.
+>.Connor backs up into Lucy without seeing her. At the other
+>.end of the train, two young PERFORMERS enter, both black,
+>.one carrying a boom box and the other wearing shorts and a
+..baseball cap.
+._lead Performer 
+>:Alright, ladies and gentlemen,
+>:you're in for a special ride today!
+>:My name is Andre and this is my
+>:friend Craig, and we are Lake
+>:Merritt's finest hip-hop dance
+>:group! We'd like to put on a little
+.:show for everyone here!
+>.As most of the train car looks towards them with interest,
+>.Backup Performer turns on some hip-hop music. Lead Performer
+>.stakes out some space and begins dancing. Lucy's phone
+..rings.
+._Lucy
+.:Hi, Donna.
+._DONNA (VO)
+>:When are you getting in today? Carl
+>:has to end his shift early today
+>:and I need someone manning the
+.:store.
+._LUCY
+>:Oh my god, I had no idea. I'm on my
+>:way back now. I had to wait in line
+>:for like 45 minutes at office
+.:hours.
+._DONNa (V0)
+>:Oh, I'm sorry to hear that, dear. I
+>:know how hard you work over there.
+>:But Yiming still hasn't left the
+>:hospital and I need as much help as
+.:I can.
+..The performers' song finishes.
+._lead PERFORMER 
+>:Alright, folks, if you could give
+>:us some donations, it would be much
+>:appreciated. We work hard bringing
+>:you the best dancing in the Bay
+>:Area and your donations help keep
+.:us going.
+>.They start walking with a hat held out down the train car. A
+>.few passengers throw in some coins. Lucy tries to keep
+..talking over them.
+._LUCY
+>:I know, I know, I really hope he
+>:gets well soon. I'll go straight
+>:there when I get off BART, I
+.:promise.
+._DONNA (VO)
+>:That's good, Lucy. I'll see you
+.:soon.
+..The performers reach Lucy as she is starting to hang up.
+._lead PERFORMER
+>:Hello there, pretty lady, can I get
+.:a donation?
+._LUCY
+>:Oh, I'm sorry. I don't have any
+.:change.
+._lead PERFORMER
+>:Come on baby, can't you give us a
+>:little something? Didn't you like
+.:our dance?
+._LUCY
+.:Uh, yeah, it was real nice...
+._lead PERFORMER
+.:Why don't you want to help us out?
+._LUCY
+>:It's not that, I just don't have
+.:any change. I'm sorry.
+>.The other passengers, including the finance bros next to
+>.her, start to stare. Connor starts bending over slightly,
+..his hands on his knees.
+._backup Performer
+.:You know how hard we work on this?
+._lead PERFORMER
+.:Why you gotta be like this?
+>.Lucy's polite exterior starts to crack. She waves her phone
+..a bit as she talks.
+._LUCY
+>:You know, even if I had change, I
+>:couldn't just give it away. I have
+.:to work hard for everything too.
+..Lead Performer looks her body up and down.
+._lead PERFORMER
+.:Oh yeah, where do you work?
+._backup PERFORMER
+>:That's real privileged of you,
+>:acting like you can't help someone
+.:else out.
+>.The finance bros start to laugh at this. Connor looks worse
+..than ever.
+._LUCY
+>:Ok, I am not privileged, and that
+.:has nothing to do with...
+._lead PERFORMER
+.:Look pretty privileged to me.
+._backup PERFORMER
+>:You're not the one busting your ass
+.:on the subway.
+._LUCY
+>:I work pretty hard, alright? Can
+>:you just leave me alone? There's
+.:other people in the car.
+._lead PERFORMER
+.((bitingly sarcastic)
+>:Oh sorry baby, I didn't know you
+.:wanted to be left alone.
+._backup PERFORMER
+.:Why don't you smile a little bit?
+..Lucy finally snaps and shouts.
+._LUCY
+>:Please just shut up and leave me
+.:alone!!
+>.Connor bends over and PUKES all over Lucy's shoes, with the
+>.vomit splattering her legs but missing the performers in
+..front of her.
+._FINANCE BRO #2
+.((roaring with laughter)
+.:Oh shit!
+._FINANCE BRO #1
+.:Connor for the win!
+>.They pat his back. The Performers look disgusted and turn
+>.around, leaving the train car. Lucy, still holding her
+>.phone, looks down with resignation. After having a rare
+>.outburst before, this was the straw that breaks the camel's
+..back. She simply can't be angry anymore today.
+.\Int donna's shop - night
+>.Lucy trudges into Donna's grocery shop, still wearing her
+>.backpack, her shoes and legs somewhat washed off but with
+..vomit stains still visible. The bell rings as she enters. 
+>.Donna is in the back of the store kneeling down, putting
+..items on the shelf, and stands up when she sees Lucy.
+._DONNA
+>:Lucy! There you are! You made good
+.:time.
+._LUCY
+>:I, uh, I came as fast as I could.
+.:Can I go put my stuff down?
+._DONNA
+.:Oh yes, of course!
+>.Lucy walks past a customer, who recoils at her smell. She
+>.enters a small room in the back, puts down her backpack, and
+>.goes to the bathroom. She pulls off her shoes and starts
+>.washing them. She pauses to look in the mirror at her tired
+..face.
+.\INT. DOnna's shop - a few hours later
+>.Lucy stands behind the counter, bored and tired. She glances
+..up at the clock, which reads 1 am.
+>.Two tattooed thugs in their mid-20s, WOOJIN and NICO enter
+>.the shop. Nico, the taller Hispanic one, wears a white
+>.tank-top, while Woojin, the shorter Korean one, wears a
+>.Raiders hat and T-shirt. They are older and more
+>.experienced-looking than the wannabe youths who went into
+>.Benny's liquor store; actual enforcers for the infamous
+..Clarence Tran.
+._WOOJIN
+.:We need to talk to your boss.
+._LUCY
+>:Uh, I'm sorry, is there something I
+.:can help you with?
+>.Nico turns the sign on the door to Closed, glancing out the
+..window for any passersby.
+._WOOJIN
+.((points)
+.:Is Yiming here? Is he in the back?
+._LUCY
+.:No, it's just Donna. I don't...
+._WOOJIN
+.:Thanks for the help.
+>.Woojin throws some change in the tip jar. Nico and Woojin
+>.simply turn and start walking slowly towards the back. Lucy
+..senses the danger, but decides not to back down.
+._LUCY
+>:Listen, I'm sorry, but I can't let
+>:you go back there. What is the
+.:problem?
+>.Woojin looks back at it with a slightly amused smile,
+..surprised that this young woman dares to talk back to him.
+._WOOJIN
+.((calling out)
+.:Donna! Donna!
+..Donna comes running out of the back and turns white.
+._DONNA
+.:Oh, hello there! 
+..She looks nervously at Lucy.
+._DONNA
+.((CONT'D)
+>:You know I didn't expect you
+.:gentlemen during store hours.
+._WOOJIN
+>:You know, me neither. Matter of
+>:fact, I was expecting to blaze a
+>:little, play some Overwatch, and
+>:eat a bunch of fuckin' pretzels
+>:tonight. But instead we gotta come
+>:out to this shithole because your
+>:shithole husband hasn't paid us in
+.:a week. Where's Yiming?
+._Nico
+>:Mrs Hu, your husband's been sowing
+>:the wind. He knew he would have to
+.:reap our fury sooner or later. 
+._DONNA
+>:You don't understand, he's been
+>:very sick! Last week
+&:___________________________________
+&:___________________________________
+.:_____________________________
+._WOOJIN
+>:That's a real shame, Donna. Maybe
+>:if you told Clarence about it when
+>:it happened he might have given you
+>:a break. He's a pretty sympathetic
+.:guy. But it's too fucking late now.
+._Nico
+.((deadpan)
+>:Three days, six hours, and twelve
+.:minutes late.
+._WOOJIN
+.:Money's due. That's it.
+._DONNA
+>:Please! Can you talk to Clarence
+>:and tell him! We have to deal with
+>:the hospital bills too, now! We are
+.:working on it, I promise!
+>.Nico keeps staring straight at Donna, while Woojin takes a
+..long, nostalgic look around at the store.
+._WOOJIN
+>:I used to go to a little store like
+>:this every day when I was little.
+>:Pick up some candy and a Spider-man
+>:comic. The old woman who ran it was
+>:real nice to me. Except when I was
+>:thirteen years old, and I came in
+>:smelling like weed, and she told me
+>:I was a little delinquent and I
+>:needed to get the hell out of her
+>:store. All this in Cantonese. I
+>:don't even speak fucking Cantonese.
+>:Anyway, next week I snuck in and
+>:took a bunch of Snickers while Jose
+.:here distracted her.
+>.Donna looks confused, while Nico silently nods, as if he
+>.knows this story well and thinks it makes perfect sense.
+..Woojin looks at Donna sympathetically.
+._WOOJIN
+.((CONT'D)
+>:But somehow, I still have good
+>:memories of that place. I respect
+>:her now for being a hardass with
+>:principles. So, I'm gonna give you
+>:two days to get us the money.
+.:Alright?
+._DONNA
+.((relieved)
+>:That will be fine! I'll talk to
+.:Yiming tomorrow!
+._WOOJIN
+.:Good. I'm ecstatic.
+._Nico
+.:Like the Ecstasy of St. Teresa.
+._WOOJIN
+>:I think I'm gonna go home and jerk
+>:off while I'm still full of this
+.:loving feeling.
+>.They turn away to leave. Woojin, however, steps up to the
+..counter.
+._WOOJIN
+.:Hey, give me a pack of the Camels.
+..Lucy glares at him.
+._WOOJIN
+>:You seem to feel pretty strongly
+>:about smoking. Don't worry, I've
+>:seen the videos with the fucked-up
+.:black lungs and I'm ok with it.
+>.Donna looks at Lucy, eager to get the two men out of her
+..store.
+._DONNa
+.:Go on.
+>.Lucy silently gets his cigarettes and continues to glare at
+..him.
+._LUCY
+.:That'll be $6.19.
+>.Woojin looks amused, and glances back at Nico, who remains
+..impassive.
+._Nico
+>:Don't blame her for being a free
+>:thinker. She hasn't been
+>:brainwashed by Humphrey Bogart and
+>:Jean-Paul Belmondo and Big Tobacco
+.:to think smoking is cool.
+..Woojin looks at Nico with disbelief, who shrugs.
+._Nico
+>:Read some Chomsky. You'll learn all
+.:about it.
+._WOOJIN
+>:Smoking is cool. And it gives me
+>:something to do when I don't want
+>:to talk to anyone. Sorry I don't
+>:spend my money on fucking lettuce
+.:and smoothies.
+._NICO
+>:I won't apologize for the amount of
+.:fiber I eat.
+>.Woojin pulls out his wallet, then puts down $10. He grabs a
+>.bag of M&Ms from the counter and leaves with Nico. Nico
+>.glances up at the bell as he leaves, somewhat interested in
+..the device.
+..There is a long silence.
+._LUCY
+>:You didn't tell me you were paying
+.:these people.
+._DONNA
+>:This isn't something you were
+>:supposed to see. Yiming handled all
+.:this.
+._LUCY
+.:I can't believe this!
+._DONNA
+>:Honey, this is what it takes to run
+>:a business here. Everyone has to do
+.:it. Think of it as a private tax.
+._LUCY
+>:Are you crazy? Clarence Tran? This
+>:is really dangerous. I can't
+>:believe you're in business with
+.:him. I just...
+._DONNA
+>:You grew up here and didn't know
+.:about this?
+..Lucy is silent, a little ashamed.
+._DONNA
+.((CONT'D)
+>:I know you spend your time at
+>:school now, and things seem very
+>:idealistic and in all your class
+>:they talk about changing the world
+>:or making the world a better place.
+>:And I believe you will. But right
+>:now, this is the reality we deal
+.:with. There's no other way.
+._LUCY
+>:Has anyone ever tried to...you
+.:know, take him down?
+..Donna laughs.
+._DONNA
+>:What, take down Clarence Tran? Like
+.:in the Intouchables?
+._LUCY
+.:The Untouchables?
+._DONNA
+>:Lucy, you're acting very strange.
+>:You're not a little girl anymore.
+>:You know about the cops around
+.:here.
+._LUCY
+.:I didn't mean the cops.
+._DONNA
+>:There are no heroes around to kill
+>:the dragons, either. It's not
+.:wuxia.
+._LUCY
+>:Please don't make fun of me. I just
+>:think it's ridiculous that we
+>:tolerate it and no one does
+>:anything. And for the record, I
+>:know about Clarence Tran. I see his
+>:guys on the street, I know he runs
+>:everything around her. But I didn't
+>:think he reached his tentacles in
+.:here.
+._DONNA
+.((smiles after a beat)
+>:You talk so well. It reminds me of
+.:your mother. 
+..Donna goes to the corner to pick up a broom.
+._DONNA
+>:You've had a long night. You should
+.:go home, I can clean up.
+>.Lucy looks dejected. She closes up the cash register,
+..removes her apron, and starts to pack up.
+>.We see her coming out of the back with her backpack. Donna
+..has stopped sweeping and looks thoughtful.
+._DONNA
+>:You know, it's funny what you said
+.:about wuxia. 
+._LUCY
+.:You were the one who said wuxia.
+._DONNA
+>:It's just that you were talking
+>:about some kind of hero. Like in a
+>:wuxia movie. Someone who could
+>:fight a man like Clarence Tran. I
+>:know a man who lives here. And when
+>:he was younger he was more like one
+>:of those heroes than anyone I ever
+.:met.
+._LUCY
+.:Who is he?
+._DONNA
+.((smiles)
+>:Oh, he's older now. He doesn't
+>:fight. Unless you tried to take
+.:away his liquor, of course.
+._LUCY
+>:Are you talking about Mr. Kong? The
+.:stories are true?
+._DONNA
+>:They don't come close. They
+>:couldn't even make a wuxia movie
+>:about him without making him a
+>:wizard. No one would accept it as
+.:realistic.
+._LUCY
+>:I though the neighborhood kids were
+.:just making fun of him. 
+._DONNA
+>:I met someone who knew him when he
+>:was a student in China. He said
+>:that the police wanted to arrest
+>:Tony for fighting in public. They
+>:sent a squadron of cops with clubs
+>:to surprise him when he was bathing
+>:at a river. Tony had a towel and
+>:bar of soap with him. It wasn't a
+.:fair fight.
+..She chuckles to herself, enjoying the legend she is weaving.
+._LUCY
+>:If this is true, how come my karate
+>:master has never mentioned him? If
+>:there was really a world-class
+>:martial arts warrior living in our
+>:neighborhood, I think I would have
+.:heard about it.
+._DONNa
+>:Karate? That Japanese shit? Your
+>:"master" wouldn't know a real
+>:martial artist if he got his ass
+>:kicked by one! Which he would, if
+>:he tried to fight with karate.
+>:Besides, Tony doesn't tell many
+>:people about it. He's, uh...what do
+.:they say? Hung up his spurs.
+._LUCY
+>:But it's like you said, he's
+>:someone who could actually do some
+>:good. Even if it does sound a
+.:little crazy.
+._DONNA
+>:He wouldn't even like me telling
+>:you this. Only a few of us
+>:old-timers even know about it. He's
+>:a man who likes his privacy.
+>:Besides, none of these new martial
+>:artists respect tradition anyway.
+.:They'd probably laugh at Tony.
+._LUCY
+.:Why doesn't he fight anymore?
+._DONNA
+>:You'd have to ask him. But don't!
+>:He wouldn't tell you if you did.
+>:Not that you should! You should
+>:keep focusing on your studies. And
+>:on working here. I have to deal
+>:with this business with Clarence
+>:Tran now, I'll need even more of
+.:your help in the store.
+._LUCY
+>:I'll keep helping. But caving to a
+>:gangster isn't the way to deal with
+>:this business. I'm going to handle
+.:it myself.
+._DONNA
+.:Lucy!
+..She leaves in a huff, slamming the door.
+._DONNA
+.:Fucking college kids.
+.\Int. karate dojo - morning
+>.Lucy kicks the air in front of her, one in a line of
+>.students practicing. She is dressed in her karate robes, a
+..green belt around her waist. 
+>.In the center of the karate mat in this dojo, we see the
+>.instructor, MASTER DOUGLAS, 42, a tall, black, black-belted
+>.man who is thinner than expected for a skilled karate
+..master. 
+..He paces around, watching the students kick.
+._MASTER DOUGLAS
+>:Faster! This is about speed! It
+.:doesn't need to be that high!
+>.Lucy kicks the air over and over, clearly quicker and better
+..than the other students.
+._MASTER DOUGLAS
+.:Don't leave yourself exposed!
+..The other students seem to struggle. Not Lucy.
+._MASTER DOUGLAS
+.:That's enough!
+..The students all stop, slumping.
+._MASTER DOUGLAS
+.: Kiotsuke! 
+..Now they stand at attention.
+._MASTER DOUGLAS
+>:Students, I'm pleased with your
+>:progress. As long as you have been
+>:keeping up your fitness
+>:requirements at home, you'll be
+>:well placed for the belt exam next
+.:Friday.
+..He glances briefly at Lucy, his star pupil.
+._MASTER DOUGLAS
+.((suddenly shouts)
+.:Got that, Kevin?
+>.Kevin, a doofy looking, redheaded white college kid, starts
+..suddenly.
+._Kevin
+>:I've been practicing every day,
+.:sensei!
+._MASTER DOUGLAS
+>:Practicing the ___ kick is good
+>:alone. But perfect technique means
+>:nothing if you can't use it
+>:effectively  against your opponent.
+>:We're going to break out into pairs
+>:to spar. I want you to focus on
+.:using the ___. Understood?
+._All students
+.:Yes, master!
+._MASTER DOUGLAS
+.((beat)
+>:Good. First I need two students to
+.:demonstrate for us. Any volunteers?
+..Lucy's hand shoots up.
+._MASTER DOUGLAS
+.((smiling)
+.:It has been a while, Lucy. Step up.
+..He looks around. Kevin reluctantly raises his hand.
+._KEVIN
+.:Sensei, I'll go.
+._MASTER DOUGLAS
+.((very subtle smile)
+.:Good. Let's begin.
+>.Lucy and Kevin face each other, then bow. Kevin is about 6
+..inches taller than Lucy, but looks scared.
+._KARAte Student #1
+.:Come on Kevin, you got this!
+._karate Student #2
+.:Yeah man, let's go!
+._MASTER DOUGLAS
+>:Kevin. Focus and remember to
+>:protect your upper body. Don't
+.:allow an easy strike.
+>.The two students circle as the crowd calls out. Kevin seems
+>.to be willing himself into acting. Lucy simply waits,
+..looking intently.
+._KARATE STUDENT #1
+.:Go, go!
+._MASTER DOUGLAS
+.:Focus, Kevin!
+..There is a tense silence. Finally Kevin strikes. 
+>.His move is exceptionally slow. Lucy easily dodges it and
+..sends a tremendous, spectacular kick right into his face. 
+..He keels over instantly.
+._karate STUDENT #2
+.:Oh shit!
+._LUCY
+>:Oh my god, I'm sorry! Oh god, are
+.:you okay?
+>.Master Douglas steps forward. Some in the crowd laugh,
+..others seem concerned.
+._MASTER DOUGLAS
+>:Alright everyone, calm down! Stay
+.:back!
+..Lucy stands over Kevin, who is moaning lightly.
+._LUCY
+>:Kevin, I'm really sorry! I didn't
+.:mean to do that!
+._MASTER DOUGLAS
+.:Alright, it's ok. He's ok.
+.\int. Master douglas's office - afternoon
+>.Through the glass of his office, students are seen in the
+..gym picking up their bags and leaving. Class is over
+>.A group of students are seen around Kevin, who rubs his
+..face.
+._LUCY
+>:Sensei, I'm so sorry about that. I
+.:just...kind of went for it.
+._MASTER DOUGLAS
+.((laughing)
+>:Oh, Lucy, I shouldn't be laughing,
+>:but I'm only human. It's alright,
+>:ok? I know you're just trying to be
+.:the best, and Kevin can take it.
+._LUCY
+>:Thank you. I'll try to tone it down
+.:in the future.
+._MASTER DOUGLAS
+>:You don't have to tone it down, you
+>:just have to think about when
+>:you're sparring versus when you're
+>:competing. But that kind of drive
+.:is good!
+..He sits down behind his desk, and opens up his computer.
+._LUCY
+>:Master Douglas, how long have you
+.:been teaching?
+._Master douglas
+>:Karate? Oh, I'd say..22 years. 19
+.:years of judo.
+._LUCY
+>:So would you say you know most of
+>:the martial artists and masters in
+.:the Bay Area?
+._MASTER DOUGLAS
+.((thinking)
+>:Yeah, I'd say so. Definitely in
+>:East Bay. It's not the biggest
+>:community. Although usually it's
+>:other people recognizing me. Ain't
+>:too many black guys in this line of
+.:work. How come?
+._LUCY
+.((hesitant)
+.:Have you ever heard of Tony Kong?
+._MASTER DOUGLAS
+>:Tony Kong? Why you asking about
+.:that?
+._LUCY
+.:Just historical curiosity.
+._MASTER DOUGLAS
+>:Yeah, I've heard of him. Never met
+.:him, he retired before my time.
+._LUCY
+.:Retired?
+._MASTER DOUGLAS
+>:Well, I don't know if you call it
+>:retired. I've heard from some of
+>:the old-timers that he quit. Left
+>:and never came back, didn't want
+>:anything to do with kung fu,
+.:martial arts, none of it.
+._LUCY
+.:Why would he do that?
+._MASTER DOUGLAS
+>:Even the old-timers don't know.
+>:Don't know or don't say. They still
+>:talk about him, though. Hard for
+>:any master to measure up to him. He
+>:casts a shadow over all of us. Has
+.:for over 30 years.
+._LUCY
+.:So the stories are true?
+._MASTER DOUGLAS
+.((smiling)
+.:Historical curiosity, you said?
+._LUCY
+>:Yeah. I just think it's weird that
+>:I've never heard of this great
+.:master before. 
+._MASTER DOUGLAS
+>:I just wish I could have seen him.
+>:Our world was robbed of a legend
+>:when he left. It would be like if
+>:Achilles stayed in his tent
+.:forever.
+.\Ext. Outside of tony's apartment - sunset
+>.Tony comes out of his house, wobbling a little holding a
+>.beer and a tattered copy of "Romance of the Three Kingdoms."
+>.He looks around at the street, exhales, and takes a seat on
+..his porch. Things seem calm. 
+>.He takes a swig of his beer, props open his book, and props
+>.his feet up, only the tips of his shoes edging out into the
+..light from the shadow under his porch.
+._LUCY (OS)
+.:Excuse me, Mr. Kong?
+>.Lucy, changed out of her karate robes, is standing in front
+..of his porch.
+._TONY
+.:Good morning. What's the matter?
+._LUCY
+>:Could I talk to you about
+.:something?
+..Tony shrugs.
+._TONY
+.:I don't see why not. Come up.
+..Lucy hesitantly climbs the first step.
+._TONY
+.((CONT'D)
+>:You live in this neighborhood,
+>:right? You work at Yiming's store,
+.:with Donna?
+._LUCY
+>:Yes, I do. My name's Lucy Mao. I've
+>:lived here almost all my life and
+>:it's funny, I don't think I've ever
+.:talked to you.
+._TONY
+>:That's alright. Usually I try to
+>:keep it that way. That's what I
+>:like about Donna, you know. I've
+>:known her for a long time and she
+>:always respects privacy. She's not
+.:the type to gossip.
+._LUCY
+>:She's really great. I'm lucky to be
+.:working with her.
+._TONY
+>:And besides, not many people come
+.:to talk to me, either.
+._LUCY
+>:I actually want to ask you
+.:something.
+._TONY
+.:People do that even less.
+._LUCY
+>:You know who Clarence Tran is.
+.:Don't you?
+._TONY
+.((frowning)
+>:I don't think there's much I can
+>:tell you about him. I stay out of
+.:that sort of thing.
+._LUCY
+>:He runs everything in this
+>:neighborhood. He owns the strip
+>:club down the street, he
+>:intimidates all the local
+>:businesses, he's got all the
+>:dealers and kids on the street
+.:working for him.
+._TONY
+>:Yeah. That's how it's been for a
+>:while now. You just finding this
+.:out? You in college right now?
+._LUCY
+.((prickly)
+>:That has nothing to do with it. I'm
+>:from here, I know about him. I did
+>:just find out that Donna is paying
+.:him protection money.
+._TONY
+.((takes a swig of beer)
+>:Doesn't surprise me. No other way
+.:for them to run the business.
+._LUCY
+>:You see, that's the problem. People
+>:like you, they just shrug and move
+>:on and don't do anything about it.
+>:They tolerate it every day, and
+.:they have for years.
+._TONY
+>:What do you mean, people like me?
+>:Old people? People who've lived
+.:here for decades?
+._LUCY
+>:People who can change things.
+>:People who can fight back against
+.:injustice.
+>.There is an imperceptible change on his face--the look of a
+>.man who already knows what she will say but who tries to
+..give her nothing.
+._TONY
+>:I have no idea what you're talking
+.:about.
+..Lucy approaches the porch and climbs up one step.
+._LUCY
+>:Mr. Kong, you know exactly what I
+>:mean. I know you try to bury it,
+>:but I've heard stories about you
+>:for years. Stories about the guy
+>:who lives down the street, the old
+>:guy who drinks too much, who used
+>:to be some sort of kung fu legend.
+>:Growing up, I always thought the
+>:other kids were making up stuff
+>:because no one knew what you did or
+>:where you came from. But Donna told
+>:me about you. She told me about who
+.:you used to be.
+._TONY
+>:Listen very carefully, Miss Lucy
+>:Mao. Everything you've heard about
+>:me is wrong. They're all a bunch of
+>:goddamn lies. I don't know why
+>:Donna would tell you something like
+.:that. 
+._LUCY
+>:Please don't deny it. I'm not here
+>:to convince you of something we
+>:both know is true. I'm here because
+.:I want your help. 
+._TONY
+>:See, that's something people never
+>:want from me. Because I don't do
+.:it.
+._LUCY
+>:Clarence Tran shouldn't be able to
+>:control Chinatown with no one doing
+>:anything. I want to resist it. I
+.:want to act.
+..Tony starts laughing heartily, taking another swig of beer.
+._LUCY
+.((CONT'D)
+.:And I need your help to resist him.
+>.He does a dramatic spit take, partially hitting Lucy, then
+>.grins and chuckles a bit, amused with himself for doing such
+..an over-the-top maneuver. 
+._TONY
+>:I thought I might have a problem
+>:with you, Lucy. But now I know I
+>:won't. What you're saying is
+.:ridiculous.
+._LUCY
+>:I know it doesn't sound
+.:very...conventional.
+._TONY
+.:Or well thought out.
+._LUCY
+>:Everyone knows you're a great
+>:master! I've trained in karate for
+.:years--
+._TONY
+.:You mean Japanese swing dancing?
+._LUCY
+.:I want you to train me!
+..Tony leans back in his chair. There is a beat.
+._TONY
+.((smiles)
+>:Thank you for making an old man
+>:laugh. I haven't laughed that hard
+>:sober in a while. You really
+.:brought joy into my life.
+..Lucy climbs up another step.
+._LUCY
+>:Mr. Kong, I'm serious. I will be
+>:your student. I will train and
+>:study. Together we might be able to
+>:take him on, take on that whole
+.:organization! 
+._TONY
+>:Sure, you're the Chinese Eliot
+.:Ness.
+>.Lucy looks exasperated that all the older people in
+..Chinatown seem to love The Untouchables.
+._Lucy
+>:At least we could make a dent in
+>:it! Get some of his soldiers off
+>:the street. Protect some of the
+.:businesses here.
+._TONY
+>:What do you think this is, Way of
+>:the Dragon? You think you can fight
+>:the Mob with my mystical kung fu
+>:skills? That they're going to put
+>:down their guns and confront you,
+.:mano a mano?
+._LUCY
+>:Are you saying you couldn't fight
+.:them and win?
+._TONY
+.((burps drunkenly)
+>:That's a very unoriginal strategy
+>:there, dear, and it won't work. I
+>:don't fall for cheap ego plays,
+.:even after a couple of beers.
+._LUCY
+>:Mr. Kong, I've heard stories about
+.:your skills...
+._TONY
+>:And they're bullshit! Just like
+>:your plan! If you've heard anything
+>:about me, you probably know that I
+>:don't fight, and I don't teach.
+>:When you were snooping around about
+>:me, putting your ear to the street,
+.:did you hear anything about that?
+._LUCY
+.((grudgingly)
+>:Yes. They said you haven't fought
+.:for years.
+._TONY
+>:Exactly! I wouldn't train you if
+>:you just came here and gave me a
+>:thick wad of cash for a few casual
+>:lessons! Much less for some
+>:pie-in-the-sky, dumbass plan to
+>:take down the biggest crime boss in
+>:Oakland with our magical fists of
+.:fury!
+._LUCY
+>:You see, that's why you should help
+>:me! I'm not doing this for some
+>:stupid, selfish reason! This isn't
+>:about me, it isn't about training,
+>:it's not even about you or what you
+>:used to be! It's about this
+.:neighborhood. You can't not care.
+._TONY
+.((beat)
+>:Listen, I appreciate the laugh, but
+>:I'd like to get back to my book and
+.:my beer. Run along now.
+>.Lucy bristles a bit at the condescension, but doesn't do
+>.anything. As usual, she accepts the situation despite her
+..own feelings, turning down one step of the porch.
+._LUCY
+>:I don't know what happened years
+>:ago, or why you've shriveled into
+>:this. But I know you could still
+.:help me. 
+._TONY
+.:SAYS SOMETHINGh
+..Lucy leaves. 
+>.Tony leans back in his chair, in deep thought. He hasn't
+..thought about this part of his life for a while.
+>.He picks up the book again, examining the cover. He's in no
+>.mood to read, especially about mythic heroes. He puts it
+..down.
+./MATCH CUT TO:
+.\Int. TONY's APARTMENT - that night
+>.Tony puts an empty shot glass down on his table. As he pours
+>.himself another stiff shot of whiskey, he seems to be
+>.valiantly fighting against how pathetic he knows he truly
+>.is. He lurches over to his couch and lays right on top of
+..the book he was reading. 
+>.He switches on the TV, switching channels past sports and
+>.the local news. He settles on a Spanish telenovela. His eyes
+>.seem lazy; it isn't clear if his lack of alertness is due to
+>.drinking, thinking about something else, or not speaking
+..Spanish.
+>.Tony lilts back on the couch, trying to will himself into
+>.peaceful, drunken sleep. He hears a sound outside and with
+..uncommon quickness goes to the door. It has started raining.
+>. He takes a look at the empty chair on the porch, then
+..clutches his mouth.
+..He runs to the bathroom and throws himself on the toilet.
+./CUT TO:
+>.A view of Tony's bedroom, an immaculately made, empty bed
+>.with an empty wooden chair next to it. The sound of his
+>.vomit is heard from the next room.  A shocking contrast to
+>.the messiness of his apartment, and melancholy in its
+>.conspicuous emptiness. Today was supposed to be a relaxed,
+..more mature night, and his now organized room reflects that.
+..Only Lucy's revelation sparked the descent.
+>.Tony, now in the kitchen, pours himself a fairly strange
+>.looking mixture of tomato juice, coconut water, and iced tea
+>.from a bottle. He drinks it with no small look of disgust,
+..and walks over to his window.
+>.He looks outside at the light rain coming down. The lights
+..ringing Lake Merritt shine through the window onto his face.
+>. He shuts the blinds forcefully, and they sway after being
+..shut, letting moving panes of light shine onto his face.
+.\Int. Chinatown church - same night
+>.A dark church, with only a sliver of light coming from under
+>.a doorway in the back. We linger on that doorway, wondering
+..what terrible thing lies behind it.
+>.At the front of the church, another door opens, spilling
+>.light into the dark pews and pulpit. The chapel looks like
+>.something out of John Woo's "The Killer." Through the
+>.doorway enters ANGELO, early 40s, a bald, Italian made man
+>.straight out of "The Sopranos." He shivers with fear. Woojin
+..and Nico come behind him, closing the door. 
+>.On the other side of the church there is a sliver of light
+..coming out from under a door.
+._ANGELO
+.((terrified)
+.:I'm not going over there.
+._WOOJIN
+>:Relax, it's not like we keep the
+>:bolt cutters back there. We gotta
+.:around the the back for those.
+._ANGELO
+>:I don't give a fuck. Just kill me
+.:now.
+._WOOJIN
+>:Clarence just wants to talk to you.
+.:Stop being so morbid.
+._ANGELO
+.:I'm not going. I'm not gonna move.
+>.Woojin rolls his eyes and looks at Jose, thinking for a
+..second.
+._WOOJIN
+>:Alright, how's this. I'll make you
+>:a deal. You can stay where you are
+>:and you won't have to go back
+>:there. But that means I get to cut
+.:your dick off.
+._ANGELO
+.:What? Oh, fuck no! No!
+._WOOJIN
+.:Fair is fair!
+._Nico
+>((touching Angelo
+>(sympathetically on the
+.(arm)
+>:What does it matter? You'll end up
+.:dead anyway. Same destination.
+._WOOJIN
+>:Plus I can pin it to the wall in
+>:the back, like a good luck charm.
+.:Our own little crucifix, eh?
+._Nico
+.((wrinkling his nose)
+.:It'll probably shrivel up.
+._WOOJIN
+>:Hey asshole, what do you know about
+>:dick-based upholstery? It'll be
+.:fine.
+._ANGELO
+>:Ok. I'll talk to him. Just please
+.:stop with all this shit.
+._WOOJIN
+>:You drive a hard bargain, Angelo.
+.:But I accept.
+>.They proceed down the aisle, under the watchful eye of the
+..crucified Jesus.
+.\Int. Backroom of church - night
+>.Nico opens the door for Angelo, who opens his arms to greet
+..the offcamera Clarence Tran.
+._ANGELO
+.:Listen, Clarence, I..
+>.A KNIFE flies through the air and lodges itself deep into
+..Angelo's thigh.
+..Angelo grabs his leg and collapses.
+._Angelo
+.:Oh fuck!
+..Woojin looks not surprised but annoyed.
+._WOOJIN
+>:Jesus, a little warning? You could
+.:have hit me!
+./CUT TO:
+>.CLARENCE TRAN, early 40s, lean, hawkish, sprawling over a
+>.large wooden desk wearing a light gray, open-neck suit and
+..gold-rimmed glasses. He stands, revealing his height.
+._Clarence tran
+.:Only if I wanted to.
+..He motions with his head for Nico to shut the door.
+._CLARENCE TRAN
+.((CONT'D)
+>:Angelo, I remember a time when I
+>:was a kid when the Mafia was like a
+>:dragon. They were untouchable. All
+>:the pearl-clutchers could talk
+>:about was how we were ever gonna
+>:get rid of them. Even out here all
+>:the Asian gangs were subordinate to
+>:them. I remember my father smiling
+>:as some fat Italian fuck sent over
+>:from Las Vegas called him a chink
+.:to his face. He had to take it.
+>.Clarence now stands directly over the wounded Angelo,
+..glowering in his face.
+._CLARENCE TRAN
+.((softly)
+>:But now it's just you, isn't it? No
+>:one is left to come for you. I did
+>:what the FBI and the SFPD never
+>:could. I rooted your kind out of
+.:this city, and the whole Bay.
+._ANGELO
+>:I swear it's not gonna happen
+>:again. I'm gonna get out of town
+.:just as fast as I can, I promise...
+._CLARENCE TRAN
+.:Get up!
+._ANGELO
+.:I fucking can't. My leg--
+._CLARENCE TRAN
+>:Get up now! You can fight, can't
+.:you? What kind of a man are you?
+..Angelo simply clutches his leg, pleading with his eyes.
+._CLARENCE TRAN
+>:Get up now or you'll never get up
+.:again.
+>.Angelo weakly pushes himself up. Nico helps pull him to his
+..fight, then steps aside.
+._WOOJIN
+.:He's got a bit of a handicap, boss.
+._CLARENCE TRAN
+>:I want to see if their grand
+.:tradition dies without a fight.
+..Clarence moves into a fighting position.
+._CLARENCE TRAN
+>:Land a blow on me, Angelo, and I'll
+>:let you walk out with the keys to
+.:my car. Just one blow.
+>.Angelo tries to collect himself somewhat, and raises his
+..fists. 
+>.As soon as he does so, Clarence hits him--one chop moving
+..aside his fist, and another chop to the side of his neck.
+>.Angelo falls against the door, catching himself from
+>.falling. He pushes himself forward, flailing wildly with his
+..fists. 
+>.Clarence easily dodges it, striking his arm again and giving
+..a great kick to the back of his leg.
+>.Angelo yelps and collapses to his knees, Clarence behind
+..him. 
+>.Instead of finishing him, Clarence paces around him like a
+>.predator. With contempt he pushes Angelo onto his back using
+..just the tips of his fingers. 
+..Angelo looks straight up at the ceiling, knowing he is done.
+>.Clarence smiles as if he beat a child's arcade game, and
+..steps lightly over to his closet.
+._CLARENCE TRAN
+>:What else have you got for me? Any
+.:trouble making your rounds?
+>.Clarence opens up the closet to reveal a classic beige
+..trenchcoat hanging from a hook, and a bucket underneath it.
+._WOOJIN
+>:Well, after Yiming Hu didn't pick
+>:up again, we went over to the shop
+>:to talk to him. Turns out he's been
+>:sick for a week and his wife has
+.:been running it.
+>.Clarence puts the trenchcoat on over his suit jacket, then
+..reaches into the closet to take out two white gloves.
+._CLARENCE TRAN
+>:I see. Well that does explain the
+>:absence pretty well. That place
+>:hasn't missed a payment in 15
+.:years. What's he got?
+._WOOJIN
+>:He's been in the hospital with
+.:____. 
+._CLARENCE TRAN
+>:What did his wife say? She's still
+>:gotta pay us at some point. You let
+>:one of these dinky little stores
+>:slide, and your grip loosens. You
+>:end up like one of these guys over
+.:here.
+._WOOJIN
+>:I said we'd give her two days to
+.:come up with it.
+>.Clarence pulls out a large knife from the drawer in the
+..closet.
+._CLARENCE TRAN
+>:That's good. You made the right
+.:call there.
+>.Clarence picks up the bucket from the closet and carries it
+..over to Angelo, the knife in the other hand.
+._CLARENCE TRAN
+>:Nothing wrong with showing them the
+.:quality of mercy now and then.
+>.Clarence picks up Angelo's head by his hair, then holds his
+..throat over the bucket.
+._ANGELO
+.:Oh, Jesus...
+>.Clarence SLICES his throat open like he is slaughtering a
+>.pig. Blood sprays over the bucket, some splattering onto his
+>.trench coat. He holds his head over the bucket with his now
+..stained white gloves, delicately letting the blood drip out.
+._WOOJIN
+>:You didn't have to do that
+>:yourself, boss. We could have taken
+>:him out back, it would have been no
+.:problem.
+._CLARENCE TRAN
+>:Angelo here is a special case. I
+>:wanted him here so I could do it
+.:myself.
+>.Suddenly Clarence's phone starts ringing, a special romantic
+..song chosen as the ringtone for his wife.
+._CLARENCE TRAN
+.:Well, shit.
+>.Clarence pulls up Angelo's body and buries his head in the
+..bucket. He stands up and starts pulling off his glove.
+._CLARENCE TRAN
+.:Come help me with this.
+>.Nico gamely comes over and pulls one of the gloves off, then
+..tosses it onto Angelo's head.
+>.Clarence opens up his trenchcoat and pulls his phone out of
+..his suit jacket.
+._CLARENCE TRAN
+.:What is it?
+.\Int. Expensive tran mansion - same time
+>.Clarence Tran's wife, SYLVIA TRAN, late 30s, beautiful,
+>.white but dark-haired, a formidable woman with no illusions
+>.about her husband, lies on the couch in their expansive
+..house wearing a cocktail dress.
+._Sylvia
+>:If I'm calling you that means you
+.:forgot.
+.\Intercut - phone conversation
+._CLARENCE TRAN
+.:Yeah, I know.
+._SYLVIA
+>:Why do you buy these tickets if
+.:you're just going to miss it?
+>.Nico helps pull the trenchcoat off Clarence as he keeps
+..talking into the phone.
+._CLARENCE TRAN
+.:I had to work late tonight.
+._SYLVIA
+>:I know this happens sometimes but
+>:this was really important tonight,
+>:Clarence. It's hard for me to keep
+>:explaining to people why I miss
+>:these events. We're not going to
+>:get to meet Elon Musk or the mayor
+.:for a while.
+._CLARENCE TRAN
+.((glances at his Rolex)
+>:I'm almost done here. If I drive
+>:extra fast from the office we
+.:should be able to make half of it.
+._SYLVIA
+>:Are you dressed? Don't tell me too
+.:much if you don't have to.
+._CLARENCE TRAN
+>:Yeah, I'm ready. I can just pick
+.:you up.
+._SYLVIa
+.:Okay. That's fine.
+._CLARENCE TRAN
+.:See you soon.
+>.Clarence puts away his phone, and starts packing up his
+>.suitcase at his desk. He glances down at Angelo's body in
+..the doorway.
+._CLARENCE TRAN
+>:You two clean that up. I'll call
+>:you in the morning. Do not call me
+.:tonight.
+._WOOJIN
+>:Alright. Not like we had any plans
+>:tonight. Do we have to put him in
+.:the Bay?
+._CLARENCE TRAN
+>:No. Don't do too much to him. I
+>:want them to find him. That way
+>:they'll know to stay out. You can
+>:improvise a bit but make sure he's
+.:still recognizable after.
+>.Clarence picks up his suitcase and steps over Angelo's body
+..into the doorway.
+._CLARENCE TRAN
+>:Get it all off the floor, too. I
+>:don't want a spot of hemoglobin in
+.:this office.
+._NICO
+.:Have a good time, sir.
+..Clarence leaves.
+.\Ext. Sfsu campus - morning
+>.The sun-dappled city campus of San Francisco State bustles
+>.with activity. A few quirky signs and maybe a homeless
+..person can be seen (classic San Francisco).
+.\Int. University classroom - continuous
+>.Lucy slumps back in her desk near the front of the class,
+>.visibly exhausted. The classroom is somewhat cramped, a
+>.political science class with about 15 to 20 students, some
+..scribbling, some dozed off in the back.
+>.PROFESSOR PISTER, late 50s, gray-haired, fun but a bit
+>.eccentric looking, stands at the board in front of the
+>.class, open books jumbled on a desk in front of him. He
+>.wears a loud Hawaiian shirt--he doesn't think much of
+..authority, intellectual or sartorial.
+>.In the front of the class is JORDAN, 20, white, clean-cut, a
+..bit too well-dressed for a college student.
+._Jordan
+.:Professor,
+..
+.\INT. benny's LIQUOR STORE - day
+>.Tony comes in and goes straight into one of the aisles.
+>.Benny stands behind the counter, his back turned. He can
+..still recognize Tony.
+._BENNY
+.:Hey there, Tony!
+._TONY
+.((calling from an aisle)
+>:Shouldn't be here long. You still
+>:got any of that Russell's Reserve
+.:lying around?
+._BENNY
+>:Might still be a bottle in the
+>:back, I'd have to check. There's
+>:not exactly a great demand for it
+.:in Chinatown.
+._TONY
+.:Take your time.
+>.Lucy storms into the liquor store, slamming the door open.
+>.She steps forward, then thinks, turns back, and shuts the
+>.door, looking at the Open sign. Unfortunately, it is neon,
+..and she can't turn it to Closed. 
+._LUCY
+.:Mr. Kong! Mr. Kong!
+._BENNY
+>:What are you doing? Don't you work
+.:at Yiming's store?
+._LUCY
+>:I know you're here, Mr. Kong, I saw
+.:you go in!
+>.Lucy walks past an aisle and then sees Tony, his hand on one
+..of the bottles.
+._TONY
+>:Lucy, what are you doing here? This
+.:is a public place.
+._LUCY
+>:You want to be a coward? That's
+.:alright. I'm not going to be.
+._BENNY (OS)
+.:Is something going on over there?
+._TONY
+>:I told you I won't help you. Do we
+.:have to hear me go over it again?
+._LUCY
+.((holds up liquor bottle)
+>:I've heard your reasons. But this
+>:is the real reason. I don't know
+>:what you were like before you
+>:discovered this. But I know what
+.:you're like now.
+..Lucy throws the bottle on the ground.
+._LUCY
+.:It's pathetic. You're pathetic.
+._BENNY
+.:Hey there!
+..Benny tries to come around from the counter.
+._TONY
+.:Benny, stay back there!
+>.Benny, cowed, returns to the counter, looking nervously out
+..the window.
+._TONY
+>:You can't provoke me, Lucy. I've
+>:changed. I can see what you're
+.:doing.
+._LUCY
+>:How have you changed? Do you bring
+>:a bottle around in case you feel a
+.:real emotion?
+..Lucy knocks over another bottle from the shelf.
+._LUCY
+>:I don't even know if you can fight
+>:anymore. It's 4 pm, you're probably
+.:buzzed by now.
+._TONY
+.:Stop what you're doing, Lucy.
+>.Lucy kicks a bit of broken glass towards Tony. The old
+..intense look comes back to Tony.
+._TONY
+.:You're making a mistake.
+._LUCY
+.:You have nothing left.
+..She picks up another bottle.
+._LUCY
+.:A drunk old man. Pitiful.
+..She throws it straight at him. 
+>.Tony spins and KICKS the bottle, exploding it into a shower
+>.of liquor and glass shards in mid air. We feel the dazzling
+..impact.
+>.Lucy seems pleased and surprised. She quickly grabs another,
+..throwing it harder at his face.
+..But Tony grabs another bottle from the shelf and throws it--
+..The two bottles smash together in mid air.
+>.Benny cannot believe what he is seeing. He goes to the door
+..and hurriedly locks it.
+>.Lucy is unbelievable pumped now. She grabs a bottle with
+..each hand and charges toward Tony.
+>.Tony dodges one blow and hits her hand, making her drop the
+..bottle.
+>.She kicks, but he blocks it, kicking her leg back into the
+..shelf, smashing some whiskey. 
+..A bottle teeters on top of the shelf, then falls onto Lucy. 
+>.She dodges and swings into the middle of the aisle, then
+..swings the other liquor bottle at Tony.
+>.He kicks high and smashes the bottle with it still in her
+>.hand. She doesn't seem injured; this is pure, delirious
+>.style. Slow motion lets us appreciate the flying shards and
+..globules of liquor.
+>.She stabs toward him with the broken nub of the bottle, but
+>.he dodges. Tony is surprised by her ferocity; it wasn't
+..something he expected from someone like her.
+>.Tony pulls her arm and throws her into the shelf on the
+..other side of the aisle.
+>.Lucy looks stunned for a minute. Another bottle threatens to
+..fall onto her head.
+>.Quick as a cat, Tony lunges toward her, blocks a possible
+>.blow with one hand, and catches the falling bottle above her
+..head with the other.
+..Tony steps back with the bottle and glances at the label.
+._TONY
+.:He did have Russell's Reserve!
+._LUCY
+.:Let go of it!
+>.Lucy grabs a bottle behind her and hits Tony on the side
+..with it, not acknowledging his previous kindness.
+>.Tony grabs the bottle between his elbow and knee, then
+>.smoothly tosses it aside in a fluid motion, somehow SMASHING
+..the one bottle left on the shelf behind him.
+._TONY
+.:You are very ungrateful.
+._LUCY
+.:Is that how you fight?
+>.Lucy attacks, with Tony blocking her blows rather easily
+..with one bottle still in his hand.
+._TONY
+.((glancing at bottle)
+.:This is priceless!
+>.Tony kicks her; this one has more force, less playfulness.
+..He wants this over.
+>.Lucy slams into the shelf; with no bottles left, it falls
+..over.
+._TONY
+>:You're outmatched. I don't want to
+.:hurt you.
+._LUCY
+.:Then teach me! I want to learn!
+>.Lucy attacks again, with Tony responding, more quickly now.
+..His old grace is returning. 
+>.Lucy manages to kick the bottle out of Tony's hand--she
+..seems to be learning from the maestro.
+._LUCY
+.:Are you a master, Tony?
+>.Her confidence flying high, she tries the ___ kick. Her
+..signature. 
+>.But she slips on the liquor now splattered on the ground,
+..falling right on her back. 
+..Back down to earth.
+>.Tony stands over her, looming. Lucy pants for a second,
+..chastened.
+._TONY
+.((beat)
+>:You fight with passion, Lucy. But
+>:it's not enough. You need a
+.:teacher.
+..Lucy smiles. Tony gives her his hand and helps her up.
+._TONY
+.:I will be your master.
+..One last bottle falls offscreen, SHATTERING loudly.
+>.Benny, cowering behind the counter before, peers up and
+..looks around.
+._BENNY
+.:What have you done to my store?
+>.Tony looks around the store; we see glass shards and liquor
+..everywhere; half the place is trashed.
+._TONY
+.((beat)
+>:You can't trust college students
+.:around alcohol, Benny.
+.\Ext. Oakland docks - day
+>.Sunrise. Tony drives up to an abandoned area in the Oakland
+>.docks by some train tracks, with shipping containers ringing
+>.it like an arena. Light is just peeking over the Berkeley
+..Hills to the east. 
+>.Lucy is already there, waiting impatiently, dressed in her
+..karate robes.
+._LUCY
+.:You did say 5, right?
+._TONY
+.:I did.
+._LUCY
+.:So it's 6.
+._TONY
+>:If you think you're going to
+>:impress me with your dedication by
+.:arriving early, you won't.
+._LUCY
+>:I didn't come early, I came on
+.:time.
+._TONY
+.:That's not what I do.
+._LUCY
+.:Could you try?
+._TONY
+>:Who's the master here? Come on,
+.:let's get started.
+>.Tony grabs a mat out of the back of his car and starts
+..carrying it towards the middle of their makeshift arena.
+._LUCY
+.:Why did we come here, by the way?
+._TONY
+>:This place is usually pretty quiet.
+>:And I know the foreman around here,
+>:and his kid. They said we shouldn't
+.:be disturbed.
+._LUCY
+.:So it's not some sort of statement?
+._TONY
+.((amused)
+.:No. I don't play mind games.
+..Tony finds a suitable spot, then lays the mat onto it.
+._TONY
+>:By the way, those robes are
+>:ridiculous. Don't wear them next
+.:time.
+._LUCY
+>:These are my karate robes. Master
+.:Douglas says--
+._TONY
+>:A bunch of pseudo-philophical
+>:bullshit. You're not going for
+>:formal competitions anymore. You
+>:want to fight people on the street?
+>:You won't be wearing robes when you
+>:do. Next time, wear some athletic
+.:clothes.
+>.Tony removes his brown leather jacket, laying it on the
+..ground.
+._LUCY
+.((beat)
+>:I was going to say it helps us get
+.:into the right mindset.
+._TONY
+>:You should always be in the right
+>:mindset. You'll have fractions of a
+.:second to get ready for a fight.
+._LUCY
+.:Yes, master. I understand.
+..Tony looks at her for a beat.
+._TONY
+>:I can see that you're a green belt,
+>:though. A little higher than I
+>:would have expected from your
+>:performance in Benny's store. But
+>:the good news is that you know the
+>:basics. I don't have to make you
+>:wax my car for a few days to get
+>:you to understand striking. The bad
+>:news is that the basics you've
+>:learned will work against you if
+>:you fight me or anyone else on the
+.:street.
+._LUCY
+.:Anyone else?
+._TONY
+>:You're too predictable to fight
+>:anyone with real knowledge, and too
+>:inexperienced to take on a man
+>:twice your size, even if he has no
+>:training. And the ones with no
+>:training can be even more
+.:dangerous. They're unpredictable.
+>.Tony suddenly attacks her. Lucy weakly parries, taken aback,
+..but Tony throws her onto the mat.
+._TONY
+>:You're a psychologist now, Lucy. A
+>:profiler. You have to recognize who
+>:you're fighting and how they're
+>:feeling. How and when they'll
+.:strike. This is poker with fists.
+..Lucy jumps up, and fights Tony. Again he bests her.
+._TONY
+>:You must train harder than you've
+>:ever thought possible. You cannot
+>:simply be good, you must be
+>:perfect. Flawless. One misstep
+.:leads to death.
+..Tony kicks out her leg.
+._TONY
+>:Do you think you can keep living
+>:your life? You can commit entirely
+>:or quit now. You can't be
+>:well-rounded now.  This isn't a
+>:college application. Total focus is
+.:required. 
+..Tony attacks briefly, Lucy growing more exhausted.
+._TONY
+>:There is but one path to your goal
+>:of greatness, and that is the path
+>:of commitment and suffering. If you
+>:think there is an easy way you are
+>:no different from the fat Americans
+>:who try to lose 100 pounds on a
+.:2-week fad diet. Are you committed?
+._LUCY
+.:Yes!
+._TONY
+>:Will you forget all the tricks you
+>:learned from your karate teacher?
+.:All the high kicks and twirls?
+..He kicks her low, right in the legs. Lucy stays down.
+._LUCY
+>:Yes! But is this all it's going to
+.:be? You hitting me?
+._TONY
+.:What happened to commitment?
+._LUCY
+>:I'm committed to improving. But if
+>:you're just beating me I don't know
+.:how I can improve.
+..Tony looks disapproving.
+._TONY
+>:All right. You want to mix it up?
+>:Meet me here tomorrow morning.
+.:Bring a swimsuit and goggles.
+._LUCY
+.:Here? By the docks?
+._Tony 
+.:Actually, by the marina.
+.\EXT. OAKLAND marina - DAY
+>.Lucy wears a one-piece swim suit, holding goggles and a cap
+>.in one hand. She stares out at the water, sunlight glinting
+..off the waves.
+..Tony appears, walking off a small dock.
+._TONY 
+.:Good to see you here! 
+._LUCY
+.:Where did you come from?
+._TONY 
+.:From over there. That boat.
+..He points to a small sailboat at the end of the dock.
+._LUCY
+.:You have a sailboat?
+._TONY 
+>:What did you think I do all day?
+.:Drink?
+._LUCY
+>:Most of the time, yeah. Isn't
+>:sailing while intoxicated still a
+.:DUI?
+._TONY 
+.:Come along, down the dock.
+..They start down the dock and approach the boat.
+._LUCY
+>:So we're sailing? That's not
+>:exactly what I meant when I said I
+.:wanted some variety.
+._TONY 
+.((smiling)
+>:Oh no. I'm sailing--you're
+.:swimming.
+..Lucy looks out at the water, a bit horrified.
+._LUCY
+.:Not in the Bay!
+._TONY 
+>:Not in the air, and not on land! So
+.:it must be in the Bay!
+._LUCY
+>:I don't have a wetsuit. It's got to
+.:be--
+._TONY 
+>:Very cold. It's the same water that
+>:drowned many an Alcatraz escapee.
+>:Don't worry, I won't let that
+.:happen.
+..Tony climbs into the boat.
+._TONY 
+.((CONT'D)
+>:I'll sail alongside you. You swim
+>:out as far as you can. When you get
+>:tired I'll pick you up in the boat.
+>:You can rest and warm up and go out
+.:in the water.
+._LUCY
+.:Until what?
+._TONY 
+.:How long do you have?
+..Lucy looks out nervously at the waves.
+._TONY 
+.:Get your cap and goggles on. 
+>.Lucy complies reluctantly. Tony steps out onto the boat and
+..gets it set up to start.
+._TONY 
+.((CONT'D)
+>:I'll set out first, and then you
+.:dive in.
+./CUT TO:
+>.Tony is a few meters out, the wind pulling him further and
+>.further from the dock. Lucy stands, not quite ready. Tony
+..calls out to her.
+._TONY 
+.:You'd better go now!
+..Lucy breathes very deeply.
+._LUCY
+.:The things I do for...oh, dammit!
+..She dives in. 
+>.Her entire body shivers underwater. The cold is like an icy
+>.grip. She can barely breathe. The sun seems so far away. So
+..does Tony's boat.
+>.On the boat, Tony cracks open a cold one, and pulls out his
+>.copy of Romance of the Three Kingdoms. He glances over at
+..Lucy. He turns to page 48.
+./CUT TO:
+>.Tony, now on page 55, looks up at Lucy. She's fading
+>.quickly. He puts down the book (but not the beer) and
+..directs toward her.
+>.In the water, Lucy sees this. She stops paddling and starts
+..treading water, breathing very heavily.
+>.Tony's boat glides up to her. Lucy paddles over and grabs
+..the side, pulling herself out of the water.
+..Tony steps over to her as she shivers.
+._TONY 
+.:How do you feel?
+._LUCY
+.:I'm...so cold...
+._TONY 
+.:Ready to fight?
+>.Lucy looks up an instant before Tony pushes her into the
+..water.
+..She bobs up, indignant.
+._LUCY
+.:What the hell was that?
+._TONY 
+>:You want to get on the boat? Get
+.:past me.
+._LUCY
+>:I thought you didn't play mind
+.:games!
+..Tony shrugs and takes a sip of beer.
+._TONY 
+>:You didn't seem to like that. I'm
+.:responsive to my students.
+..He puts down the beer now.
+._TONY 
+.((CONT'D)
+>:That water looks cold. If I were
+>:you, I'd get out of it as soon as
+.:possible.
+>.Lucy paddles over again, disgusted. Tony lets her get on the
+..boat and plant herself.
+>.Tony attacks with a low jab. Lucy parries but can barely
+>.stand, and with a second blow is pushed into the water
+..again.
+._TONY 
+>:That jab I just used is a potent
+>:weapon. It doesn't expose you and
+>:it can open your opponent up for a
+>:follow-up. Like a jab in boxing.
+.:Learn it and master it.
+>.Lucy is weak now. She paddles up, but stops at the side of
+..the boat, panting and shivering.
+._TONY 
+>:You can't stay on the threshold.
+>:Get in the water or get on the
+.:boat.
+>.Lucy pulls herself very slowly up. She stands slowly, facing
+..Tony.
+>.He attacks, and she shivers so violently that she falls into
+..the water herself.
+..She stops paddling. She slips under the surface.
+..Lucy can see the sun above the waves. Down she slips.
+..Until she sees a life preserver thrown onto the water.
+..She paddles up and grabs it. Tony reels her in. 
+>.He deposits her on the boat, shivering. He hands her a
+..Thermos and a blanket.
+._TONY 
+>:Don't worry. It's hot chocolate.
+.:Donna said you like it.
+..Lucy gulps it down greedily.
+._TONY 
+.:She also said you like swimming.
+._LUCY
+>:Oh, really? This is supposed to be
+.:for me? Right up my alley?
+._TONY 
+>:In a way. If you wish to take on a
+>:man like Clarence Tran there is no
+.:other way.
+>.Lucy looks out, clutching the Thermos and blanket tightly.
+..The Golden Gate Bridge shimmers across the Bay.
+.\Montage - lucy trains while clarence tran's empire grows
+>.In short: Lucy stalls while Clarence's reach grows. Every
+>.day she fails in training, she fails to prevent another
+>.crime, another atrocity. The stagnation of good contrasted
+..with the progress of evil.
+>.--Lucy quits her karate dojo, handing her robes to a
+..saddened Master Douglas.
+>.--Lucy trains in the gym. She seems to make progress over
+..time.
+>.--This progress stalls in her sessions with Tony. She never
+>.seems to improve; Tony is always too quick for her. He
+>.defeats her on the land and at sea. Over and over she falls
+..into the water.
+>.--Lucy drifts off in class, sometimes showing up with
+..bruises.
+>.--Meanwhile, Woojin and Nico deliver money to Clarence
+..Tran's office in the church.
+>.--Drugs change hands on the street; Clarence's influence
+..spreads.
+>.--Woojin and Nico arrive at Donna's store, with her handing
+..them more money.
+>.--Lucy falls short in her lessons yet again. Tony is
+..disappointed.
+>.--Clarence and Sylvia arrive at another event, surrounded by
+>.the movers and shakers of the Bay Area. They blend right in,
+>.although Sylvia seems to enjoy Clarence's influence far more
+..than his company.
+>.--Lucy gets out of the water, hungry, ready to fight. She
+..gives Tony a good go but ends up, as always, in the water.
+>.--Standing by the Bay Bridge at night, fog over the Bay,
+..Woojin and Nico execute the silhouette of a handcuffed man.
+.\End of montage
+.\EXT. OAKLAND DOCKS - day
+>.Lucy lies on her back on the mat, totally exhausted. Tony
+>.stands over her, the sun visibly setting behind the Golden
+..Gate Bridge.
+._LUCY
+>:I just...I just don't know. I feel
+.:like nothing has changed.
+._TONY
+>:You have been making progress,
+>:Lucy. You've been training hard. I
+>:can see it before you even step on
+.:the mat.
+._LUCY
+>:I don't feel it. Honestly, I've
+.:probably gotten worse.
+._TONY
+>:This is trench warfare. You can
+>:fight for months and move a few
+.:inches.
+._LUCY
+>:Great. Chlorine gas and a
+>:mud-filled trench actually sound
+.:wonderful right now. 
+>.Tony turns around and puts on his leather jacket, not
+..answering.
+._TONY
+>:I warned you this would be
+.:difficult. 
+._LUCY
+>:You're making it difficult. Maybe
+>:that's what you wanted all along.
+>:Wearing me away. Showing me I was
+.:wrong.
+._TONY
+>:I am making it difficult. You can
+>:either suffer in here or die out
+>:there. You can't avoid it. I am
+>:trying to wear you away until the
+.:strongest part remains.
+._LUCY
+>:Well, you've succeeded. There's
+.:nothing left.
+..Tony pauses for a while.
+._TONY
+.:You want to get some dinner, Lucy?
+._LUCY
+.:What?
+._TONY
+.:Are you hungry?
+._LUCY
+>:I'm starving. I had class all day
+.:and couldn't get lunch.
+._TONY
+.:Get up then.
+._LUCY
+>:Great. Is this the part where I
+>:live for three days on cold rice
+.:and a dead rat?
+.\Int. Fancy restaurant - night
+>.Lucy and Tony walk into a bustling restaurant, Lucy still
+..looking exhausted but now quite surprised.
+._LUCY
+>:Wow, this is amazing. Tony, you
+.:don't have to do this.
+._TONY
+>:I know I'm not always the most
+>:encouraging. But I can't keep
+>:driving you forever. You deserve
+.:something after all your work. 
+..A HOSTESS steps up to greet them.
+._HOSTESS
+.:How can I help you, sir?
+._TONY
+.:Table for two, please.
+._HOSTESS
+.:Right this way.
+>.They follow the HOSTESS past laughing, suited couples and
+>.groups of trendy people drinking wine--a beautiful Bay Area
+>.world unknown to people like Lucy. Maybe it unfolds in one
+..shot, like the Copacabana sequence from "Goodfellas."
+._LUCY
+>:This is so fancy. I don't think
+>:I've ever eaten in one of these
+.:kind of places.
+._TONY
+>:This place wasn't so fancy in the
+>:80s. It was pretty small. And you
+>:couldn't pay people to live in this
+.:neighborhood.
+..They sit down at their table.
+._TONY
+.((CONT'D)
+>:But a lot has changed in this city
+.:since then.
+._LUCY
+.:In parts of this city, at least.
+..A WAITRESS comes up to help them with a carafe of water.
+._Waitress
+>:Hello, and welcome to Carollo
+>:Ristorante. I will be helping you
+>:this evening. Could I start you off
+>:with some drinks? Perhaps your
+>:daughter would be interested in
+.:some wine?
+._TONY
+.((beat)
+.:Just water for now.
+._WAITRESS
+>:Alright. Let me know if you have
+>:any questions about the menu. The
+>:special today is a spaghetti alla
+>:chitarra with Chino Farm corn,
+>:summer chanterelles, haricots
+.:verts, and fennel breadcrumbs.
+..Lucy looks confused and intrigued by the dish.
+._TONY
+.:That sounds delicious.
+._WAITRESS
+>:Okay then, I'll give you some time
+>:to look over the menu and be back
+.:soon.
+..She smiles and leaves.
+._TONY
+>:Aren't haricots verts just green
+.:beans?
+._LUCY
+.:I think so.
+._Tony
+>:Why does an Italian restaurant need
+.:to put their vegetables in French?
+._LUCy
+>:I have no idea. Is it bad that I
+.:just want some ramen?
+._TONY
+>:You're a philistine! You need to
+.:learn to appreciate nice stuff. 
+._LUCY
+>:I'm really hungry! Falling on my
+>:butt for two hours makes me really
+.:hungry.
+._TONY
+.((beat)
+>:You know, when I first came to this
+>:country, I didn't know anything
+>:about American food or how they ate
+.:here.
+..TELLS STORY--------------------
+..
+._LUCY
+.:Wow, I didn't know you laughed!
+._TONY
+>:Not in a long time. That muscle is
+.:a little weak.
+>.As he laughs, he looks around the restaurant and sees
+>.Clarence Tran and Sylvia sit down at another table. He stops
+..laughing and looks down, troubled.
+._LUCY
+.:What's the matter?
+..Tony takes a loud sip of his water.
+._TONY
+.:I remembered I don't like laughing.
+>.Lucy looks behind her, in time to see the portly Italian
+>.owner of the restaurant, PAULY CAROLLO, standing and talking
+>.with Sylvia, with three different waiters getting his table
+..prepared.
+._LUCY
+>:Wait a second...that isn't...oh my
+>:god! I recognize him from my
+>:research! That's him, that's
+.:Clarence Tran. He's right there.
+._TONY
+.:Let's just eat our meal, shall we?
+._LUCY
+>:Sorry, I'm not gonna enjoy my
+>:haricots verts while the man I'm
+>:training to fight sits right there!
+>:He's right there, unarmed! I could
+>:shiv him with my steak knife if I
+.:wanted to!
+._TONY
+>:Lower your voice! He's not unarmed,
+>:not here. He owns this place. He's
+>:got bodyguards around here. I see
+>:him come here all the time and no
+.:one ever tries to do anything.
+._LUCY
+.:You see him come here all the time?
+._TONY
+>:Do you want him to recommend
+.:something on the menu?
+._Lucy
+.: Why didn't you tell me?
+._TONY
+>:Why should I? The problem isn't
+>:finding him. The problem is getting
+>:him alone without setting yourself
+.:up for a firing squad.
+._LUCY
+>:At least that's not hard. He's like
+>:a local luminary. When I looked him
+>:up I saw him in pictures for
+>:charity events, basketball games,
+>:galas. All places where he can't
+>:bring his normal armory. But there
+>:he's got the protection of the cops
+>:and his rich friends. They'd rather
+>:welcome a wealthy thief than anyone
+.:with integrity.
+._TONY
+>:You know, Lucy, I don't think
+.:you're as cynical as you act.
+._LUCY
+>:It's not a college affectation, if
+.:that's what you're thinking. 
+._TONY
+.:I didn't say that.
+..Lucy leans back in her chair and looks at Tony coldly.
+._LUCY
+>:One time when I was a little girl,
+>:I snuck into the Hyatt by Union
+>:Square. I was alone. I wore this
+>:little patched up dress. Walked
+>:behind some family's luggage, came
+>:through the lobby as quickly as I
+>:could. I just wanted to ride the
+>:glass elevators. I'd never seen one
+>:before. I rode it to the highest
+>:floor I could, where I could look
+>:through the glass at the whole
+>:city. All the skyscrapers in San
+>:Francisco. I saw the sunlight on
+>:the water, the white boats that
+>:looked like toys. Then I looked
+>:across the water and saw the little
+>:twinkling lights with the hills
+>:behind them. I had my face glued to
+>:the window when I heard a voice,
+>:very distinguished. It was this old
+>:woman. She said, "What do you think
+>:you're doing? You shouldn't be
+>:here!" She had a big hat and a
+>:little dog. I think she thought she
+>:was doing me a favor. Being there
+>:alone. She could tell I was alone,
+>:that I wasn't a guest. The security
+>:guard looked guilty, but he threw
+.:me out all the same. 
+..Lucy pauses for a beat.
+._LUCY
+.((CONT'D)
+>:I've never been back. Maybe now
+>:they'd let me in. I can fake it. I
+>:can put on a mask and hide among
+>:them. They'll smile at you as long
+>:as you talk like them. Make them
+>:feel comfortable. Might even be
+>:kind to you, if they're feeling
+>:generous. But it's an act. You
+>:never really own anything. You're
+>:just renting. They can evict you
+.:whenever they want.
+..Lucy leans back, and eyes Clarence with hatred.
+._LUCY
+.((CONT'D)
+>:He's probably stayed there many
+>:times. But I doubt he's ever looked
+.:out the window.
+>.We follow Lucy's gaze and fix upon Sylvia, talking with
+..Pauly Carollo while Clarence silently sips his water.
+._PAULY CAROLLO
+>:Well, Sylvia, for anyone else I
+>:don't know if I would consider it,
+.:but for you, I'm willing.
+._SYLVIA
+>:It's a very good cause, and it'll
+>:bring a lot of publicity to your
+.:restaurant.
+._PAULY CAROLLO
+>:It'll be a lot of work for us, but
+.:we'll be happy to do it.
+._SYLVIA
+>:Don't worry about that, Pauly.
+>:Clarence is willing to help with
+>:the organization. He really cares
+.:about this cause.
+._PAULY CAROLLO
+.:Is that right, Clarence?
+..Clarence looks up from his water.
+._CLARENCE TRAN
+.:That's right.
+._SYLVIA
+>:We can provide some substantial
+>:assistance. I've planned these sort
+.:of things before.
+._PAULY CAROLLO
+>:Well, then, I think this will turn
+.:out great.
+._SYLVIA
+>:That's excellent. I'll get in touch
+>:with you tomorrow and get you some
+.:more details.
+._PAULY CAROLLO
+.:I'll be honored. Thanks, Sylvia.
+..Pauly starts to leave, and then pauses.
+._PAULY CAROLLO
+.:Thanks for the help, Clarence.
+..Clarence is silent. Pauly walks away a bit too quickly.
+..The two sit at the table in silence for a second.
+._SYLVIA
+>:Why can't you show a little
+.:enthusiasm?
+._CLARENCE TRAN
+.:I don't like him.
+._SYLVIA
+>:Then why are we always eating here?
+>:Why don't we ever go to one of the
+.:nice restaurants in San Francisco?
+._CLARENCE TRAN
+>:San Francisco? I hate that fucking
+>:city. It's always cold. Even in the
+>:summer it's always cold. Dead men
+.:feel cold.
+._SYLVIA
+.:A funny comparison to make.
+._CLARENCE TRAN
+>:Is it? Something the matter? Should
+>:I be worried you're going to run
+>:off with a tech executive? Or a
+>:corporate lawyer? Or a fat Italian
+.:restaurant owner? 
+._SYLVIA
+.:You shouldn't be.
+..Clarence smiles coldly and pours them some wine.
+._SYLVIA
+.((CONT'D)
+.:Besides, I like men of character. 
+._CLARENCE TRAN
+>:All those people at the parties you
+>:drag me to. They're all hypocrites
+>:anyway. If I have to hear one more
+>:suit talk about making the world a
+.:better place...
+._SYLVIA
+>:I think a lot of them have
+>:interesting stuff to say. They just
+>:tend to be self-important. I'm not
+>:saying they're better than you,
+>:Clarence, but you're not better
+>:than them either. No matter how
+.:much you rationalize.
+._CLARENCE TRAN
+>:I don't rationalize. That's why I'm
+.:better. 
+>.He sucks up the wine in his glass like a hose. Icy as
+..always.
+._CLARENCE TRAN
+.((CONT'D)
+>:And it seems like every weekend,
+>:when I should be out there running
+>:the business with my guys, I have
+>:to go to another cocktail party. I
+.:wear the suit more than my gloves.
+._SYLVIA
+>:You can keep complaining but that's
+>:the bargain. Besides, you meet some
+>:important people at those events.
+>:I've probably helped your business
+>:more than Woojin or any one of your
+.:"boys" ever did. 
+._CLARENCE TRAN
+.:Let's not get ahead of ourselves.
+..Sylvia leans in, quiet but insistent.
+._SYLVIA
+>:I don't think you should be out
+>:there with them much anyway. Why do
+>:you have to risk yourself on the
+>:street? At this point there's so
+>:many better ways to make money. I
+>:had brunch with Gene the other
+.:day...
+._CLARENCE TRAN
+>:This isn't your area, Sylvia. Don't
+>:tell me how to run it. I've always
+.:supported us. Always. Without fail.
+>.Sylvia rolls her eyes very slightly; she's heard this one
+..before.
+._CLARENCE TRAN
+.((CONT'D)
+>:When have you had to worry about
+>:comparing yourself to other people?
+>:When have I ever said no? Just this
+.:one time.
+>.Sylvia doesn't take this personally. She appreciates her
+..husband--even if what they share isn't really love.
+._SYLVIA
+.((smiles)
+>:Oh, I know better than to do that.
+>:Just giving you something to think
+.:about.
+>.She refills Clarence's glass, almost like a mother helping
+..her child. She raises her own.
+._SYLVIA
+.:To another successful year?
+._CLARENCE TRAN
+.:To success.
+..They clink glasses.
+.\Ext. Hospital - night
+>.Lucy walks quickly through the menacing Oakland streets,
+>.clutching her cheap purse and a bouquet of flowers tightly.
+>.Recent rain makes the streets shine slickly. Oakland looks
+>.like Gotham, or something out of a noir flick. Even the
+..hospital looks rundown.
+..Lucy pushes open the front door--
+.\Int. Hospital room - continuous
+>.and opens the door to a hospital room hesitantly. Inside is
+>.Donna, sitting by the bedside of her husband YIMING HU, 61,
+>.white-haired and feeble-looking, watching an old sitcom on
+>.the TV with his hand wrapped around Donna's. Yiming is more
+>.heavily-accented, quieter, and less savvy--less hip,
+..perhaps--than his younger wife.
+._DONNA
+.:Oh, hello Lucy!
+._LUCY
+.:Hi Donna!
+._Yiming
+>:Lucy? Why, it's good to see you!
+.:And those flowers!
+._LUCY
+>:Yeah, I hope you like them. How are
+.:you feeling?
+._YIMING
+>:Oh, you know, the same as always.
+.:Day in, day out. 
+._DONNA
+>:The doctors say he still needs more
+>:treatment, though. Won't be out of
+>:the hospital for at least another
+.:week.
+._LUCY
+.:Oh, I'm really sorry to hear that.
+._YIMING
+>:I'm fine, you know. Donna runs the
+>:store and I get to stay in bed and
+>:watch TV Land all day. And the
+>:nurses take care of me when I have
+>:to go to the bathroom! I don't even
+.:have to get it.
+..Donna rolls her eyes.
+._DONNA
+>:He won't stop talking about the
+.:catheter. It's incessant with him.
+._YIMING
+.((indignant)
+>:I have always had a very small
+>:bladder! Whenever there's a long
+>:car ride or movie I have to worry
+>:about it! When do I have to go? How
+>:can I find a bathroom? Do we have
+.:to pull over?  Here, I don't.
+._DONNA
+.:He wants to bring it home.
+._YIMING
+.:Well, not really...I just--
+>.Lucy tries to intervene before the old-couple-type squabble
+..gets too graphic.
+._LUCY
+>:I hope you get out soon. It'll be a
+>:lot easier to run the store with
+.:you around.
+._YIMING
+>:Soon, soon. Donna says you are
+.:doing an excellent job helping her.
+._LUCY
+.:Well, not with everything.
+._YIMING
+.((beat)
+.:What do you mean?
+>.Donna stares at Lucy quizzically. Doesn't want her to bring
+..this up.
+._LUCY
+>:I saw those two enforcer guys. The
+.:ones who collect for Clarence Tran.
+..Yiming doesn't seem fazed.
+._YIMING
+>:Thank you for helping with that.
+>:Without your extra time I could
+>:have never made the last payment.
+>:We're lucky Clarence gave us extra
+.:time.
+._LUCY
+.:Are you serious? Lucky?
+._Donna
+>:Better than what happened to
+>:Wan-Min! That store didn't burn
+.:down due to a gas leak.
+._YIMING
+>:She's right! She knows these
+.:things.
+._LUCY
+>:I just really think it's wrong that
+>:you have to pay out to operate a
+>:business. Someone should really do
+.:something.
+._YIMING
+.((beat)
+>:Someone? No. Not the police. I'm
+>:more scared of them than Clarence.
+>:You know when you're in trouble
+.:with him.
+._LUCY
+.:Someone else.
+..Yiming shrugs.
+._YIMING
+>:You are very young, Lucy. I'm a
+>:poor, sick old man. I'm not trying
+>:to cause any trouble. It's not
+>:worth it. When I was twenty-one
+>:years old I saw a college professor
+>:thrown out of his home by the Red
+>:Guard. And when he tried to fight
+>:back they beat him and broke his
+>:glasses. And they shot him too. I
+>:didn't do anything like that, I
+>:just got out of there. I'm happy to
+>:be here with a nice bed and a TV.
+>:Pretty soon I'll be in hell...or
+.:heaven.
+>.As he says hell he points up, and points down when he says
+..heaven.
+._YIMING
+.((CONT'D)
+.:I won't have to worry about it.
+._DONNA
+>:You should get some sleep. Thank
+.:you for the flowers, Lucy.
+..A nurse enters behind Lucy.
+._NURSE
+>:Alright, Mr. Hu, let's check that
+.:IV.
+>.She muscles Lucy out of the way. She puts the flowers down
+..on the table. Smiles hollowly.
+._LUCY
+.:Get well soon.
+.\EXT. OAKLAND marina - day
+>.Another session. Sunset, Lucy standing at the pier. It feels
+>.like it will never end for Lucy. But today, with her hair
+>.bundled up with a chopstick thrown in for good measure, she
+..is tired of failing.
+>.She pulls out the chopstick and looks out at the Bay. But
+..not straight ahead, where Tony is manning his sails.
+>.She looks along the coast, spying a rocky outcropping south
+..of the marina.
+._TONY
+.:Let's go, Lucy!
+..She doesn't put the cap on.
+..She dives in, heading right along the coast.
+>.Tony seems surprised, as she swims away from him, rather
+..than beside him. But he tacks his sails and follows her.
+.\Ext. rocky outcropping - continuous
+>.Tony sails along the coast with suspicion. Lucy swims by the
+>.rocks, then carefully climbs onto a rock, out of the water,
+..the one furthest from the coast.
+._TONY
+.:Be careful, Lucy!
+..Lucy wrings out her hair.
+._LUCY
+.:Come closer!
+..Tony sails right up to the rock Lucy is standing on.
+._TONY
+>:I can't get any closer to these
+.:rocks!
+._LUCY
+.:I know.
+>.Before Tony can register, Lucy jumps off the rock onto the
+..deck of the boat.
+..She attacks immediately.
+..Tony parries, but it's a fair fight now.
+>.Lucy attacks. Tony deflects, but she is holding herself
+..well.
+..Tony lands a blow, KNOCKING her back onto his cooler.
+..She looks down, grabs the Thermos, and tosses it at him.
+>.Tony deflects it, but Lucy suddenly attacks with a jab. The
+..jab Tony taught her.
+..She jabs again. Tony is opened up.
+..She goes for the __ kick, just like in judo.
+..It lands.
+..Tony falls flat on his back.
+..Lucy, for once, towers over him.
+>.He looks at her, panting. The slightest of smiles crosses
+..his lips.
+._TONY
+.:Now that...is what I want.
+>.They both know the significance. Tony gets up, calm. Lucy is
+..still at the ready.
+._TONY
+>:There's no need, Lucy. That's the
+.:end of today's lesson.
+..Lucy doesn't lower her fists.
+._TONY
+.:You want to get a drink?
+>.Lucy looks more surprised by this than by her success. She
+..lowers her fists.
+._LUCY
+.:A drink? Like, a drink?
+._TONY
+>:Yeah. You are old enough to go to a
+.:bar, right?
+._LUCY
+.:I mean, yeah, but...
+._TONY
+.:Then let's go.
+..Lucy looks awkward.
+._TONY
+.((beat)
+.:What? You don't drink?
+._LUCY
+>:I don't know...I kind of got this
+>:impression that you had cut down on
+>:that. You know, with the training
+>:and the waking up early and the big
+>:fight where I destroyed a bunch of
+.:liquor bottles.
+._TONY
+.((laughs)
+>:Oh, I have! But I still get drinks!
+.:Two a day is a big step for me.
+>.She shrugs and looks bemused. What is she getting herself
+..into?
+._LUCY
+.:All right. Where do you want to go?
+._TONY
+.:I have a spot. 
+>.Lucy gathers up her things and starts walking with Tony
+..towards his car.
+._TONY
+>:By the way, Benny is still furious
+>:at you for what you did to his
+.:store.
+.\Int. West oakland dive bar - night
+>.It's a bit grimy, a bit rundown--a real old-time Oakland
+>.spot. Nothing trendy or glittering here. A diverse mix of
+>.older men sit around at a few tables and at the bar. An old
+..jukebox plays classic rock.
+>.Lucy, changed out of her suit,  walks in with Tony and
+..stops, looking around.
+._LUCY
+.:This is where we're having a drink?
+._TONY
+>:This place is great. Never had a
+.:bad drink here.
+>.The bartender, OSCAR, a tough-looking older white man
+..wearing a baseball cap, spots Tony.
+._Oscar
+.:Tony! How the hell you doing?
+._TONY
+.:I'm good, Oscar! Good to see you!
+._LUCY
+.((aside)
+>:I feel like they should be playing
+.:Bad to the Bone in here.
+._TONY
+.:There's a jukebox over there, Lucy.
+..They approach the bar and sit down.
+._OSCAR
+>:Been a while, T. I was wondering
+>:what happened to you. This your
+.:daughter?
+._TONY
+.:My niece.
+._OSCAR
+.:I didn't know you had a sister.
+._TONY
+>:Yeah, you never met her. Lucy here
+.:is just visiting.
+._OSCAR
+>:You got some kind of uncle,
+>:darling. You 21? I take the age
+.:limit very seriously here.
+._LUCY
+>:Yeah! I have my ID in here, unless
+.:I left it at home...
+..Oscar holds up his hand.
+._OSCAR
+>:Relax! It's fine, you're fine. I
+>:don't give a shit. Have anything
+.:you want.
+._LUCY
+.:Okay...how about a gin and tonic?
+._TONY
+.:Bourbon on the rocks for me.
+._OSCAR
+>:You'll be in hell someday for
+.:putting ice in my bourbon.
+..Lucy turns to Tony.
+._LUCY
+>:Am I supposed to be impressed
+>:you've never had a bad drink here
+.:if you order that?
+._TONY
+.((shrugs)
+.:You can't screw up liquor and ice!
+._LUCY
+>:I'm just surprised you would settle
+.:like that.
+._TONY
+.:Settle?
+._LUCY
+>:Yeah. For something...pedestrian. I
+>:guess I thought your high standards
+.:extended to everything.
+>.Tony looks at her, then looks ahead and takes a long drink
+..from his bourbon.
+._TONY
+>:I've settled for a lot of things,
+.:Lucy.
+._LUCY
+>:Just because your apartment is
+>:small or your clothes are ratty
+>:doesn't mean you've settled for
+.:something. 
+._TONY
+>:Well, you don't understand the
+>:choices I've made. And by the way,
+>:thanks for the dig at my clothes
+.:and apartment.
+._LUCY
+.((smiling)
+>:Really thought you were gonna let
+.:that slip by.
+._TONY
+>:Despite everything that has
+.:happened, I still have some pride.
+._LUCY
+>:But not in your drink order,
+.:apparently.
+..Tony looks playfully shocked.
+._TONY
+>:Now you're the one lecturing me
+.:about drink orders?
+._LUCY
+.:Oh, I'm not lecturing...
+._TONY
+>:You don't know how to drink. And
+>:what they teach you in college
+>:doesn't count. Shotgunning beers is
+>:like being a champion at kickball:
+>:only kids at a very specific place
+.:in their lives care about it.
+._LUCY
+>:You know, I don't feel like I've
+>:had any time to do that. It's
+>:always classes, or LSAT, or working
+>:at the store, or taking care of
+.:this and that.
+._TONY
+.((beat)
+>:Lucy, how have you been doing all
+>:that while keeping up with our
+.:lessons?
+>.For the first time, Lucy takes a long swig from her drink.
+..Becoming more like the mentor.
+._LUCY
+.:I haven't.
+._TONY
+>:You can do more to help Chinatown
+>:with a briefcase than with your
+>:fists. You should be studying with
+.:your professors, not with me.
+._LUCY
+>:I know you're probably right. It's
+>:what everyone tells me, and how can
+>:everyone older than me be wrong?
+>:But I can't just spend years and
+>:years of my life just going to
+>:school, and then striving for
+>:partnership, and making myself
+>:money, while saying that some day
+>:I'll get to helping our community.
+>:Some day I'll do what I actually
+>:set out to do. But first I have to
+>:get a BMW. First I have to score
+.:high on the entrance tests.
+._TONY
+>:That's what us old folks are
+>:counting on. We want you to get out
+>:and make it. We want one of our
+>:people out there pulling the
+.:strings.
+._LUCY
+>:I see plenty of those people in my
+>:classes. But I don't think of this
+>:place as an eventual talking point
+>:in my memoirs or a sob story on my
+.:admissions essays. 
+._TONY
+>:Maybe you should. You'd be better
+>:out there. You're a wanderer. A
+.:refugee without a homeland.
+..Lucy looks around the bar.
+._LUCY
+.:This is my homeland. And yours.
+._TONY
+>:You think so. I don't like it very
+.:much. I aim to leave.
+._LUCY
+.:I'm not trying to leave, Tony.
+._TONY
+>:Well, that's the best way to not
+.:get killed.
+._LUCY
+.((beat)
+.:'You're' not dead.
+>.Turning the conversation to him upsets Tony. An unusual view
+..of such a composed man. He finishes off his bourbon.
+._TONY
+.:We, uh...don't have the same...
+>.He looks around and pulls out a flask, pouring some into his
+..glass.
+._TONY
+.((beat)
+>:I never really...tried in that way.
+>:I didn't have much...courage. It's
+>:been a long time since
+.:I've...tried...
+..Perceptive as always, she tries to rescue him.
+._LUCY
+>:Do you want to grab a table? I'd
+.:rather not just sit at the bar.
+._TONY
+.((beat)
+.:Let's refill our drinks first.
+..She raises her hand for the bartender.
+._LUCY
+.:Excuse me, sir?
+._OSCAR
+.:What's up?
+._LUCY
+.:Can we get another one each?
+._OSCAR
+>:Sure, yeah. Another one for you,
+.:Tony?
+._TONY
+.:Yes.
+>.He refills them, Tony looking straight ahead, Lucy glancing
+..at him every so often. Her anticipation is electric.
+..Tony gets his bourbon first and starts upon it immediately. 
+>.When Lucy gets hers she takes a sip and gets up to find a
+..table in the back.
+>.She looks for Tony and sees him still at the bar. She walks
+>.up to see he's already finished his drink and has ordered
+..another.
+>.Lucy goes back and sits down alone. Waiting nervously.
+>.Expecting something huge. She sips the gin and tonic from a
+..straw. 
+>.Eventually Tony sits down next to her, a little bit
+..unsteady. Seemingly a bit more primed to share.
+._LUCY
+>:When was the last time you fought
+.:anyone?
+._TONY
+>:Anyone? It was 1987. At my wife's
+.:funeral.
+._LUCY
+.((beat)
+.:Oh. I'm really sorry.
+._TONY
+>:Don't be. I won. He said some cruel
+.:things and I had to sort it out.
+>.A long silence. Lucy tries to think of the best way to
+..phrase this. She can't afford to screw this up.
+._LUCY
+.:So is that the reason that you--
+._TONY
+>:Don't fight? No! Don't be silly.
+>:It's nothing like that. It was
+>:because I had a realization. A real
+>:philosophical one. I realized that
+>:violence cannot solve your
+.:problems.
+>.Lucy looks surprised. She thought he was about to finally
+..share. That she had broken through.
+._LUCY
+.:That's why?
+..Tony now looks uncommonly cheerful.
+._TONY
+>:Oh yes. I looked at my life's work,
+>:and I, I saw that it was all about
+>:violence. Perfecting it, teaching
+>:it, living in it. And it offended
+.:me philosophically.
+._LUCY
+.:Philosophically?
+._TONY
+>:Violence is bad for society, it's
+>:bad for everyone, aggressors and
+>:victims. I couldn't live like that.
+>:I hung up my robes and quit the
+>:life. Never looked back. And ever
+>:since then I've refused every
+>:invitation to return. And that's
+>:why I feel secure now. I feel
+.:totally secure in my decision.
+>.Lucy slumps back, bitterly disappointed by his lies. She
+>.lost the moment, the one moment for real connection. The
+..wall is back up, but it has a cheerful face now.
+._LUCY
+>:Well, that's very principled of
+.:you, Tony.
+._TONY
+>:And I still think your mission
+>:won't work because of that. You
+>:really will accomplish much more if
+>:you give it up and take a, uh,
+>:peaceful approach. Even with
+>:Clarence Tran. That's why I've said
+>:everything I've said. Maybe you can
+.:understand now.
+>.She's dejected now. She can't bear to listen to more
+..falseness.
+._LUCY
+>:I understand. It's late, Tony, I'm
+>:gonna head home. I'll be pretty
+.:busy tomorrow.
+..She stands up, her gin and tonic half-finished.
+._TONY
+>:Ok. That's good, then. You need
+>:your sleep, you're looking tired.
+>:And it will help us in our lessons,
+.:too.
+._LUCY
+>:Thanks for the concern. See you
+.:tomorrow.
+..She walks straight out, quickly, not looking back.
+>.Tony's pleasant face slowly slips. He seems nervous now,
+>.wondering how well he performed. Whether he's put this topic
+..to rest.
+>.He gets up suddenly from the table. His glass falls on the
+..ground and breaks.
+.\EXT. STREET in front of donna's store - night
+>.Woojin and Nico sit inside an old sedan, watching the
+>.storefront exterior. Woojin smokes a joint. The radio plays
+..softly. The streets look deserted.
+._WOOJIN
+>:God, it's like this bitch never
+>:leaves. I thought her shift was
+.:over at 2.
+._NICO
+.:She is very dedicated.
+..Woojin takes another drag from his joint.
+._WOOJIN
+>:I'm starving, man. We still got
+>:that chocolate croissant from
+.:Peet's?
+._NICO
+.:Should be in the back.
+>.Woojin leans over the chair and rummages through the bag. He
+..strikes gold.
+._WOOJIN
+.:Aw, yes...just what I needed.
+>.He loudly crinkles the bag and pulls out the croissant. He
+..bites into it.
+._WOOJIN
+>:Mmmm. Oh my god. This is fucking
+>:amazing? Like, how do they get the
+.:pastry to be so buttery and flaky?
+._NICO
+.:Butter, probably. 
+._WOOJIN
+.((points to croissant)
+>:This is a work of art, Nico. You
+.:can never forget that.
+._NICO
+>:A work of art that lasts five
+.:minutes and is gone.
+._WOOJIN
+>:That makes it even more beautiful!
+>:It's fucking transitory! Temporary!
+.:Like, uh...
+._NICO
+.:Ephemeral?
+._WOOJIN
+.:Fucking right.
+..He finishes it off.
+>.Through the window, they see Lucy open the door and step
+..out.
+._WOOJIN
+.:Look, look, check it out!
+>.Lucy says goodbye to Donna, who stays in the store and dims
+..the lights.
+._WOOJIN
+.:Fucking finally, man.
+..Lucy walks around the corner and ducks into an alley.
+._WOOJIN
+>:All right. Let's collect it and get
+.:out of here.
+..The two men get out of the car. They approach the store.
+._LUCY (OS)
+.:Stop there!
+>.They look to see Lucy peeking out of the alley, watching
+..them closely. 
+._WOOJIN
+.:What's your problem?
+..Lucy steps out of the shadows towards them.
+._LUCY
+>:I know what you're doing. I've seen
+>:you guys waiting out there since
+.:1:30.
+._WOOJIN
+.:Yeah. We were doing you a favor. 
+._LUCY
+.:By robbing Donna blind?
+..Woojin smiles wearily. 
+._WOOJIN
+>:Listen, this is starting to really
+>:annoy us. Go home, all right?
+.:That's all we want to do.
+..Lucy puts down her bag and jacket.
+..Woojin looks at Nico, confused.
+..Lucy raises her fists, ready to fight, and approaches them.
+._WOOJIN
+.:What the fuck--
+>.Lucy STRIKES him quickly, knocking him down with a one-two
+..hit.
+..Nico helps up his friend, who wipes blood out of his mouth.
+._WOOJIN
+>:Girl, what the fuck is wrong with
+.:you?
+..Lucy steels herself. Gives him nothing.
+..Woojin gathers himself, then attacks with a cry.
+>.She parries his punch, then kicks him in the legs. Woojin
+..yelps comically.
+..Nico attacks suddenly. She barely avoids his swing.
+..Woojin hits, and connects, but there isn't much force.
+._NICO
+.:That's your hit?
+._WOOJIN
+.((indignant)
+.:It's got some power!
+>.Lucy gathers herself and backs up. The two men, now seeming
+..much bigger than her, close in.
+>.Lucy backs into the alley next to the store. It is covered
+>.with enormous, beautiful graffiti. Oakland street murals. A
+>.single lamp lights up the alley, their shadows are cast over
+>.the walls. There's an old-fashioned metal trashcan behind
+..Lucy.
+>.Woojin and Nico attack again, awkward and not in rhythm.
+..They're not experienced.
+..Lucy parries them, trying to duck some of their hits. 
+>.Nico gets in a good one on Lucy's arm. Angry, she clutches
+..her arm and kicks him right in the chest.
+>.Woojin looks surprised at seeing the bigger man pushed
+..aside. Lucy takes this opportunity to kick out his legs.
+..Woojin is angry now. The stoner vibe is all worn off.
+._WOOJIN
+.:Jesus fuck!
+>.Nico attacks again, this time just pushing Lucy. She's much
+..lighter, and she flies back into the trashcan.
+>.She picks up the metal lid and brandishes it. She has some
+..confidence now.
+>.She advances towards them, Woojin and Nico backing off
+..slowly. They look stupefied, not badass.
+>.She swings right at Woojin but misses. He hits her in the
+..belly, awkward but with some venom now.
+>.She keels over a bit, but then hits him with the metal lid.
+..He goes right down.
+>.Nico tries to hit, but she blocks it with the metal lid. He
+..clutches his hand in pain. It's almost Three Stooges-esque.
+>.While she's occupied with Nico, Woojin, still on the ground,
+..pulls on her legs. She falls over.
+>.Nico, still clutching his bloody hand, starts kicking her
+..pathetically.
+>.She grabs the lid and swings it from the ground, striking
+..him in the groin. Nico falls to his knees.
+>.Now Lucy jumps up, and faces Woojin, who has pulled himself
+..off the ground.
+>.His face is bloody; he looks unsteady. He half-heartedly
+..raises his fists.
+._WOOJIN
+.:You fucking bitch, we're gonna--
+>.Lucy attacks. Her experience is clear now; Woojin is
+..outmatched.
+>.He puts up a fight, but Lucy gains the upper hand. She
+..eventually finishes him off, leaving him on the ground.
+>.Lucy looks around at the two men. She walks over to Nico,
+..still clutching his balls, and kicks him in the face.
+._LUCY
+.:Don't ever come back to this store.
+>.She walks off. She's beaten and bloodied and exhausted, but
+..victorious.
+.\EXT. OUTSIDE OF TONY'S APARTMENT - night
+>.Lucy bangs on Tony's door, still bloodied from the fight.
+>.After a short wait, the bolt slides and the door opens. Tony
+..looks bleary.
+._TONY
+.:Lucy? What are you doing?
+._LUCY
+.:I need to come inside.
+..He gets a better look at her face.
+._TONY
+.:What the hell happened to you?
+._LUCY
+.:I need to use your sink.
+..Tony lets her enter for the first time.
+>.Lucy stumbles over to the sink and starts blood off her face
+..and knuckles.
+._TONY
+>:Lucy, who did you fight? Don't tell
+.:me some bullshit story!
+._LUCY
+.:Why not! You always do!
+._TONY
+.:Who did this?
+._LUCY
+>:I did! Okay? I saw these guys
+>:waiting outside Donna's store.
+>:Waiting to get more money out of
+.:her. I couldn't stand it this time. 
+._TONY
+.:You attacked Clarence Tran's men?
+._LUCY
+>:I beat them, okay. You have taught
+.:me something, at least.
+._TONY
+>:I didn't teach you to do that! I
+>:didn't teach you to throw away your
+>:life like that! I told you you
+.:weren't ready yet!
+._LUCY
+>:According to you I'll never be
+>:ready! You've been trying to get me
+.:to quit!
+._TONY
+.:What happened to them? How many?
+..Lucy grabs a towel, and attends to herself.
+._LUCY
+>:There were two of them. I left them
+.:bleeding in an alley. 
+._TONY
+>:So you managed to get yourself
+>:beaten up and leave them alive! All
+>:without informing me of anything!
+.:Why can't you control yourself?
+._LUCY
+>:I took on his men. Men twice my
+.:size. And I won.
+._TONY
+.:At the cost of this?
+._LUCY
+>:I actually did what I set out to
+>:do. I applied what you've taught
+.:me.
+._TONY
+>:You're not ready! You think these
+.:wounds are the end of it?
+._LUCY
+>:I can actually face the
+>:consequences of my actions, Tony.
+.:I'm not afraid!
+>.Tony rushes over to his cabinet, pulls out a first aid kit,
+..and gives her a fistful of bandages.
+._TONY
+>:Your training is over. Forever. I
+.:don't want to see you again.
+..Lucy looks straight at him, blood boiling.
+._LUCY
+>:This is how you respond? When I
+.:need you?
+..Tony has gone from rage to venomous bile.
+._TONY
+>:I can't help you. I obviously never
+.:could. You've wasted everything.
+._LUCY
+>:I thought I might have to do this
+>:alone. But I didn't think you'd
+.:leave me like a coward.
+._TONY
+.:Go back to the street.
+>.Lucy grabs some bandages and stuffs them into her bag. She
+..leaves and slams the door.
+..Tony stands there, fuming for a second. 
+>.He looks at a water bottle on the table, then suddenly kicks
+..it.
+.\EXT. STREET IN FRONT OF DONNA'S STORE - day
+>.Lucy walks down the streets furtively. She has bandaged
+..herself up from the previous night. 
+>.With every step she glances around; danger lurks behind
+..every corner. The streets seem eerily empty.
+>.As she gets up to where Donna's store is, she pauses,
+..hearing a commotion. Is it an ambush? Did something happen?
+..She finally walks around the corner and stops in horror.
+..Donna's store is a burn-out wreck. 
+>.A firetruck is in front of it, firefighters spraying water
+..onto it, with a crowd around the strorefront.
+..Lucy runs up to the crowd, all caution gone.
+..She sees Wan-Min, standing next to the firetruck, crying.
+._LUCY
+.:What happened?
+._WAN-MIN
+>:They think someone burned down the
+.:store last night. Donna---
+._LUCY
+.:Is Donna okay?
+..Wan-Min shakes her head, covering her mouth.
+._WAN-MIN
+>:She's in the hospital. They haven't
+>:said how she's doing. But I heard
+.:there was gasoline...
+..Lucy turns white.
+._WAN-MIN
+.((CONT'D)
+>:I just don't know how this
+.:happened! Why this happened?!
+..Lucy looks around the street.
+>.Her eyes fix on two kids: the youths from the beginning, who
+..terrorized Benny's shop. They're watching.
+._WAN-MIN
+>:Lucy, what's wrong? Do you know
+.:anything about this?
+>.Lucy walks quickly away from the scene, towards the youths,
+..smoke billowing behind her.
+>.The youths look uneasy as she approaches them. They start to
+..turn around.
+._LUCY
+>:I need to tell you something!
+>:That's all I want to give you: a
+.:message.
+..The youths stop and look at her.
+._LUCY
+.((CONT'D)
+.:Not a beating.
+..The youths smirk uneasily.
+._BLACK YOUTH
+.:Not with all them cops around.
+._LUCY
+>:You're running errands, right? So
+.:you can deliver a message too.
+._BLACK YOUTH
+.:Like what?
+._LUCY
+>:I want to see him. Clarence Tran.
+>:As a concerned citizen. You tell
+.:him that.
+._BLACK YOUTH
+.:Get the fuck out of here.
+._LUCY
+>:I'm not a cop. I'm not an
+.:informant. I want to talk.
+._ASIAN YOUTH
+.:He ain't gonna talk to you.
+._LUCY
+>:If he doesn't, I'll take down
+>:everyone I can find who might be
+>:connected to him. Starting with you
+.:two.
+..The two youths laugh nervously.
+._BLACK YOUTH
+.:Alright, we'll tell him. 
+._LUCY
+>:I'll be waiting tonight by the
+>:docks. The Shoreline Park by the
+.:Middle Harbor.
+..Their eyes widen. 
+._LUCY
+.((CONT'D)
+.:Tell him that.
+..She turns around confidently.
+>.Lucy clenches her fists, opening up her scars and staining
+..the bandages wrapped around them red.
+.\EXT. OAKLAND DOCKS - night
+>.Lucy stands in a red tracksuit on a hill, wind flapping her
+>.hair, the lights of San Francisco and the Golden Gate Bridge
+..behind her. 
+..She checks her watch. 12 am. No sign of them.
+>.She looks up at the sky, looking for stars. She only sees a
+..plane light, flying over the Bay.
+>.She stares at it for a while, then starts. A retinue of
+>.three cars are pulling up in the dark street in front of
+..her.
+..Lucy goes down the hill. 
+>.Five tough-looking men pile out of the front and back cars
+..each.
+>.The men surround Lucy in a large semicircle, her back to the
+>.hill. She stares them down. Alone in front of this private
+..army, she has never looked smaller.
+>.Out of the middle car climbs Woojin, then Nico, both
+..bandaged.
+..And Clarence Tran. 
+..Lucy's eyes widen. It's the moment she's been waiting for.
+._CLARENCE TRAN
+>:When I heard about your actions
+>:last night I was convinced it was
+>:some sort of trick. Or joke.
+>:Nothing serious. My two men here
+>:told me you were insane. That you'd
+>:snapped. That I didn't believe. I
+>:thought there was a method to your
+>:madness. We took some action last
+.:night, just in case.
+..Clarence steps forward towards her.
+._CLARENCE TRAN
+.((CONT'D)
+>:But when I heard your message
+>:today? I thought maybe they were
+>:right. That you have a death wish.
+.:Or a big tumor in your brain.
+..He nods his head. The men behind him pull out some guns.
+._CLARENCE TRAN
+>:I had to come. Just to find out for
+>:myself. I've never heard of
+>:anything like this. I could have
+>:had these boys take care of it, but
+>:I would be missing history. The
+>:strangest story of my life. So tell
+.:me: what's the truth here?
+._LUCY
+>:It's very simple. I came here to
+>:tell you I'm taking you down. You
+.:and all your men. Everyone.
+..The men laugh. Clarence doesn't.
+..He just jerks his head towards her.
+..Two men step forward, brandishing PISTOLS.
+..Lucy does nothing. She shows no fear.
+>.They grab her and force her to her knees. One searches her
+..pockets, and pulls out a wallet. Nothing else.
+>.The man carries the wallet over to Clarence Tran, while the
+..other keeps her down. She stares at Clarence.
+..He opens the wallet and looks at it. 
+..Disbelief. 
+._CLARENCE TRAN
+.:So it's true.
+..Woojin crowds around him to read.
+._Woojin
+.:Lucy Mao? A student at SFSU?
+..Clarence pulls out three dollars from her wallet.
+._CLARENCE TRAN
+>:I thought they were mistaken when
+>:my background check said you were a
+.:college student.
+._WOOJIN
+.:Are you fucking serious, man?
+._LUCY
+>:That's right. I'm not wearing a
+>:wire. I'm not a cop. No one else
+>:knows I'm here. I'm just a
+>:concerned citizen. I'm going to end
+.:you.
+..For the first time, Clarence Tran smiles.
+..The man holding her down cocks his gun.
+._LUCY
+>:You can just kill me now. I'm not
+>:afraid to die here tonight. But I
+>:can't do it without fighting you
+.:first.
+>.Clarence looks impassive. Is it shock on his first, or
+..amusement, or satisfaction?
+._WOOJIN
+>:Boss, we should just kill her. It
+.:would be so easy.
+._NICO
+.:I do have to agree with him.
+._LUCY
+>:I've heard so much about you. About
+>:your ruthlessness, your legendary
+>:viciousness. And now you can't even
+>:fight a college girl? You're going
+>:to have someone else pull the
+.:trigger for you? 
+._WOOJIN
+>:He should pull the fucking trigger
+.:now.
+._LUCY
+>:Some legend you are. Some way to
+>:end the strangest story of your
+.:life. Don't you want to try it?
+._NICO
+.:There is nothing to be gained here!
+._LUCY
+.:What kind of a man are you?
+._WOOJIN
+.:You shut the fuck up!
+._LUCY
+.:Do it or don't! You fucking rat!
+._WOOJIN
+.:Don't you---
+._CLARENCE TRAN
+.:Stop!
+>.Clarence Tran looks at them with dagger eyes. Nico and
+..Woojin stand back.
+..He glances at the man holding Lucy.
+._CLARENCE TRAN
+.:Let her up.
+..Lucy stands up, ready to fight.
+._WOOJIN
+.:You're not really--
+>.Clarence turns around lightning fast and hits him on a
+..bandaged spot.
+..Woojin collapses, whimpering.
+>.Clarence turns around to look at Lucy. He takes off his
+..glasses and puts them in his suit pocket.
+._CLARENCE TRAN
+.:I accept your challenge.
+..The men standing around look shocked.
+>.Clarence removes his suit jacket. Lucy looks around the
+..circle of men, clenching their guns tightly.
+>.Slowly, Clarence unbuttons his black dress shirt to reveal a
+..black T-shirt underneath.
+..Lucy looks up. A star peeping from behind a cloud.
+..Clarence kicks off his dress shoes, keeping his trousers on.
+..Lucy ties up her hair. She's ready. An exterminating angel.
+>.His socks now off, Clarence pulls a GUN out of his suit
+..jacket and hands it to Nico.
+._CLARENCE TRAN
+.:Shoot any man who dares intervene.
+..He turns around to face his men.
+._CLARENCE TRAN
+.((CONT'D)
+>:Not a goddamn soul inside this
+.:circle!
+..All the men back up a step, faces waxen with fear.
+..Clarence faces Lucy. She gives him nothing.
+>.He steps toward her. She stands alone in the circle, wind
+..from the Bay swaying the grass around her.
+..He draws close, not pausing.
+._CLARENCE TRAN
+.:I'll kill you quickly, Ms. Mao.
+..Clarence strikes without breaking his stride.
+..Lucy dodges, but Clarence attacks again.
+>.He is quick and brutal; more unforgiving than Tony, more
+..vicious.
+>.Lucy struggles to keep up. Every attack she makes is
+..smoothly dodged or blocked.
+>.Clarence lands a blow. She tries to pull back to gather
+>.herself, but Clarence doesn't let her. He does not believe
+..in an honorable fight.
+>.Clarence is on the offensive now. He attacks with one chop
+..after another, Lucy trying to push him back.
+>.The mooks begin to relax. Woojin and Nico exchange knowing
+..glances.
+._WOOJIN
+.:Kill that bitch!
+._Mook #1 
+.:Yeah!
+._Mook #2 
+.:Get her!
+>.Clarence has pushed her up against the hill. Lucy is losing
+..her balance.
+>.But now she sees an opportunity. Clarence tries a fearsome
+..kick, but Lucy dodges.
+>.Lucy backs up the hill, and with the extra elevation, she
+..uses Tony's jab.
+..She HITS Clarence square in the face with the jab.
+..Clarence backs up, dazed. 
+>.Lucy jumps off the hill and jabs again. This time in the
+..chest.
+>.Clarence swings wildly, his poise broken. Lucy dodges it
+..easily and attacks.
+..The mooks are deathly silent.
+>.Lucy unleashes a combination move. Clarence backs up, nose
+..bleeding. She looks unstoppable now.
+..One mook glances around, panicked. Woojin sees this.
+._WOOJIN
+.:Don't you move, you motherfucker!
+>.Clarence's face is twisted in a cold rage. This fight
+..offends him.
+>.He tries to go back on the offensive, and win back some
+..ground. 
+>.Lucy just dances around him and pushes him onto the hill. He
+..narrowly dodges her finishing hit.
+>.The mook can stand it no longer. He breaks out of the
+..circle, running towards his master.
+..Nico SHOOTS him in the back, not an expression on his face.
+>.Lucy glances towards the dead man. She is energized.
+>.Confident. She feels the end. That her crazy plan might
+..work.
+>.Clarence's eyes widen. Leaning against the hill, fear enters
+..them for the first time.
+..Lucy attacks. It's time to finish him.
+..She uses the ___ kick.
+..She exposes herself. Her side is wide open.
+..Clarence punishes her.
+>.He grabs the leg in mid-air, hits it, and rams it against
+..the hill.
+>.He STRIKES her leg with his elbow, landing with a sickening
+..crunch.
+..Lucy screams in agony, her head to the sky, leg BROKEN.
+>.Clarence stands up straight. He wipes the blood off his face
+..and looks down at his prey.
+..Lucy can't accept it. She crawls toward him.
+>.He turns around, all his coldness back, and walks toward
+..Woojin and Nico.
+>.Lucy gasps for breath. The clouds above her seem to be
+..trapping her. She desperately struggles to pull herself up.
+>.She can hear him walking towards her, hear the mooks
+..cheering, baying for blood. She is still fighting, striving.
+..Through force of will she pulls herself up from the ground.
+..Just in time for Clarence to bury his KNIFE into her chest.
+..And Lucy falls, slowly, back down to earth.
+..The city lights shimmer on the Bay.
+..The waves gently scrub the shore.
+.\INT. TONY'S APARTMENT - DAy    
+>.Sunlight beams through the curtains, waking Tony up on the
+..couch.
+>.He's wearing the same clothes he did last night, when Lucy
+..told him about her fight with Nico and Woojin.
+>.He stretches and looks at his kitchen table, littered with
+..empty beer and bourbon bottles.
+..He splashes water in his face.
+.\EXT. STREETS OF OAKLAND CHINATOWN - DAY
+..Tony, changed, steps slowly out of his apartment.
+..The streets seem quiet today.
+..He rounds the corner and sees Donna's store. 
+..Torched.
+>.The firetrucks have left. He realizes what has happened, and
+..what Lucy might do.
+.\SERies of shots
+..-Tony, panicked, runs up to the burned-out store.
+>.-Tony talks to Wan-Min, who points the direction Lucy went
+..in.
+..-Tony runs around the streets of Chinatown.
+>.-Tony gesticulates to Benny, who shakes his head. He hasn't
+..seen her.
+>.-He closes the door of the hospital room Donna is in as
+>.doctors rush in. From his face we see what has happened to
+..her.
+..-Tony sits in front of unsympathetic police.
+>.-He sits alone at the dive bar, with no drink, at the same
+>.table he once sat with Lucy. The chair next to him is
+>.conspicously empty; a folded-up newspaper is in front of the
+>.empty chair. We can see enough of it to determine what it
+..says.
+.\EXT. STREETS OF OAKLAND CHINATOWN - night
+>.Tony sits in a car outside of the fancy restaurant, Carollo
+..Ristorante, that he and Lucy ate at. 
+>.Food wrappers and a few empty cans of energy drink litter
+..his car. He has been staking out here for quite some time.
+>.There is a gala going on tonight at the restaurant. People
+>.in suits walk in and out of the restaurant, with a grand,
+>.lit-up entrance, complete with balloons, a carpet, and a
+..banner reading "FUNDRAISER SIGN."
+>.Tony carefully watches the mingling guests, noticing the
+>.occasional guard in suits standing around the restaurant:
+..the mooks who watched Lucy die.
+..The radio is on. 
+._Radio announcer (VO)
+>:...The Warriors have extended their
+>:winning streak to 10 games with
+>:last night's victory in LA against
+.:the Lakers. 
+>.A group of cars pull up to the restaurant. Everyone outside 
+..the restaurant starts crowding around the entrance.
+..Clarence Tran's entourage. Tony perks up, eyes alert.
+._RADIO ANNOUNCER (VO)
+>:Meanwhile, authorities are
+>:continuing the search for Lucy Mao,
+>:an Oakland native and SFSU student
+>:whose body was found floating in
+>:San Francisco Bay five days ago.
+>:Anyone with knowledge of this case
+>:should report it immediately to the
+.:Oakland Police Department.
+>.Tony sees a few mooks step out, with Woojin and Nico leaving
+..the center car. 
+..Clarence Tran and Sylvia follow, in suit and evening dress.
+>.Sylvia smiling and Clarence stone-faced, they walk up to the
+>.door and are greeted by the owner, Pauly Carollo. Clarence's
+..thugs take up posts outside the restaurant.
+._PaulY carollo
+>:Sylvia, it's so good to see you!
+.:And Clarence, how are you?
+._SYLVIA
+>:Thank you so much for hosting this.
+>:How has everything been going so
+.:far?
+._PAULY CAROLLO
+>:Oh, excellent. Turnout is great,
+>:everyone lives the food, the music,
+.:the vibes.
+._SYLVIA
+>:Of course they do, it's your
+.:restaurant!
+._PAULY CAROLLO
+.((laughing)
+>:We're gonna raise a lot of money
+>:for ___ tonight. This was a great
+.:idea on your part.
+._SYLVIA
+>:Well, Clarence did help me with the
+.:planning.
+..Clarence doesn't bother to smile.
+._CLARENCE TRAN
+.((totally flat)
+>:I just try to help her passions
+.:whenever I can.
+._PAULY CAROLLO
+>:Why don't you come inside? I have
+.:some people I want you to meet.
+..Clarence glares at Sylvia, who shrugs.
+._SYLVIA
+.:It won't last long, I promise. 
+._CLARENCE TRAN
+.:I'll make sure of that.
+._SYLVIA
+.:Clarence, it's just one night.
+..Pauly pauses in the doorway.
+._PAULY CAROLLO
+.:Are you coming?
+._SYLVIA
+.:Yes, we are.
+..They follow him into the restaurant.
+>.Tony stares at them from his car, eyes filled with rage. He
+..glances around, checking the guards one more time.
+>.One of the guards steps away from the restaurant for a
+..second. He sticks a cigarette in his mouth and lights it.
+>.Out of the darkness a foot HITS him in the face, knocking
+>.the cigarette into his mouth. [Is a kick too ridiculous, so
+..that the foot should be replaced with a fist?]
+..Tony emerges from the darkness.
+..He kneels down and finishes the guard with his elbow.
+>.One of the other guards notices and alerts a guard next to
+..him.
+>.Tony runs toward them and takes them both out almost
+..instantly. 
+>.He is brutal and violent; all his old grace replaced by the
+..single-minded will to kill.
+>.The guests standing outside panic and run. Tony stands in
+>.the middle of the confusion and approaches the door, with
+..two terrified guards flanking it.
+>.Tony quickly takes out the first, then BREAKS the arm of the
+>.second with a loud crunch, and SMASHES the man's face with
+..his knee.
+.\INT. FANCY RESTAURANT - NIGHT
+>.In the back of the restaurant, Clarence, Sylvia, and Pauly
+>.stand talking to a gaggle of guests. They hear screaming and
+..commotion from the front.
+._PAULY CAROLLO
+.:What's going on over there?
+._SYLVIA
+.:I don't know, I--
+..She looks at Clarence, who is alert now.
+._SYLVIA
+.:Honey? [Different word for honey?]
+>.Back at the front of the restaurant, three mooks attack
+..Tony.
+>.He takes down the first with a laser-precise jab to the
+>.groin, then another with a kick to the leg and strike to the
+..face.
+>.The third one grabs a knife, but Tony grabs a wine bottle
+..from a table next to him. 
+..He BREAKS the wine bottle on the goon's head. 
+>.Tony buries the jagged end of the bottle into the man's
+>.stomach, disemboweling him. The man shrieks as his insides
+..go flying. Tony's rage is incandescent now.
+>.Still holding the jagged, now bloody wine stub, Tony sees
+>.another man approaching, and tosses the bottle at his face.
+..The man collapses, glass shards in his eye. 
+>.Woojin runs out on the other side of the restaurant with
+..Nico and finally spots Tony.
+._WOOJIN
+.:Who the fuck is this guy?
+>.Tony runs over, and without looking down, STOMPS the shard
+..into his brain.
+..Woojin and Nico look at each other, horrified.
+._WOOJIN
+>:You hold him back for a bit! I
+.:gotta go tell Clarence!
+>.Clarence, in another room, walks towards the front as the
+..restaurant empties out. Sylvia is behind him.
+._SYLVIA
+>:Clarence, what the hell is going
+.:on?
+..Woojin runs in.
+._WOOJIN
+>:Boss, there's some kind of--crazy,
+>:kung fu Bruce Lee motherfucker
+>:here. He's killing everyone. We
+.:gotta get you out of here now!
+..Pauly flees immediately. Clarence glares at him.
+._CLARENCE TRAN
+.:Don't you run!
+>.Sylvia looks horrified. Clarence runs up and grabs the
+..terrified Pauly.
+._CLARENCE TRAN
+.((CONT'D)
+>:You got any weapons in this place?
+>:Shotguns, pistols, anything better
+.:than a knife?
+>.Pauly whimpers. Clarence looks down at Pauly's pants, then
+..looks up again.
+._CLARENCE TRAN
+.:Tell me now.
+._PAULY CAROLLO
+>:There's, there's a pistol in my
+.:desk. Second shelf.
+._CLARENCE TRAN
+.:Good.
+..He tosses Pauly aside, who scurries away.
+._SYLVIA
+.:Clarence?
+._CLARENCE TRAN
+>:Sylvia, you have to get out of
+.:here.
+._SYLVIA
+.:I don't understand...
+._CLARENCE TRAN
+>:This is my job! How do you think
+>:you afford that fucking dress and
+.:that fucking house?
+._SYLVIA
+.:But you're in danger--
+._CLARENCE TRAN
+>:You have to leave. I'll take care
+.:of this.
+..Sylvia stands up, stronger.
+._SYLVIA
+>:I'm not leaving you. I am your
+.:wife.
+..Clarence glances at Woojin.
+._CLARENCE TRAN
+.:Get her out.
+>.As Woojin grabs her, Clarence walks towards the back of the
+..restaurant.
+>.In the front of the restaurant, Tony takes out two more
+..mooks. Dead or broken men lie behind him.
+>.Nico picks up a steak knife from one of the tables and
+..approaches him.
+>.He stabs at Tony, but he dodges it and strikes the big man
+>.in his legs. Nico withstands it and jumps onto Tony,
+..SMASHING a table.
+>.Now on top of Tony, Nico tries to stab him again, but Tony
+>.grabs his hand before Nico can thrust. The much smaller Tony
+..twists out of the lock, knees Nico, and flips him over.
+>.Nico struggles, but Tony knocks the knife out of his hand
+..and grabs it.
+..He throws it at another mook coming behind his back.
+>.Tony strikes Nico in the throat and jumps up, then kicks his
+..teeth out.
+>.Just one thug left in the front room. A shrimpy looking
+..white guy, standing in front of the door.
+>.[Tarantino paid homage to Yojimbo with the line "Go home to
+>.your mother!" In the Bride's fight scene. If only he hadn't
+..already used that hilarious line.]
+>.Tony walks to the door, glaring at him. The thug weakly
+..opens the door for him. Tony goes through it without a word.
+>.[Perhaps the humor of this would distract. It could be done
+>.in a non-humorous way, where Tony just runs right past the
+..guy, who quickly opens the door for this badass man.]
+>.The back room is empty. Tony notices the hallway in the
+..back, and goes towards it.
+.\Int. restaurant office - continuous
+>.Clarence bursts into Pauly's office, going over to the desk.
+..He opens the second one and finds a pistol, but no ammo.
+.\Int. Hallway of restaurant - continuous
+>.Tony is attacked by a mook in the hallway, who he brutally
+>.destroys. Another bursts out of the kitchen and attacks Tony
+..from behind, but after a short struggle he is taken out too.
+.\INT. RESTAURANT office - CONTINUOUS
+..Clarence pulls out drawers frantically, searching for ammo.
+.\INT. HALLWAY OF RESTAURANT - CONTINUOUS
+>.Tony stalks throught the dark, abandoned halls. Approaching
+>.Pauly's office, with a prominent door and glass window, Tony
+..is suddenly attacked by Woojin, wielding a cleaver.
+>.Woojin strikes emphatically, but misses and embeds the
+..cleaver in the wall.
+>.Tony takes him out and grabs the cleaver, holding it against
+..Woojin's neck.
+._WOOJIN
+.:Wait! Wait, please don't--
+._TONY
+.:Is Clarence in there?
+._WOOJIN
+.:What do you want? Jesus, I--
+._TONY
+.:Who killed her?
+._WOOJIN
+.:What?
+._TONY
+.:Lucy! Did you kill her?
+._WOOJIN
+.:Clarence...
+..His eyes dart towards the office.
+>.Tony glances at it, then chops open Woojin's throat with the
+..cleaver, as if slaughtering a chicken.
+>.Still clutching the bloody knife, he runs up to the door of
+..the office and kicks it open.
+.\INT. RESTAURANT office - CONTINUOUS
+..Clarence stands next to the desk, pointing the gun at Tony.
+._CLARENCE TRAN
+.:Whoever you are, stop there.
+..Tony stops, eyes boring into Clarence Tran.
+._CLARENCE TRAN
+.((CONT'D)
+>:What do you want? What are you
+.:doing here?
+._TONY
+>:You deserve to die. Lucy Mao
+.:didn't.
+._CLARENCE TRAN
+.:Lucy Mao? 
+._TONY
+.:I'm carrying out her last wishes.
+._CLARENCE TRAN
+.:Her father?
+._TONY
+>:She called me master. But I am her
+.:pupil now. [Cheesy?]
+._CLARENCE TRAN
+>:You can't take me down with your
+.:fists. I'll always win with this.
+..He gestures at his gun.
+..Tony smiles coldly.
+._TONY
+>:I don't care if I lose. As long as
+.:you do too.
+..He steps forward, ready to die.
+..Clarence pulls the trigger. CLICK.
+..No bullets.
+..Clarence throws away the gun and puts up his fists.
+._CLARENCE TRAN
+>:I'll kill you like I killed your
+.:little girl.
+..Tony attacks in a fit of rage.
+>.Clarence's cold poise is cracked now. Tony's anger is too
+..much for him.
+>.He attacks relentlessly, wailing on Clarence, who can barely
+..block his blows.
+>.Clarence tries to run behind the desk for some room, but
+>.Tony jumps on it and kicks Clarence in his raised arms, then
+..kicks him into the wall.
+>.Tony jumps down and attacks again. Every jab, chop, and kick
+..is filled with hate.
+>.Over and over he hits Clarence, who crumples to his knees.
+..With a swift hit he BREAKS Clarence's glasses.
+>.Clarence lies back. Defeated. Near death. Tony steps around
+..him and grabs his neck.
+..Clarence can barely croak out the words.
+._CLARENCE TRAN
+.:What--
+..CRUNCH.
+..Clarence Tran collapses, neck broken.
+._TONY
+.((quietly)
+.:I'm a killer.
+>.Tony stands over his prize, looking small. The restaurant is
+>.deathly quiet. This is not a triumphant moment but a tragic
+..one. Horrifying, even.
+>.Tony steps out of the office, past the crumpled and broken
+..bodies of the men he killed. He looks at their faces.
+>.He passes through the back room of the restaurant, empty and
+>.silent. He looks towards the front, then turns back and
+..walks out.
+.\Ext. Back of restaurant - night
+>.Tony walks away from the restaurant calmly, stepping into
+>.the darkness, as a first police car pulls up on the other
+..side.
+..SOME SHIT HAPPENS-----------------------
+.\INT. TONY'S APARTMENT - DAY
+>.The door to Tony's apartment is SMASHED open, and two thugs
+>.armed with pistols enter, pointing their weapons around,
+..seeing no one. 
+..Sylvia follows them, with another thug behind her.
+>.She's wearing black, with a look of studied anger. Her eyes
+..sweep over the apartment quickly.
+._MOOK #3
+.:He's been gone for a while now.
+>.The thugs start looking around, tearing the apartment apart.
+>.Sylvia saunters around the flat, looking for some sort of
+..clue.
+>.The apartment is spotless, cleaner than we've ever seen it.
+..No alcohol is visible. 
+>.His bedroom look as meticulously clean as the night he
+..rejected Lucy.   
+._SYLVIA
+>:Where could a man like this have
+.:gone...?
+>.Sylvia looks at his bookshelf, seeing an empty spot where a
+..book once was. Then she goes over to the two framed photos.
+>.She picks up the first one, showing Tony in robes with his
+>.wife. She opens the frame, removes the picture, and places
+..it in her jacket.
+>.She picks up the other photo, and regards it for a moment.
+..This is what she is looking for.
+>.She sees Tony with his family standing around a temple arch
+..in their native village in China. 
+..He's gone home.
+.\Ext. Chinese village - night
+>.The same arch from the photo, now older and partially
+..ruined, stands watch over the sleepy village.
+..
+..
+..
+..
+..
+..
+._
+..
+.:
+.:
+.:
+._
+.:
