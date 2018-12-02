@@ -39,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:4029
-Cursor/Column:26
+Cursor/Line:1669
+Cursor/Column:39
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -427,7 +427,8 @@ Words:0
 .:Green tea, please.
 ._BARISTA
 >:I, uh, I see. How do you like your
-.:tea, sir?
+>:tea, sir? [This comedy is a bit
+.:hacky]
 ._TONY
 .:In a cup.
 >.From the side his friend REID MAYER approaches. Reid is
@@ -960,7 +961,8 @@ Words:0
 >:guys on the street, I know he runs
 >:everything around her. But I didn't
 >:think he reached his tentacles in
-.:here.
+>:here. [YIKES! This dialogue is
+.:bad.]
 ._DONNA
 .((smiles after a beat)
 >:You talk so well. It reminds me of
@@ -1149,7 +1151,7 @@ Words:0
 .:Focus, Kevin!
 ..There is a tense silence. Finally Kevin strikes. 
 >.His move is exceptionally slow. Lucy easily dodges it and
-..sends a tremendous, spectacular kick right into his face. 
+..sends a spectacular kick right into his face. 
 ..He keels over instantly.
 ._karate STUDENT #2
 .:Oh shit!
@@ -1161,7 +1163,7 @@ Words:0
 ._MASTER DOUGLAS
 >:Alright everyone, calm down! Stay
 .:back!
-..Lucy stands over Kevin, who is moaning lightly.
+..Lucy stands over Kevin, who is moaning weakly.
 ._LUCY
 >:Kevin, I'm really sorry! I didn't
 .:mean to do that!
@@ -1169,7 +1171,7 @@ Words:0
 .:Alright, it's ok. He's ok.
 .\int. Master douglas's office - afternoon
 >.Through the glass of his office, students are seen in the
-..gym picking up their bags and leaving. Class is over
+..gym picking up their bags and leaving. 
 >.A group of students are seen around Kevin, who rubs his
 ..face.
 ._LUCY
@@ -1186,16 +1188,17 @@ Words:0
 .:in the future.
 ._MASTER DOUGLAS
 >:You don't have to tone it down, you
->:just have to think about when
->:you're sparring versus when you're
->:competing. But that kind of drive
-.:is good!
+>:just have to consider what you're
+>:doing when you're sparring versus
+>:when you're competing. But that
+>:drive you have, that passion is
+.:good!
 ..He sits down behind his desk, and opens up his computer.
 ._LUCY
 >:Master Douglas, how long have you
 .:been teaching?
 ._Master douglas
->:Karate? Oh, I'd say..22 years. 19
+>:Karate? Oh, I'd say...22 years. 19
 .:years of judo.
 ._LUCY
 >:So would you say you know most of
@@ -1205,9 +1208,11 @@ Words:0
 .((thinking)
 >:Yeah, I'd say so. Definitely in
 >:East Bay. It's not the biggest
->:community. Although usually it's
->:other people recognizing me. Ain't
->:too many black guys in this line of
+>:community, especially if you take
+>:out the MMA and Brazilian jiu-jitsu
+>:people. Although usually it's other
+>:people recognizing me. Ain't too
+>:many black guys in this line of
 .:work. How come?
 ._LUCY
 .((hesitant)
@@ -1399,7 +1404,7 @@ Words:0
 >:I thought I might have a problem
 >:with you, Lucy. But now I know I
 >:won't. What you're saying is
-.:ridiculous.
+.:ridiculous. [Kind of weak]
 ._LUCY
 >:I know it doesn't sound
 .:very...conventional.
@@ -1521,7 +1526,7 @@ Words:0
 >.Tony lilts back on the couch, trying to will himself into
 >.peaceful, drunken sleep. He hears a sound outside and with
 ..uncommon quickness goes to the door. It has started raining.
->. He takes a look at the empty chair on the porch, then
+>.He takes a look at the empty chair on the porch, then
 ..clutches his mouth.
 ..He runs to the bathroom and throws himself on the toilet.
 ./CUT TO:
@@ -1831,9 +1836,9 @@ Words:0
 .:Have a good time, sir.
 ..Clarence leaves.
 .\Ext. Sfsu campus - morning
->.The sun-dappled city campus of San Francisco State bustles
->.with activity. A few quirky signs and maybe a homeless
-..person can be seen (classic San Francisco).
+>.The foggy city campus of San Francisco State bustles with
+>.activity. A few quirky signs and maybe a homeless person can
+..be seen (classic San Francisco).
 .\Int. University classroom - continuous
 >.Lucy slumps back in her desk near the front of the class,
 >.visibly exhausted. The classroom is somewhat cramped, a
@@ -1848,7 +1853,6 @@ Words:0
 ..bit too well-dressed for a college student.
 ._Jordan
 .:Professor,
-..
 .\INT. benny's LIQUOR STORE - day
 >.Tony comes in and goes straight into one of the aisles.
 >.Benny stands behind the counter, his back turned. He can
@@ -2491,17 +2495,19 @@ Words:0
 >:to look over the menu and be back
 .:soon.
 ..She smiles and leaves.
-._TONY
+._LUCY
 >:Aren't haricots verts just green
 .:beans?
-._LUCY
+._TONY
 .:I think so.
-._Tony
+._LUCY
 >:Why does an Italian restaurant need
 .:to put their vegetables in French?
+._TONY
+.:I have no idea.
 ._LUCy
->:I have no idea. Is it bad that I
-.:just want some ramen?
+>:Is it bad that I just want some
+.:ramen?
 ._TONY
 >:You're a philistine! You need to
 .:learn to appreciate nice stuff. 
@@ -2579,7 +2585,8 @@ Words:0
 .:with integrity.
 ._TONY
 >:You know, Lucy, I don't think
-.:you're as cynical as you act.
+>:you're as cynical as you act. [A
+.:little cliche]
 ._LUCY
 >:It's not a college affectation, if
 .:that's what you're thinking. 
@@ -2588,7 +2595,7 @@ Words:0
 ..Lucy leans back in her chair and looks at Tony coldly.
 ._LUCY
 >:One time when I was a little girl,
->:I snuck into the Hyatt by Union
+>:I snuck into the Westin by Union
 >:Square. I was alone. I wore this
 >:little patched up dress. Walked
 >:behind some family's luggage, came
@@ -2614,8 +2621,8 @@ Words:0
 >:was doing me a favor. Being there
 >:alone. She could tell I was alone,
 >:that I wasn't a guest. The security
->:guard looked guilty, but he threw
-.:me out all the same. 
+>:guard looked guilty, but he still
+.:threw me out.
 ..Lucy pauses for a beat.
 ._LUCY
 .((CONT'D)
@@ -2895,7 +2902,7 @@ Words:0
 >:just got out of there. I'm happy to
 >:be here with a nice bed and a TV.
 >:Pretty soon I'll be in hell...or
-.:heaven.
+.:heaven. [Bad Engrish joke?]
 >.As he says hell he points up, and points down when he says
 ..heaven.
 ._YIMING
@@ -3147,10 +3154,11 @@ Words:0
 >:partnership, and making myself
 >:money, while saying that some day
 >:I'll get to helping our community.
->:Some day I'll do what I actually
->:set out to do. But first I have to
->:get a BMW. First I have to score
-.:high on the entrance tests.
+>:Telling myself that some day I'll
+>:do what I actually set out to do,
+>:but first I have to get a BMW.
+>:First I have to score high on the
+.:entrance tests.
 ._TONY
 >:That's what us old folks are
 >:counting on. We want you to get out
@@ -3244,10 +3252,10 @@ Words:0
 ._TONY
 >:Don't fight? No! Don't be silly.
 >:It's nothing like that. It was
->:because I had a realization. A real
->:philosophical one. I realized that
->:violence cannot solve your
-.:problems.
+>:because I had a realization. A
+>:truly philosophical one. I realized
+>:that violence cannot solve your
+.:problems. [Improve]
 >.Lucy looks surprised. She thought he was about to finally
 ..share. That she had broken through.
 ._LUCY
@@ -3545,7 +3553,7 @@ Words:0
 >:alone. But I didn't think you'd
 .:leave me like a coward.
 ._TONY
-.:Go back to the street.
+.:Go back to the street. [Improve]
 >.Lucy grabs some bandages and stuffs them into her bag. She
 ..leaves and slams the door.
 ..Tony stands there, fuming for a second. 
@@ -3629,7 +3637,7 @@ Words:0
 ._LUCY
 >:I'll be waiting tonight by the
 >:docks. The Shoreline Park by the
-.:Middle Harbor.
+.:Middle Harbor. [Real park name?]
 ..Their eyes widen. 
 ._LUCY
 .((CONT'D)
@@ -4223,7 +4231,60 @@ Words:0
 >.Tony walks away from the restaurant calmly, stepping into
 >.the darkness, as a first police car pulls up on the other
 ..side.
-..SOME SHIT HAPPENS-----------------------
+.\Ext. Under freeway overpass - night
+>.Tony walks quickly but calmly in the dark, removing his
+>.blood-splattered clothes and tossing them into a pile of
+>.trash built up by the homeless encampment under the freeway.
+>.A sleeping homeless man wakes up and looks, stunned, at this
+>.muscle-bound older man tossing aside a shirt covered in
+..blood.
+>.Tony steps into a dark corner and fishes around for
+>.something unseen. He pulls out an old leather suitcase,
+>.opens it, and pulls out an old burner phone. As he opens up
+>.the suitcase and starts putting on some fresh clothes, he
+..dials a number on it.
+._TONY
+.:Hi Reid? It's Tony.
+._Reid (OS)
+>:Tony! Glad to hear your voice, my
+.:friend.
+._TONY
+.:Listen, it's done. Now's the time.
+.\Int. Reid's apartment - night
+>.Reid sits at his desk, still fully dressed, nervous but
+..relieved that his friend has survived his ordeal.
+._REID
+>:Well if anyone could have pulled
+>:this off, it was you. I left the
+>:documents and the cash between
+.:containers 237 and 238, section 13. 
+.\INTERCUT - PHONE CONVERSATION
+._TONY
+.:You're a good friend. 
+._REID
+>:I don't suppose I'll ever see you
+.:again.
+._TONY
+.:Not alive.
+._REID
+>:I mean...so how likely is it that
+>:they won't find you? That this
+.:works?
+._TONY
+>:There's no way that it works.
+.:That's not the point.
+._REID
+>:Good luck. I know you'll do what's
+.:right.
+..Tony looks positively miserable hearing this. 
+._TONY
+>:I'm just doing what I can to
+.:survive.
+._REID
+.:Good-bye, Tony.
+._TONY
+.:Good-bye.
+..Tony hangs up and smashes the phone under his foot.
 .\INT. TONY'S APARTMENT - DAY
 >.The door to Tony's apartment is SMASHED open, and two thugs
 >.armed with pistols enter, pointing their weapons around,
@@ -4253,10 +4314,25 @@ Words:0
 >.She sees Tony with his family standing around a temple arch
 ..in their native village in China. 
 ..He's gone home.
-.\Ext. Chinese village - night
+.\Ext. Chinese village - twilight
 >.The same arch from the photo, now older and partially
-..ruined, stands watch over the sleepy village.
-..
+>.ruined, stands watch over the sleepy village. A farmer leads
+>.an ox into his barn, past an old Toyota truck and a tractor,
+>.half-hidden in tall grass. The town feels emptied out of
+>.young people gone to seek a new life in the city, with only
+..old-timers left to tend the fields.
+>.Tony sits alone at an old wooden bar, with a single lamp
+>.illuminating the place. He has returned to his haggard look
+..from the beginning: stubble, unkempt hair, patchy clothing.
+>.Tony finishes his drink of clear liquor on the rocks, sighs,
+..and places it down gently.
+._TONY
+>:One more. Oh come on, promise it'll
+.:be the last one.
+>.There is no answer from behind the bar. A breeze blows. Tony
+>.looks around, tensing up,  and notices the odd lack of
+>.movement. The village seems deserted. He realizes what is
+..happening and seems to unspool a little bit.
 ..
 ..
 ..
