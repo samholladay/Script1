@@ -18,6 +18,8 @@ AutoCompletion/Transition/Items/9:MATCH CUT TO:
 AutoCompletion/Transition/Items/10:SLOW FADE TO BLACK
 AutoCompletion/Transition/Items/11:SMASH CUT TO:
 AutoCompletion/Transition/Items/12:TIME CUT:
+AutoCompletion/Shot/Enabled:True
+AutoCompletion/Shot/Items:0
 #End-Auto-Completion 
 #Begin-Config 
 FontSize:12
@@ -39,8 +41,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:1669
-Cursor/Column:39
+Cursor/Line:2653
+Cursor/Column:6
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -578,7 +580,7 @@ Words:0
 ._Connor
 .:Nah, I'm good.
 ._FINANCE BRO #1
-.((roars with laughter)
+.((laughing)
 .:He's good! He's fucking good!
 ._FINANCE BRO #2
 .:You went so hard back there.
@@ -695,7 +697,7 @@ Words:0
 >:you just leave me alone? There's
 .:other people in the car.
 ._lead PERFORMER
-.((bitingly sarcastic)
+.((sarcastic)
 >:Oh sorry baby, I didn't know you
 .:wanted to be left alone.
 ._backup PERFORMER
@@ -806,7 +808,6 @@ Words:0
 >:a break. He's a pretty sympathetic
 .:guy. But it's too fucking late now.
 ._Nico
-.((deadpan)
 >:Three days, six hours, and twelve
 .:minutes late.
 ._WOOJIN
@@ -1122,9 +1123,9 @@ Words:0
 .((beat)
 >:Good. First I need two students to
 .:demonstrate for us. Any volunteers?
-..Lucy's hand shoots up.
+>.Lucy's hand shoots up. Master Douglas smiles, seeing his
+..favorite student volunteer.
 ._MASTER DOUGLAS
-.((smiling)
 .:It has been a while, Lucy. Step up.
 ..He looks around. Kevin reluctantly raises his hand.
 ._KEVIN
@@ -1205,7 +1206,7 @@ Words:0
 >:the martial artists and masters in
 .:the Bay Area?
 ._MASTER DOUGLAS
-.((thinking)
+.((thinking for a moment)
 >:Yeah, I'd say so. Definitely in
 >:East Bay. It's not the biggest
 >:community, especially if you take
@@ -1215,7 +1216,6 @@ Words:0
 >:many black guys in this line of
 .:work. How come?
 ._LUCY
-.((hesitant)
 .:Have you ever heard of Tony Kong?
 ._MASTER DOUGLAS
 >:Tony Kong? Why you asking about
@@ -1328,7 +1328,6 @@ Words:0
 >:while now. You just finding this
 .:out? You in college right now?
 ._LUCY
-.((prickly)
 >:That has nothing to do with it. I'm
 >:from here, I know about him. I did
 >:just find out that Donna is paying
@@ -1558,12 +1557,11 @@ Words:0
 >.On the other side of the church there is a sliver of light
 ..coming out from under a door.
 ._ANGELO
-.((terrified)
-.:I'm not going over there.
+.:I'm not going over there!
 ._WOOJIN
 >:Relax, it's not like we keep the
 >:bolt cutters back there. We gotta
-.:around the the back for those.
+.:go around the the back for those.
 ._ANGELO
 >:I don't give a fuck. Just kill me
 .:now.
@@ -1572,28 +1570,28 @@ Words:0
 .:Stop being so morbid.
 ._ANGELO
 .:I'm not going. I'm not gonna move.
->.Woojin rolls his eyes and looks at Jose, thinking for a
+>.Woojin rolls his eyes and looks at Angelo, thinking for a
 ..second.
 ._WOOJIN
 >:Alright, how's this. I'll make you
 >:a deal. You can stay where you are
 >:and you won't have to go back
->:there. But that means I get to cut
-.:your dick off.
+>:there. But you'll also lose your
+.:dick.
 ._ANGELO
 .:What? Oh, fuck no! No!
 ._WOOJIN
-.:Fair is fair!
+>:These are the choices you have to
+.:make.
+..Nico touches Angelo sympathetically on the arm.
 ._Nico
->((touching Angelo
->(sympathetically on the
-.(arm)
 >:What does it matter? You'll end up
 .:dead anyway. Same destination.
 ._WOOJIN
->:Plus I can pin it to the wall in
->:the back, like a good luck charm.
-.:Our own little crucifix, eh?
+>:Plus, when I'm done I can pin it to
+>:the wall in the back, like a good
+>:luck charm. Our own little
+.:crucifix, eh?
 ._Nico
 .((wrinkling his nose)
 .:It'll probably shrivel up.
@@ -1646,12 +1644,11 @@ Words:0
 >.Clarence now stands directly over the wounded Angelo,
 ..glowering in his face.
 ._CLARENCE TRAN
-.((softly)
 >:But now it's just you, isn't it? No
 >:one is left to come for you. I did
->:what the FBI and the SFPD never
->:could. I rooted your kind out of
-.:this city, and the whole Bay.
+>:what the cops never could. I rooted
+>:your kind out of this city, and the
+.:whole Bay.
 ._ANGELO
 >:I swear it's not gonna happen
 >:again. I'm gonna get out of town
@@ -1838,7 +1835,8 @@ Words:0
 .\Ext. Sfsu campus - morning
 >.The foggy city campus of San Francisco State bustles with
 >.activity. A few quirky signs and maybe a homeless person can
-..be seen (classic San Francisco).
+>.be seen (classic San Francisco). [IS THIS REALLY WHAT SFSU
+..IS LIKE?]
 .\Int. University classroom - continuous
 >.Lucy slumps back in her desk near the front of the class,
 >.visibly exhausted. The classroom is somewhat cramped, a
@@ -2069,7 +2067,7 @@ Words:0
 ._LUCY
 .:So it's not some sort of statement?
 ._TONY
-.((amused)
+.((smiles)
 .:No. I don't play mind games.
 ..Tony finds a suitable spot, then lays the mat onto it.
 ._TONY
@@ -2209,7 +2207,7 @@ Words:0
 >:exactly what I meant when I said I
 .:wanted some variety.
 ._TONY 
-.((smiling)
+.((smiles)
 >:Oh no. I'm sailing--you're
 .:swimming.
 ..Lucy looks out at the water, a bit horrified.
@@ -2611,9 +2609,14 @@ Words:0
 >:looked like toys. Then I looked
 >:across the water and saw the little
 >:twinkling lights with the hills
->:behind them. I had my face glued to
->:the window when I heard a voice,
->:very distinguished. It was this old
+.:behind them. 
+>.Lucy pauses, lost in the memories of that day, looking
+..through the eyes of a little girl again.
+._LUCY
+.((CONT'D)
+>:I had my face glued to the window
+>:when I heard a voice, very
+>:distinguished. It was this old
 >:woman. She said, "What do you think
 >:you're doing? You shouldn't be
 >:here!" She had a big hat and a
@@ -2623,9 +2626,7 @@ Words:0
 >:that I wasn't a guest. The security
 >:guard looked guilty, but he still
 .:threw me out.
-..Lucy pauses for a beat.
-._LUCY
-.((CONT'D)
+.((beat)
 >:I've never been back. Maybe now
 >:they'd let me in. I can fake it. I
 >:can put on a mask and hide among
@@ -2637,7 +2638,8 @@ Words:0
 >:never really own anything. You're
 >:just renting. They can evict you
 .:whenever they want.
-..Lucy leans back, and eyes Clarence with hatred.
+>.Lucy sits forward in her chair, and eyes Clarence with
+..hatred.
 ._LUCY
 .((CONT'D)
 >:He's probably stayed there many
@@ -2828,7 +2830,6 @@ Words:0
 >:He won't stop talking about the
 .:catheter. It's incessant with him.
 ._YIMING
-.((indignant)
 >:I have always had a very small
 >:bladder! Whenever there's a long
 >:car ride or movie I have to worry
@@ -3187,8 +3188,7 @@ Words:0
 >:Well, that's the best way to not
 .:get killed.
 ._LUCY
-.((beat)
-.:'You're' not dead.
+.:*You're* not dead.
 >.Turning the conversation to him upsets Tony. An unusual view
 ..of such a composed man. He finishes off his bourbon.
 ._TONY
@@ -3965,9 +3965,8 @@ Words:0
 ._SYLVIA
 >:Well, Clarence did help me with the
 .:planning.
-..Clarence doesn't bother to smile.
+..Clarence doesn't even pretend to smile.
 ._CLARENCE TRAN
-.((totally flat)
 >:I just try to help her passions
 .:whenever I can.
 ._PAULY CAROLLO
@@ -4216,8 +4215,8 @@ Words:0
 .:What--
 ..CRUNCH.
 ..Clarence Tran collapses, neck broken.
+..Tony is not triumphant. Just quiet.
 ._TONY
-.((quietly)
 .:I'm a killer.
 >.Tony stands over his prize, looking small. The restaurant is
 >.deathly quiet. This is not a triumphant moment but a tragic
