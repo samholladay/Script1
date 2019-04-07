@@ -41,8 +41,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:3958
-Cursor/Column:14
+Cursor/Line:2588
+Cursor/Column:35
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -242,7 +242,7 @@ Words:0
 >.table. As he brushes his teeth and changes into a beat-up
 >.brown leather jacket and jeans, we sense the mundanity of
 ..his life.
-.\EXT. STREETs of oakland chinatown - day
+.\EXT. chinatown street - day
 >.Now afternoon, Tony meanders down the streets and passes a
 >.few Chinese businesses and markets filled with odd fruits
 >.and vegetables. The atmosphere feels relaxed and neighborly,
@@ -732,7 +732,7 @@ Words:0
 >.goes to the bathroom. She pulls off her shoes and starts
 >.washing them. She pauses to look in the mirror at her tired
 ..face.
-.\INT. DOnna's shop - a few hours later
+.\INT. DOnna's shop - NIGHT (LATER)
 >.Lucy stands behind the counter, bored and tired. She glances
 ..up at the clock, which reads 1 am.
 >.Two tattooed thugs in their mid-20s, WOOJIN and NICO enter
@@ -1247,7 +1247,7 @@ Words:0
 >:when he left. It would be like if
 >:Achilles stayed in his tent
 .:forever.
-.\Ext. Outside of tony's apartment - sunset
+.\Ext. tony's porch - sunset
 >.Tony comes out of his house, wobbling a little holding a
 >.beer and a tattered copy of "Romance of the Three Kingdoms."
 >.He looks around at the street, exhales, and takes a seat on
@@ -1529,7 +1529,7 @@ Words:0
 ..ringing Lake Merritt shine through the window onto his face.
 >. He shuts the blinds forcefully, and they sway after being
 ..shut, letting moving panes of light shine onto his face.
-.\Int. Chinatown church - same night
+.\Int. church nave - same night
 >.A dark church, with only a sliver of light coming from under
 >.a doorway in the back. We linger on that doorway, wondering
 ..what terrible thing lies behind it.
@@ -1590,9 +1590,9 @@ Words:0
 ._WOOJIN
 >:You drive a hard bargain, Angelo.
 .:But I accept.
->.They proceed down the aisle, under the watchful eye of the
-..crucified Jesus.
-.\Int. Backroom of church - night
+>.They proceed down the aisle to the backroom office, under
+..the watchful eye of the crucified Jesus.
+.\Int. church office - night
 >.Nico opens the door for Angelo, who opens his arms to greet
 ..the offcamera Clarence Tran.
 ._ANGELO
@@ -1749,7 +1749,7 @@ Words:0
 ..his suit jacket.
 ._CLARENCE TRAN
 .:What is it?
-.\Int. Expensive tran mansion - same time
+.\Int. tran mansion - same time
 >.Clarence Tran's wife, SYLVIA TRAN, late 30s, beautiful,
 >.white but dark-haired, a formidable woman with no illusions
 >.about her husband, lies on the couch in their expansive
@@ -2758,12 +2758,13 @@ Words:0
 ._CLARENCE TRAN
 .:To success.
 ..They clink glasses.
-.\Ext. Hospital - night
+.\Ext. Chinatown street - night
 >.Lucy walks quickly through the menacing Oakland streets,
 >.clutching her cheap purse and a bouquet of flowers tightly.
 >.Recent rain makes the streets shine slickly. Oakland looks
->.like Gotham, or something out of a noir flick. Even the
-..hospital looks rundown.
+..like Gotham, or something out of a noir flick. 
+.\EXT. HOSPITAL - NIGHT
+..Lucy approaches a rundown hospital.
 ..Lucy pushes open the front door--
 .\Int. Hospital room - continuous
 >.and opens the door to a hospital room hesitantly. Inside is
@@ -3288,10 +3289,10 @@ Words:0
 ..to rest.
 >.He gets up suddenly from the table. His glass falls on the
 ..ground and breaks.
-.\EXT. STREET in front of donna's store - night
+.\EXT. Donna's store - night
 >.Woojin and Nico sit inside an old sedan, watching the
->.storefront exterior. Woojin smokes a joint. The radio plays
-..softly. The streets look deserted.
+>.exterior of Donna's store. Woojin smokes a joint. The radio
+..plays softly. The streets look deserted.
 ._WOOJIN
 >:God, it's like this bitch never
 >:leaves. I thought her shift was
@@ -3439,7 +3440,7 @@ Words:0
 .:Don't ever come back to this store.
 >.She walks off. She's beaten and bloodied and exhausted, but
 ..victorious.
-.\EXT. OUTSIDE OF TONY'S APARTMENT - night
+.\EXT. Tony's porch - night
 >.Lucy bangs on Tony's door, still bloodied from the fight.
 >.After a short wait, the bolt slides and the door opens. Tony
 ..looks bleary.
@@ -3532,7 +3533,7 @@ Words:0
 ..Tony stands there, fuming for a second. 
 >.He looks at a water bottle on the table, then suddenly kicks
 ..it.
-.\EXT. Oakland street - day
+.\EXT. Chinatown street - day
 >.Lucy walks down the streets furtively. She has bandaged
 ..herself up from the previous night. 
 >.With every step she glances around; danger lurks behind
@@ -4096,13 +4097,13 @@ Words:0
 .\Int. restaurant office - continuous
 >.Clarence bursts into Pauly's office, going over to the desk.
 ..He opens the second one and finds a pistol, but no ammo.
-.\Int. Hallway of restaurant - continuous
+.\Int. restaurant hallway- continuous
 >.Tony is attacked by a mook in the hallway, who he brutally
 >.destroys. Another bursts out of the kitchen and attacks Tony
 ..from behind, but after a short struggle he is taken out too.
 .\INT. RESTAURANT office - CONTINUOUS
 ..Clarence pulls out drawers frantically, searching for ammo.
-.\INT. HALLWAY OF RESTAURANT - CONTINUOUS
+.\INT. RESTAURANT hallway- CONTINUOUS
 >.Tony stalks throught the dark, abandoned halls. Approaching
 >.Pauly's office, with a prominent door and glass window, Tony
 ..is suddenly attacked by Woojin, wielding a cleaver.
