@@ -41,8 +41,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:2588
-Cursor/Column:35
+Cursor/Line:76
+Cursor/Column:18
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -187,9 +187,9 @@ Words:0
 >.condition. Sweat drips off him; he wears white robes with a
 >.black belt. Intense but in control, sure of himself and his
 ..abilities. 
->.Across the ring is his BOUT OPPONENT, a burly Asian man
->.towering over Tony. A  broad, greedy face with a lack of
-..restraint and a lack of grace; Tony's foil.
+>.Across the ring is his BOUT OPPONENT, a bit older, a burly
+>.Asian man towering over Tony. A  broad, greedy face with a
+..lack of restraint and a lack of grace; Tony's foil.
 >.The referee signals for them to begin. The bout opponent
 ..bows quickly and insincerely; Tony bows with calm control. 
 >.The bout opponent immediately charges at Tony, who quickly
@@ -252,8 +252,8 @@ Words:0
 ..stop when they see him and run away giggling.
 >.As he passes the various businesses he nods and smiles wryly
 >.at many of the older shopowners and patrons. At one market
->.DONNA HU, 58, a genial, gracefully aged female shopowner,
-..and her friend WAN-MIN recognize him and smiles.
+>.DONNA HU, late 50s, a genial, gracefully aged female
+..shopowner, and her friend WAN-MIN recognize him and smiles.
 ._DONNA
 .:Good to see you this morning, Tony!
 ._WAN-MIN
@@ -270,10 +270,10 @@ Words:0
 >.loud music and driven by two tough-looking Asian teenagers,
 ..drives by him slowly.
 .\INT. benny's Liquor store - continuous
->.Tony nods to the owner, BENNY, a middle-aged,
->.friendly-looking man. Tony glances around the store, seeing
->.only two tattooed wannabe-tough teenagers, YOUTH #1 and
-..ASIAN YOUTH, browsing by the flavored vodka.
+>.Tony nods to the owner, BENNY, mid 50s, a friendly-looking
+>.man. Tony glances around the store, seeing only two tattooed
+>.wannabe-tough teenagers, YOUTH #1 and YOUTH #2, browsing by
+..the flavored vodka.
 ._Benny
 >:A pretty day outside for you to
 .:come in here.
@@ -408,7 +408,7 @@ Words:0
 ..and Oxford shirts. Expensive laptops litter the tabletops.
 >.Tony looks around the shop for his friend but doesn't see
 >.him. He steps up to the counter manned by a female BARISTA
-..and studies it with some interest.
+..in her twenties and studies it with some interest.
 ._Barista
 .:Can I help you today, sir?
 >.Tony doesn't answer but keeps looking at the menu for a
@@ -431,10 +431,10 @@ Words:0
 ._TONY
 .:In a cup.
 >.From the side his friend REID MAYER approaches. Reid is
->.white, well-built, about the same age, with silver temples
->.and an avuncular look. He wears an open-neck shirt and khaki
->.blazer, looking like a king next to the casual younger
-..people in the cafe.
+>.white, well-built, about the same age as Tony, with silver
+>.temples and an avuncular look. He wears an open-neck shirt
+>.and khaki blazer, looking like a king next to the casual
+..younger people in the cafe.
 ._Reid
 .:Tony, there you are.
 ._TONY
@@ -1065,9 +1065,9 @@ Words:0
 >.students practicing. She is dressed in her karate robes, a
 ..green belt around her waist. 
 >.In the center of the karate mat in this dojo, we see the
->.instructor, MASTER DOUGLAS, 42, a tall, black, black-belted
->.man who is thinner than expected for a skilled karate
-..master. 
+>.instructor, MASTER DOUGLAS, early 40s, a tall, black,
+>.black-belted man who is thinner than expected for a skilled
+..karate master. 
 ..He paces around, watching the students kick.
 ._MASTER DOUGLAS
 >:Faster! This is about speed! It
