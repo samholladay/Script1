@@ -41,8 +41,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:2653
-Cursor/Column:6
+Cursor/Line:115
+Cursor/Column:16
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -257,7 +257,6 @@ Words:0
 ._DONNA
 .:Good to see you this morning, Tony!
 ._WAN-MIN
-.((teasing)
 >:Isn't it a little early for you to
 .:be up and about?
 ..Tony glances at them and smiles, not bothering to parry.
@@ -282,7 +281,7 @@ Words:0
 >:It's just as pretty as all the
 .:other days.
 ._BENNY
-.((smiling)
+.((smiles)
 >:Is that why you're here every day,
 .:Tony?
 ..Tony stops for a moment to look at Benny.
@@ -387,8 +386,7 @@ Words:0
 .:needles instead of mines.
 >.Tony grabs one bottle of bourbon and one of vodka, and
 ..brings it up to the counter.
-._BENNY
-.((CONT'D)
+._BENNY (CONT'D)
 >:I'm so glad Victoria is away from
 >:all this nonsense. She left at just
 .:the right time.
@@ -416,14 +414,13 @@ Words:0
 .:Can I help you today, sir?
 >.Tony doesn't answer but keeps looking at the menu for a
 ..while.
-._BARISTA
-.((CONT'D)
+._BARISTA (CONT'D)
 >:Actually, we have a special today,
 >:we're offering a seasonal Mint
->:Mojito Latte. We use special
->:Indonesian beans for a full-bodied,
->:kind of earthy taste, and it's one
-.:of our more popular--
+>:Appletini Cappuccino. We use
+>:special Indonesian beans for a
+>:full-bodied, kind of earthy taste,
+.:and it's one of our more popular--
 ..TONY interrupts her.
 ._TONY
 .:Green tea, please.
@@ -446,8 +443,7 @@ Words:0
 >:I'm at a table behind that column
 .:over there. 
 ..Reid stands back and smiles a bit.
-._Reid
-.((CONT'D)
+._Reid (CONT'D)
 >:Now what happened to the famous
 >:Tony Kong situational awareness?
 .:Total focus, if I remember right?
@@ -708,9 +704,8 @@ Words:0
 .:alone!!
 >.Connor bends over and PUKES all over Lucy's shoes, with the
 >.vomit splattering her legs but missing the performers in
-..front of her.
+..front of her. Finance Bro #2 roars with laughter.
 ._FINANCE BRO #2
-.((roaring with laughter)
 .:Oh shit!
 ._FINANCE BRO #1
 .:Connor for the win!
@@ -778,8 +773,7 @@ Words:0
 ._DONNA
 .:Oh, hello there! 
 ..She looks nervously at Lucy.
-._DONNA
-.((CONT'D)
+._DONNA (CONT'D)
 >:You know I didn't expect you
 .:gentlemen during store hours.
 ._WOOJIN
@@ -837,8 +831,7 @@ Words:0
 >.Donna looks confused, while Nico silently nods, as if he
 >.knows this story well and thinks it makes perfect sense.
 ..Woojin looks at Donna sympathetically.
-._WOOJIN
-.((CONT'D)
+._WOOJIN (CONT'D)
 >:But somehow, I still have good
 >:memories of that place. I respect
 >:her now for being a hardass with
@@ -846,9 +839,8 @@ Words:0
 >:two days to get us the money.
 .:Alright?
 ._DONNA
-.((relieved)
 >:That will be fine! I'll talk to
-.:Yiming tomorrow!
+.:Yiming tomorrow.
 ._WOOJIN
 .:Good. I'm ecstatic.
 ._Nico
@@ -923,8 +915,7 @@ Words:0
 >:You grew up here and didn't know
 .:about this?
 ..Lucy is silent, a little ashamed.
-._DONNA
-.((CONT'D)
+._DONNA (CONT'D)
 >:I know you spend your time at
 >:school now, and things seem very
 >:idealistic and in all your class
@@ -965,7 +956,7 @@ Words:0
 >:here. [YIKES! This dialogue is
 .:bad.]
 ._DONNA
-.((smiles after a beat)
+.((beat)
 >:You talk so well. It reminds me of
 .:your mother. 
 ..Donna goes to the corner to pick up a broom.
@@ -1179,7 +1170,7 @@ Words:0
 >:Sensei, I'm so sorry about that. I
 .:just...kind of went for it.
 ._MASTER DOUGLAS
-.((laughing)
+.((laughs)
 >:Oh, Lucy, I shouldn't be laughing,
 >:but I'm only human. It's alright,
 >:ok? I know you're just trying to be
@@ -1246,7 +1237,7 @@ Words:0
 ._LUCY
 .:So the stories are true?
 ._MASTER DOUGLAS
-.((smiling)
+.((smiles)
 .:Historical curiosity, you said?
 ._LUCY
 >:Yeah. I just think it's weird that
@@ -1279,8 +1270,7 @@ Words:0
 ._TONY
 .:I don't see why not. Come up.
 ..Lucy hesitantly climbs the first step.
-._TONY
-.((CONT'D)
+._TONY (CONT'D)
 >:You live in this neighborhood,
 >:right? You work at Yiming's store,
 .:with Donna?
@@ -1393,8 +1383,7 @@ Words:0
 >:anything. I want to resist it. I
 .:want to act.
 ..Tony starts laughing heartily, taking another swig of beer.
-._LUCY
-.((CONT'D)
+._LUCY (CONT'D)
 .:And I need your help to resist him.
 >.He does a dramatic spit take, partially hitting Lucy, then
 >.grins and chuckles a bit, amused with himself for doing such
@@ -1417,9 +1406,8 @@ Words:0
 .:You mean Japanese swing dancing?
 ._LUCY
 .:I want you to train me!
-..Tony leans back in his chair. There is a beat.
+..Tony leans back in his chair, pauses, and finally smiles.
 ._TONY
-.((smiles)
 >:Thank you for making an old man
 >:laugh. I haven't laughed that hard
 >:sober in a while. You really
@@ -1628,8 +1616,7 @@ Words:0
 ._Clarence tran
 .:Only if I wanted to.
 ..He motions with his head for Nico to shut the door.
-._CLARENCE TRAN
-.((CONT'D)
+._CLARENCE TRAN (CONT'D)
 >:Angelo, I remember a time when I
 >:was a kid when the Mafia was like a
 >:dragon. They were untouchable. All
@@ -2225,8 +2212,7 @@ Words:0
 >:Don't worry, I won't let that
 .:happen.
 ..Tony climbs into the boat.
-._TONY 
-.((CONT'D)
+._TONY (CONT'D)
 >:I'll sail alongside you. You swim
 >:out as far as you can. When you get
 >:tired I'll pick you up in the boat.
@@ -2241,8 +2227,7 @@ Words:0
 .:Get your cap and goggles on. 
 >.Lucy complies reluctantly. Tony steps out onto the boat and
 ..gets it set up to start.
-._TONY 
-.((CONT'D)
+._TONY (CONT'D)
 >:I'll set out first, and then you
 .:dive in.
 ./CUT TO:
@@ -2292,8 +2277,7 @@ Words:0
 >:You didn't seem to like that. I'm
 .:responsive to my students.
 ..He puts down the beer now.
-._TONY 
-.((CONT'D)
+._TONY (CONT'D)
 >:That water looks cold. If I were
 >:you, I'd get out of it as soon as
 .:possible.
@@ -2461,8 +2445,7 @@ Words:0
 >:couldn't pay people to live in this
 .:neighborhood.
 ..They sit down at their table.
-._TONY
-.((CONT'D)
+._TONY (CONT'D)
 >:But a lot has changed in this city
 .:since then.
 ._LUCY
@@ -2612,8 +2595,7 @@ Words:0
 .:behind them. 
 >.Lucy pauses, lost in the memories of that day, looking
 ..through the eyes of a little girl again.
-._LUCY
-.((CONT'D)
+._LUCY (CONT'D)
 >:I had my face glued to the window
 >:when I heard a voice, very
 >:distinguished. It was this old
@@ -2640,8 +2622,7 @@ Words:0
 .:whenever they want.
 >.Lucy sits forward in her chair, and eyes Clarence with
 ..hatred.
-._LUCY
-.((CONT'D)
+._LUCY (CONT'D)
 >:He's probably stayed there many
 >:times. But I doubt he's ever looked
 .:out the window.
@@ -4248,7 +4229,7 @@ Words:0
 >:Tony! Glad to hear your voice, my
 .:friend.
 ._TONY
-.:Listen, it's done. Now's the time.
+.:It's done. Now's the time to move.
 .\Int. Reid's apartment - night
 >.Reid sits at his desk, still fully dressed, nervous but
 ..relieved that his friend has survived his ordeal.
