@@ -41,8 +41,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:2710
-Cursor/Column:7
+Cursor/Line:3004
+Cursor/Column:31
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -2967,17 +2967,19 @@ Words:0
 .:I mean, yeah, but...
 ._TONY
 .:Then let's go.
-..Lucy looks awkward.
+>.Lucy looks awkward. Tony turns to leave, but then stops,
+..seeing her expression.
 ._TONY
-.((beat)
 .:What? You don't drink?
 ._LUCY
->:I don't know...I kind of got this
->:impression that you had cut down on
->:that. You know, with the training
->:and the waking up early and the big
->:fight where I destroyed a bunch of
-.:liquor bottles.
+.:I don't know.
+.((pause)
+>:I kind of got this impression that
+>:you had cut down on that. You know,
+>:with the training and the waking up
+>:early and the big fight where I
+>:destroyed a bunch of liquor
+.:bottles.
 ._TONY
 .((laughs)
 >:Oh, I have! But I still get drinks!
@@ -3096,7 +3098,7 @@ Words:0
 >:Now you're the one lecturing me
 .:about drink orders?
 ._LUCY
-.:Oh, I'm not lecturing...
+.:Oh, I'm not lecturing.
 ._TONY
 >:You don't know how to drink. And
 >:what they teach you in college
@@ -3173,13 +3175,13 @@ Words:0
 ._TONY
 .:We, uh...don't have the same...
 >.He looks around and pulls out a flask, pouring some into his
-..glass.
+>.glass. He pauses, the words oozing out of him slowly, like
+..blood from a wound.
 ._TONY
-.((beat)
 >:I never really...tried in that way.
->:I didn't have much...courage. It's
->:been a long time since
-.:I've...tried...
+>:I didn't have much courage. It's
+>:been a long time since I've, uh
+.:tried...
 ..Perceptive as always, she tries to rescue him.
 ._LUCY
 >:Do you want to grab a table? I'd
