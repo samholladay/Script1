@@ -41,8 +41,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:3004
-Cursor/Column:31
+Cursor/Line:3958
+Cursor/Column:14
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -490,8 +490,7 @@ Words:0
 >:want the expertise, the
 .:uh...authenticity.
 ..Reid leans forward and looks at Tony seriously.
-._Reid
-.((CONT'D)
+._Reid (CONT'D)
 >:I know how you feel about it. But
 >:there is a real place for someone
 .:like you.
@@ -576,7 +575,7 @@ Words:0
 ._Connor
 .:Nah, I'm good.
 ._FINANCE BRO #1
-.((laughing)
+.((laughs)
 .:He's good! He's fucking good!
 ._FINANCE BRO #2
 .:You went so hard back there.
@@ -1111,7 +1110,6 @@ Words:0
 ._All students
 .:Yes, master!
 ._MASTER DOUGLAS
-.((beat)
 >:Good. First I need two students to
 .:demonstrate for us. Any volunteers?
 >.Lucy's hand shoots up. Master Douglas smiles, seeing his
@@ -1122,7 +1120,7 @@ Words:0
 ._KEVIN
 .:Sensei, I'll go.
 ._MASTER DOUGLAS
-.((very subtle smile)
+.((smiles)
 .:Good. Let's begin.
 >.Lucy and Kevin face each other, then bow. Kevin is about 6
 ..inches taller than Lucy, but looks scared.
@@ -1457,7 +1455,6 @@ Words:0
 >:me, putting your ear to the street,
 .:did you hear anything about that?
 ._LUCY
-.((grudgingly)
 >:Yes. They said you haven't fought
 .:for years.
 ._TONY
@@ -1997,7 +1994,6 @@ Words:0
 >.Tony stands over her, looming. Lucy pants for a second,
 ..chastened.
 ._TONY
-.((beat)
 >:You fight with passion, Lucy. But
 >:it's not enough. You need a
 .:teacher.
@@ -2012,7 +2008,6 @@ Words:0
 >.Tony looks around the store; we see glass shards and liquor
 ..everywhere; half the place is trashed.
 ._TONY
-.((beat)
 >:You can't trust college students
 .:around alcohol, Benny.
 .\Ext. Oakland docks - day
@@ -2075,7 +2070,6 @@ Words:0
 >.Tony removes his brown leather jacket, laying it on the
 ..ground.
 ._LUCY
-.((beat)
 >:I was going to say it helps us get
 .:into the right mindset.
 ._TONY
@@ -2820,8 +2814,8 @@ Words:0
 .:He wants to bring it home.
 ._YIMING
 .:Well, not really...I just--
->.Lucy tries to intervene before the old-couple-type squabble
-..gets too graphic.
+>.Lucy interrupts before the old-couple-type squabble gets too
+..graphic.
 ._LUCY
 >:I hope you get out soon. It'll be a
 >:lot easier to run the store with
@@ -2832,7 +2826,6 @@ Words:0
 ._LUCY
 .:Well, not with everything.
 ._YIMING
-.((beat)
 .:What do you mean?
 >.Donna stares at Lucy quizzically. Doesn't want her to bring
 ..this up.
@@ -2861,7 +2854,6 @@ Words:0
 >:business. Someone should really do
 .:something.
 ._YIMING
-.((beat)
 >:Someone? No. Not the police. I'm
 >:more scared of them than Clarence.
 >:You know when you're in trouble
@@ -2973,7 +2965,7 @@ Words:0
 .:What? You don't drink?
 ._LUCY
 .:I don't know.
-.((pause)
+.((beat)
 >:I kind of got this impression that
 >:you had cut down on that. You know,
 >:with the training and the waking up
@@ -3045,7 +3037,7 @@ Words:0
 >:don't give a shit. Have anything
 .:you want.
 ._LUCY
-.:Okay...how about a gin and tonic?
+.:Okay. How about a gin and tonic?
 ._TONY
 .:Bourbon on the rocks for me.
 ._OSCAR
@@ -3084,7 +3076,7 @@ Words:0
 >:thanks for the dig at my clothes
 .:and apartment.
 ._LUCY
-.((smiling)
+.((smiles)
 >:Really thought you were gonna let
 .:that slip by.
 ._TONY
@@ -3178,16 +3170,16 @@ Words:0
 >.glass. He pauses, the words oozing out of him slowly, like
 ..blood from a wound.
 ._TONY
->:I never really...tried in that way.
->:I didn't have much courage. It's
->:been a long time since I've, uh
-.:tried...
+.:I never really...
+.((beat)
+>:...tried in that way. I didn't have
+>:much courage. It's been a long time
+.:since I've, uh tried...
 ..Perceptive as always, she tries to rescue him.
 ._LUCY
 >:Do you want to grab a table? I'd
 .:rather not just sit at the bar.
 ._TONY
-.((beat)
 .:Let's refill our drinks first.
 ..She raises her hand for the bartender.
 ._LUCY
@@ -3316,7 +3308,7 @@ Words:0
 >.Woojin leans over the chair and rummages through the bag. He
 ..strikes gold.
 ._WOOJIN
-.:Aw, yes...just what I needed.
+.:Aw, yes. Just what I needed.
 >.He loudly crinkles the bag and pulls out the croissant. He
 ..bites into it.
 ._WOOJIN
@@ -3540,7 +3532,7 @@ Words:0
 ..Tony stands there, fuming for a second. 
 >.He looks at a water bottle on the table, then suddenly kicks
 ..it.
-.\EXT. STREET IN FRONT OF DONNA'S STORE - day
+.\EXT. Oakland street - day
 >.Lucy walks down the streets furtively. She has bandaged
 ..herself up from the previous night. 
 >.With every step she glances around; danger lurks behind
@@ -3566,8 +3558,7 @@ Words:0
 >:said how she's doing. But I heard
 .:there was gasoline...
 ..Lucy turns white.
-._WAN-MIN
-.((CONT'D)
+._WAN-MIN (CONT'D)
 >:I just don't know how this
 .:happened! Why this happened?!
 ..Lucy looks around the street.
@@ -3585,8 +3576,7 @@ Words:0
 >:That's all I want to give you: a
 .:message.
 ..The youths stop and look at her.
-._LUCY
-.((CONT'D)
+._LUCY (CONT'D)
 .:Not a beating.
 ..The youths smirk uneasily.
 ._YOUTH #1
@@ -3620,8 +3610,7 @@ Words:0
 >:docks. The Shoreline Park by the
 .:Middle Harbor. [Real park name?]
 ..Their eyes widen. 
-._LUCY
-.((CONT'D)
+._LUCY (CONT'D)
 .:Tell him that.
 ..She turns around confidently.
 >.Lucy clenches her fists, opening up her scars and staining
@@ -3657,8 +3646,7 @@ Words:0
 >:madness. We took some action last
 .:night, just in case.
 ..Clarence steps forward towards her.
-._CLARENCE TRAN
-.((CONT'D)
+._CLARENCE TRAN (CONT'D)
 >:But when I heard your message
 >:today? I thought maybe they were
 >:right. That you have a death wish.
@@ -3865,7 +3853,7 @@ Words:0
 >.He stretches and looks at his kitchen table, littered with
 ..empty beer and bourbon bottles.
 ..He splashes water in his face.
-.\EXT. STREETS OF OAKLAND CHINATOWN - DAY
+.\EXT. CHINATOWN STREET - DAY
 ..Tony, changed, steps slowly out of his apartment.
 ..The streets seem quiet today.
 ..He rounds the corner and sees Donna's store. 
@@ -3888,7 +3876,7 @@ Words:0
 >.conspicously empty; a folded-up newspaper is in front of the
 >.empty chair. We can see enough of it to determine what it
 ..says.
-.\EXT. STREETS OF OAKLAND CHINATOWN - night
+.\EXT. CHINATOWN STREET - night
 >.Tony sits in a car outside of the fancy restaurant, Carollo
 ..Ristorante, that he and Lucy ate at. 
 >.Food wrappers and a few empty cans of energy drink litter
@@ -4146,8 +4134,7 @@ Words:0
 ._CLARENCE TRAN
 .:Whoever you are, stop there.
 ..Tony stops, eyes boring into Clarence Tran.
-._CLARENCE TRAN
-.((CONT'D)
+._CLARENCE TRAN (CONT'D)
 >:What do you want? What are you
 .:doing here?
 ._TONY
