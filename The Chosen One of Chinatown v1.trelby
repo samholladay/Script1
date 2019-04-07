@@ -41,8 +41,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:115
-Cursor/Column:16
+Cursor/Line:2710
+Cursor/Column:7
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -272,7 +272,7 @@ Words:0
 .\INT. benny's Liquor store - continuous
 >.Tony nods to the owner, BENNY, a middle-aged,
 >.friendly-looking man. Tony glances around the store, seeing
->.only two tattooed wannabe-tough teenagers, BLACK YOUTH and
+>.only two tattooed wannabe-tough teenagers, YOUTH #1 and
 ..ASIAN YOUTH, browsing by the flavored vodka.
 ._Benny
 >:A pretty day outside for you to
@@ -301,33 +301,33 @@ Words:0
 >.condescending look. Tony tries to ignore the look and looks
 >.up and down the store aisles, placing his finger on the
 ..bottles as he brushes by them.
->.The youths continue talking and laughing and BLACK YOUTH
-..lights a cigarette.
+>.The youths continue talking and laughing and Youth #1 lights
+..a cigarette.
 ._BENNY
 .:Excuse me! You can't smoke in here. 
 ..They stop talking and look over, surprised.
-._BLACK YOUTH
+._YOUTH #1
 .:What's that, boss?
 ..Benny looks uncomfortable.
 ._BENNY
 >:I'm sorry, but you can't smoke in
 >:here. See that sign over there? I
 .:can't have this in my store.
-._BLACK YOUTH
+._YOUTH #1
 .:What you talking about, man?
-._ASIAN YOUTH
+._YOUTH #2
 .:It's just one cig.
-._BLACK YOUTH
+._YOUTH #1
 .:It ain't gonna hurt your store.
-._ASIAN YOUTH
+._YOUTH #2
 >:You really got a problem with one
 .:cig?
 ._BENNY
 .:I know, I know, but...
-._ASIAN YOUTH
+._YOUTH #2
 >:What, you got a problem with us?
 .:That it?
-._BLACK YOUTH
+._YOUTH #1
 >:I'm your customer, you're supposed
 .:to be helping me out, man.
 ._BENNY
@@ -335,36 +335,35 @@ Words:0
 >.Tony, standing by a shelf, looks over to the counter, where
 >.the two youths are now standing threateningly in front of
 ..Benny, who looks smaller than ever. Tony looks conflicted.
-._ASIAN YOUTH
+._YOUTH #2
 >:I think you gotta change these
 .:store rules.
-._BLACK YOUTH
+._YOUTH #1
 >:You don't want to be pissing off
 .:your customers, do you?
-._ASIAN YOUTH
+._YOUTH #2
 >:You don't want to be fucking with
 >:us, no way. You fuck with us, you
 .:fuck with Clarence Tran.
 >.Benny shrinks away, clearly fearful upon the mention of that
-..name. The Asian Youth seems pleased with his bravado.
+..name. Youth #2 seems pleased with his bravado.
 ._BENNY
 .:Guys, it's not like that.
->.There is an ugly silence. The Black Youth, quite a bit
->.taller than Benny, takes a long drag of his cigarette and
-..blows it in the air above Benny's head.
-._BLACK YOUTH
+>.There is an ugly silence. Youth #1, quite a bit taller than
+>.Benny, takes a long drag of his cigarette and blows it in
+..the air above Benny's head.
+._YOUTH #1
 >:Let's get out of here. This place
 .:is all fucked, man.
-._ASIAN YOUTH
+._YOUTH #2
 >:Ain't gonna buy no more liquor
 .:here.
->.As they walk out the Black Youth makes aggressive eye
->.contact with Benny. He glances back at Tony with a look of
-..great disdain.
-._BLACK YOUTH
+>.As they walk out Youth #1 makes aggressive eye contact with
+..Benny. He glances back at Tony with a look of great disdain.
+._YOUTH #1
 .:Yeah, if you lucky.
 ..He stamps out his cigarette on the floor as he leaves.
-._ASIAN YOUTH
+._YOUTH #2
 .:These fucking places, man...
 >.Tony avoids looking at Benny. It's hard to tell if his look
 >.is one of shame or disinterest. There is a long pause that
@@ -421,13 +420,14 @@ Words:0
 >:special Indonesian beans for a
 >:full-bodied, kind of earthy taste,
 .:and it's one of our more popular--
-..TONY interrupts her.
+..Tony interrupts her.
 ._TONY
 .:Green tea, please.
+..The barista is completely unfazed.
 ._BARISTA
->:I, uh, I see. How do you like your
->:tea, sir? [This comedy is a bit
-.:hacky]
+>:Always a good choice! How do you
+>:like your tea, sir? [This comedy is
+.:a bit hacky]
 ._TONY
 .:In a cup.
 >.From the side his friend REID MAYER approaches. Reid is
@@ -1197,7 +1197,7 @@ Words:0
 >:the martial artists and masters in
 .:the Bay Area?
 ._MASTER DOUGLAS
-.((thinking for a moment)
+.((thinks for a moment)
 >:Yeah, I'd say so. Definitely in
 >:East Bay. It's not the biggest
 >:community, especially if you take
@@ -1301,7 +1301,7 @@ Words:0
 >:You know who Clarence Tran is.
 .:Don't you?
 ._TONY
-.((frowning)
+.((frowns)
 >:I don't think there's much I can
 >:tell you about him. I stay out of
 .:that sort of thing.
@@ -2565,9 +2565,10 @@ Words:0
 >:welcome a wealthy thief than anyone
 .:with integrity.
 ._TONY
->:You know, Lucy, I don't think
->:you're as cynical as you act. [A
-.:little cliche]
+>:Lucy, you seem a bit young to be
+>:speaking like this. You really
+>:should leave the cynicism to us old
+.:folks.
 ._LUCY
 >:It's not a college affectation, if
 .:that's what you're thinking. 
@@ -2692,14 +2693,14 @@ Words:0
 ._SYLVIA
 .:You shouldn't be.
 ..Clarence smiles coldly and pours them some wine.
-._SYLVIA
-.((CONT'D)
+._SYLVIA (CONT'D)
 .:Besides, I like men of character. 
 ._CLARENCE TRAN
 >:All those people at the parties you
 >:drag me to. They're all hypocrites
 >:anyway. If I have to hear one more
->:suit talk about making the world a
+>:weak-chinned twig in a fleece vest
+>:talk about making the world a
 .:better place...
 ._SYLVIA
 >:I think a lot of them have
@@ -2714,8 +2715,7 @@ Words:0
 .:better. 
 >.He sucks up the wine in his glass like a hose. Icy as
 ..always.
-._CLARENCE TRAN
-.((CONT'D)
+._CLARENCE TRAN (CONT'D)
 >:And it seems like every weekend,
 >:when I should be out there running
 >:the business with my guys, I have
@@ -2745,8 +2745,7 @@ Words:0
 .:supported us. Always. Without fail.
 >.Sylvia rolls her eyes very slightly; she's heard this one
 ..before.
-._CLARENCE TRAN
-.((CONT'D)
+._CLARENCE TRAN (CONT'D)
 >:When have you had to worry about
 >:comparing yourself to other people?
 >:When have I ever said no? Just this
@@ -2887,8 +2886,7 @@ Words:0
 .:heaven. [Bad Engrish joke?]
 >.As he says hell he points up, and points down when he says
 ..heaven.
-._YIMING
-.((CONT'D)
+._YIMING (CONT'D)
 .:I won't have to worry about it.
 ._DONNA
 >:You should get some sleep. Thank
@@ -3589,23 +3587,23 @@ Words:0
 .((CONT'D)
 .:Not a beating.
 ..The youths smirk uneasily.
-._BLACK YOUTH
+._YOUTH #1
 .:Not with all them cops around.
 ._LUCY
 >:You're running errands, right? So
 .:you can deliver a message too.
-._BLACK YOUTH
+._YOUTH #1
 .:Like what?
 ._LUCY
 >:I want to see him. Clarence Tran.
 >:As a concerned citizen. You tell
 .:him that.
-._BLACK YOUTH
+._YOUTH #1
 .:Get the fuck out of here.
 ._LUCY
 >:I'm not a cop. I'm not an
 .:informant. I want to talk.
-._ASIAN YOUTH
+._YOUTH #2
 .:He ain't gonna talk to you.
 ._LUCY
 >:If he doesn't, I'll take down
@@ -3613,7 +3611,7 @@ Words:0
 >:connected to him. Starting with you
 .:two.
 ..The two youths laugh nervously.
-._BLACK YOUTH
+._YOUTH #1
 .:Alright, we'll tell him. 
 ._LUCY
 >:I'll be waiting tonight by the
