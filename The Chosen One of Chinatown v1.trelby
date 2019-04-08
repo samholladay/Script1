@@ -41,8 +41,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:1859
-Cursor/Column:28
+Cursor/Line:562
+Cursor/Column:25
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -231,6 +231,7 @@ Words:0
 >.family standing around a distinctive temple arch in a
 >.village in China; it is Tony as a child in his family's
 ..ancestral village, one we will see again.
+.\Int. Tony's apartment - kitchen - day
 >.Tony walks over to his messy kitchen, pours himself a mug of
 >.tea from a kettle, and grabs a piece of toast from the
 ..toaster. 
@@ -550,7 +551,7 @@ Words:0
 >.workers rallying together. Next to it is a picture of an
 >.Asian worker (presumably from Indonesia) holding a basket of
 ..coffee beans.
-.\Int subway car - late evening
+.\Int subway car - day
 >.Cramped between a diverse group of Bay Area passengers on
 >.BART (a tableau similar to the mural), we meet LUCY MAO, 21,
 >.a pretty college student wearing a backpack, coming back
@@ -713,10 +714,14 @@ Words:0
 >.phone, looks down with resignation. After having a rare
 >.outburst before, this was the straw that breaks the camel's
 ..back. She simply can't be angry anymore today.
-.\Int donna's shop - night
+.\Int donna's shop - day
 >.Lucy trudges into Donna's grocery shop, still wearing her
 >.backpack, her shoes and legs somewhat washed off but with
-..vomit stains still visible. The bell rings as she enters. 
+>.vomit stains still visible. It's a Chinese corner store with
+>.bilingual signage and plenty of Asian produce. The place is
+>.old but lovingly well-kept, like a cheap, decades-old Honda
+>.Accord that is still going strong. The bell rings as she
+..enters. 
 >.Donna is in the back of the store kneeling down, putting
 ..items on the shelf, and stands up when she sees Lucy.
 ._DONNA
@@ -728,11 +733,12 @@ Words:0
 ._DONNA
 .:Oh yes, of course!
 >.Lucy walks past a customer, who recoils at her smell. She
->.enters a small room in the back, puts down her backpack, and
->.goes to the bathroom. She pulls off her shoes and starts
->.washing them. She pauses to look in the mirror at her tired
-..face.
-.\INT. DOnna's shop - NIGHT (LATER)
+>.opens up a small closet in the back and tosses the backpack
+..inside, then shuts the door.
+.\INT. donna's shop - bathroom - day
+>.She pulls off her shoes and starts washing them in the sink.
+..She pauses to look in the mirror at her tired face.
+.\INT. DOnna's shop - NIGHT
 >.Lucy stands behind the counter, bored and tired. She glances
 ..up at the clock, which reads 1 am.
 >.Two tattooed thugs in their mid-20s, WOOJIN and NICO enter
@@ -964,8 +970,8 @@ Words:0
 .:go home, I can clean up.
 >.Lucy looks dejected. She closes up the cash register,
 ..removes her apron, and starts to pack up.
->.We see her coming out of the back with her backpack. Donna
-..has stopped sweeping and looks thoughtful.
+>.She emerges from the back room, slinging on her backpack.
+..Donna has stopped sweeping and looks thoughtful.
 ._DONNA
 >:You know, it's funny what you said
 .:about wuxia. 
@@ -1057,7 +1063,8 @@ Words:0
 .:it myself.
 ._DONNA
 .:Lucy!
-..She leaves in a huff, slamming the door.
+>.She leaves in a huff, slamming the door. Donna goes back to
+..sweeping.
 ._DONNA
 .:Fucking college kids.
 .\Int. karate dojo - morning
@@ -1066,8 +1073,7 @@ Words:0
 ..green belt around her waist. 
 >.In the center of the karate mat in this dojo, we see the
 >.instructor, MASTER DOUGLAS, early 40s, a tall, black,
->.black-belted man who is thinner than expected for a skilled
-..karate master. 
+..black-belted man with a tough, wiry face and frame.
 ..He paces around, watching the students kick.
 ._MASTER DOUGLAS
 >:Faster! This is about speed! It
@@ -1247,11 +1253,13 @@ Words:0
 >:when he left. It would be like if
 >:Achilles stayed in his tent
 .:forever.
-.\Ext. tony's porch - sunset
+.\Ext. tony's apartment - porch - dusk
 >.Tony comes out of his house, wobbling a little holding a
 >.beer and a tattered copy of "Romance of the Three Kingdoms."
->.He looks around at the street, exhales, and takes a seat on
-..his porch. Things seem calm. 
+>.The house's paint is faded, and the yard looks overgrown
+>.with weeds. He looks around at the street, exhales, and
+>.takes a seat on the single, dusty rocking chair on his
+..porch. The neighborhood is calm.
 >.He takes a swig of his beer, props open his book, and props
 >.his feet up, only the tips of his shoes edging out into the
 ..light from the shadow under his porch.
@@ -1264,10 +1272,11 @@ Words:0
 ._LUCY
 >:Could I talk to you about
 .:something?
-..Tony shrugs.
+..Tony shrugs, and gestures to her with his beer bottle.
 ._TONY
 .:I don't see why not. Come up.
-..Lucy hesitantly climbs the first step.
+>.Lucy hesitantly climbs the first step, keeping a distance
+..from the older man.
 ._TONY (CONT'D)
 >:You live in this neighborhood,
 >:right? You work at Yiming's store,
@@ -1344,7 +1353,7 @@ Words:0
 ._TONY
 >:I have no idea what you're talking
 .:about.
-..Lucy approaches the porch and climbs up one step.
+..Lucy now climbs up one more step on the porch.
 ._LUCY
 >:Mr. Kong, you know exactly what I
 >:mean. I know you try to bury it,
@@ -1359,6 +1368,8 @@ Words:0
 >:where you came from. But Donna told
 >:me about you. She told me about who
 .:you used to be.
+>.Tony sits up, all his languid calm gone. He holds the bottle
+..like a weapon, his legs tensing up.
 ._TONY
 >:Listen very carefully, Miss Lucy
 >:Mao. Everything you've heard about
@@ -1410,7 +1421,8 @@ Words:0
 >:laugh. I haven't laughed that hard
 >:sober in a while. You really
 .:brought joy into my life.
-..Lucy climbs up another step.
+>.Lucy climbs up another step to stand right on the porch. Her
+..head is now above Tony's.
 ._LUCY
 >:Mr. Kong, I'm serious. I will be
 >:your student. I will train and
@@ -1481,7 +1493,8 @@ Words:0
 .:my beer. Run along now.
 >.Lucy bristles a bit at the condescension, but doesn't do
 >.anything. As usual, she accepts the situation despite her
-..own feelings, turning down one step of the porch.
+>.own feelings, taking one step off the porch, now looking up
+..at Tony's face.
 ._LUCY
 >:I don't know what happened years
 >:ago, or why you've shriveled into
@@ -1496,7 +1509,7 @@ Words:0
 >.mood to read, especially about mythic heroes. He puts it
 ..down.
 ./MATCH CUT TO:
-.\Int. TONY's APARTMENT - that night
+.\Int. TONY's APARTMENT - night
 >.Tony puts an empty shot glass down on his table. As he pours
 >.himself another stiff shot of whiskey, he seems to be
 >.valiantly fighting against how pathetic he knows he truly
@@ -1521,15 +1534,16 @@ Words:0
 >.conspicuous emptiness. Today was supposed to be a relaxed,
 ..more mature night, and his now organized room reflects that.
 ..Only Lucy's revelation sparked the descent.
->.Tony, now in the kitchen, pours himself a fairly strange
->.looking mixture of tomato juice, coconut water, and iced tea
->.from a bottle. He drinks it with no small look of disgust,
-..and walks over to his window.
+.\INT. TONY'S APARTMENT - KITCHEN - night
+>.Tony pours himself a fairly strange looking mixture of
+>.tomato juice, coconut water, and iced tea from a bottle. He
+>.drinks it with no small look of disgust, and walks over to
+..his window.
 >.He looks outside at the light rain coming down. The lights
 ..ringing Lake Merritt shine through the window onto his face.
->. He shuts the blinds forcefully, and they sway after being
+>.He shuts the blinds forcefully, and they sway after being
 ..shut, letting moving panes of light shine onto his face.
-.\Int. church nave - same night
+.\Int. church nave - night
 >.A dark church, with only a sliver of light coming from under
 >.a doorway in the back. We linger on that doorway, wondering
 ..what terrible thing lies behind it.
@@ -2991,11 +3005,11 @@ Words:0
 >:By the way, Benny is still furious
 >:at you for what you did to his
 .:store.
-.\Int. West oakland dive bar - night
->.It's a bit grimy, a bit rundown--a real old-time Oakland
->.spot. Nothing trendy or glittering here. A diverse mix of
->.older men sit around at a few tables and at the bar. An old
-..jukebox plays classic rock.
+.\Int. dive bar - night
+>.Tony's bar of choice is a bit grimy, a bit rundown--a real
+>.old-time Oakland spot. Nothing trendy or glittering here. A
+>.diverse mix of older men sit around at a few tables and at
+..the bar. An old jukebox plays classic rock.
 >.Lucy, changed out of her suit,  walks in with Tony and
 ..stops, looking around.
 ._LUCY
@@ -3442,7 +3456,7 @@ Words:0
 .:Don't ever come back to this store.
 >.She walks off. She's beaten and bloodied and exhausted, but
 ..victorious.
-.\EXT. Tony's porch - night
+.\EXT. Tony's apartment - porch - night
 >.Lucy bangs on Tony's door, still bloodied from the fight.
 >.After a short wait, the bolt slides and the door opens. Tony
 ..looks bleary.
@@ -3989,6 +4003,7 @@ Words:0
 ..She looks at Clarence, who is alert now.
 ._SYLVIA
 .:Honey? [Different word for honey?]
+.\Int. Fancy restaurant - lobby - night
 >.Back at the front of the restaurant, three mooks attack
 ..Tony.
 >.He takes down the first with a laser-precise jab to the
@@ -4013,7 +4028,9 @@ Words:0
 ._WOOJIN
 >:You hold him back for a bit! I
 .:gotta go tell Clarence!
->.Clarence, in another room, walks towards the front as the
+.\Int. Fancy restaurant - night
+>.Clarence has gotten up from his dinner table in a private
+>.room in the back. He walks towards the front as the
 ..restaurant empties out. Sylvia is behind him.
 ._SYLVIA
 >:Clarence, what the hell is going
@@ -4069,8 +4086,9 @@ Words:0
 .:Get her out.
 >.As Woojin grabs her, Clarence walks towards the back of the
 ..restaurant.
->.In the front of the restaurant, Tony takes out two more
-..mooks. Dead or broken men lie behind him.
+.\INT. FANCY RESTAURANT - LOBBY - NIGHT
+>.Tony takes out two more mooks. Dead or broken men lie behind
+..him.
 >.Nico picks up a steak knife from one of the tables and
 ..approaches him.
 >.He stabs at Tony, but he dodges it and strikes the big man
@@ -4094,6 +4112,7 @@ Words:0
 >.[Perhaps the humor of this would distract. It could be done
 >.in a non-humorous way, where Tony just runs right past the
 ..guy, who quickly opens the door for this badass man.]
+.\INT. FANCY RESTAURANT - NIGHT
 >.The back room is empty. Tony notices the hallway in the
 ..back, and goes towards it.
 .\Int. restaurant office - continuous
