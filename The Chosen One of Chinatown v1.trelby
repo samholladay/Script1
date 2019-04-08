@@ -41,8 +41,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:76
-Cursor/Column:18
+Cursor/Line:1859
+Cursor/Column:28
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -2031,9 +2031,11 @@ Words:0
 >:I didn't come early, I came on
 .:time.
 ._TONY
-.:That's not what I do.
+>:Well, with enough practice and
+>:dedication, maybe one day you can
+.:show up late too.
 ._LUCY
-.:Could you try?
+.:I don't view this as a joke.
 ._TONY
 >:Who's the master here? Come on,
 .:let's get started.
