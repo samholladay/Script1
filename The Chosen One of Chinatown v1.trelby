@@ -41,7 +41,7 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:562
+Cursor/Line:218
 Cursor/Column:25
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
@@ -177,16 +177,18 @@ Words:0
 #Header-Empty-Lines 1
 #Start-Script 
 .\FADE IN:
-.\Int. Martial arts arena - day (1970s)
+.\Int. Martial arts arena - day
 >.A crowded martial arts arena on the day of a big kung fu
 >.tournament, the stands packed with noisy spectators, the
 >.atmosphere circus-like. The walls are festooned with
-..banners, and lights are trained on the center mat. 
+>.banners, and lights are trained on the center mat. There is
+>.no title card to indicate the date, but it is clear from the
+..fashions of the audience that this is the late 1970s.
 >.On this mat we see, on one side, TONY KONG, mid twenties,
 >.Chinese, a hard-edged, leanly muscled athlete in peak
->.condition. Sweat drips off him; he wears white robes with a
->.black belt. Intense but in control, sure of himself and his
-..abilities. 
+>.condition, like a vicious Bruce Lee. Sweat drips off him; he
+>.wears white robes with a black belt. Intense but in control,
+..sure of himself and his abilities. 
 >.Across the ring is his BOUT OPPONENT, a bit older, a burly
 >.Asian man towering over Tony. A  broad, greedy face with a
 ..lack of restraint and a lack of grace; Tony's foil.
@@ -221,7 +223,7 @@ Words:0
 >.a white tanktop to show his still lean frame. While still no
 >.one to fuck with, with his gray stubble and unkempt hair he
 ..clearly hasn't taken care of himself in years.
-..TITLE CARD "The Chosen One of Chinatown"
+..TITLE CARD "THE CHOSEN ONE OF CHINATOWN"
 >.Credits roll as sunlight streams into his cramped and dingy
 >.apartment. There is a small bookshelf and an old TV, but no
 >.trophies, medals, or other signs of his former kung fu
@@ -268,13 +270,13 @@ Words:0
 >:You think he knows it's not
 .:morning?
 >.Tony continues past the market. A souped-up Honda, playing
->.loud music and driven by two tough-looking Asian teenagers,
-..drives by him slowly.
+>.loud music and driven by two tough-looking teenagers, drives
+..by him slowly.
 .\INT. benny's Liquor store - continuous
 >.Tony nods to the owner, BENNY, mid 50s, a friendly-looking
 >.man. Tony glances around the store, seeing only two tattooed
->.wannabe-tough teenagers, YOUTH #1 and YOUTH #2, browsing by
-..the flavored vodka.
+>.wannabe-tough teenagers, YOUTH #1 and YOUTH #2 (the same who
+..drove by earlier), browsing by the flavored vodka.
 ._Benny
 >:A pretty day outside for you to
 .:come in here.
@@ -392,11 +394,10 @@ Words:0
 .:the right time.
 ._TONY
 .:Anytime's the right time.
-.\EXT. liquor Storefront - continuous
->.Tony walks out, holding a paper bag with his purchases,
->.framed by some graffiti on the wall to his right and a empty
->.boot standing up in the alley to his left. The street looks
-..shabbier than when we saw it before.
+.\EXT. Benny's liquor store - day
+>.Tony walks out of the store, holding a paper bag with his
+>.purchases, framed by some graffiti on the wall to his right
+..and a empty boot standing up in the alley to his left. 
 >.A black SUV drives by with its window open. A book is tossed
 >.out and hits the wall. Tony steps over and looks down at the
 ..pavement to see the book: "Cracking the Coding Interview."
@@ -1067,7 +1068,7 @@ Words:0
 ..sweeping.
 ._DONNA
 .:Fucking college kids.
-.\Int. karate dojo - morning
+.\Int. karate dojo - day
 >.Lucy kicks the air in front of her, one in a line of
 >.students practicing. She is dressed in her karate robes, a
 ..green belt around her waist. 
@@ -1165,11 +1166,12 @@ Words:0
 .:mean to do that!
 ._MASTER DOUGLAS
 .:Alright, it's ok. He's ok.
-.\int. Master douglas's office - afternoon
->.Through the glass of his office, students are seen in the
-..gym picking up their bags and leaving. 
->.A group of students are seen around Kevin, who rubs his
+.\int. Master douglas's office - day
+>.In the background, through the glass of his office windows,
+>.students are seen picking up their bags and leaving the gym.
+>.A group of students are gathered around Kevin, who rubs his
 ..face.
+..A mortified Lucy follows Master Douglas into his office.
 ._LUCY
 >:Sensei, I'm so sorry about that. I
 .:just...kind of went for it.
@@ -1543,7 +1545,7 @@ Words:0
 ..ringing Lake Merritt shine through the window onto his face.
 >.He shuts the blinds forcefully, and they sway after being
 ..shut, letting moving panes of light shine onto his face.
-.\Int. church nave - night
+.\Int. church - night
 >.A dark church, with only a sliver of light coming from under
 >.a doorway in the back. We linger on that doorway, wondering
 ..what terrible thing lies behind it.
@@ -1606,7 +1608,7 @@ Words:0
 .:But I accept.
 >.They proceed down the aisle to the backroom office, under
 ..the watchful eye of the crucified Jesus.
-.\Int. church office - night
+.\Int. church - back office - night
 >.Nico opens the door for Angelo, who opens his arms to greet
 ..the offcamera Clarence Tran.
 ._ANGELO
@@ -1830,12 +1832,12 @@ Words:0
 ._NICO
 .:Have a good time, sir.
 ..Clarence leaves.
-.\Ext. Sfsu campus - morning
+.\Ext. Sfsu campus - day
 >.The foggy city campus of San Francisco State bustles with
 >.activity. A few quirky signs and maybe a homeless person can
 >.be seen (classic San Francisco). [IS THIS REALLY WHAT SFSU
 ..IS LIKE?]
-.\Int. University classroom - continuous
+.\Int. University classroom - day
 >.Lucy slumps back in her desk near the front of the class,
 >.visibly exhausted. The classroom is somewhat cramped, a
 >.political science class with about 15 to 20 students, some
@@ -4115,16 +4117,16 @@ Words:0
 .\INT. FANCY RESTAURANT - NIGHT
 >.The back room is empty. Tony notices the hallway in the
 ..back, and goes towards it.
-.\Int. restaurant office - continuous
+.\Int. fancy restaurant - office - continuous
 >.Clarence bursts into Pauly's office, going over to the desk.
 ..He opens the second one and finds a pistol, but no ammo.
-.\Int. restaurant hallway- continuous
+.\Int. fancy restaurant - hallway - continuous
 >.Tony is attacked by a mook in the hallway, who he brutally
 >.destroys. Another bursts out of the kitchen and attacks Tony
 ..from behind, but after a short struggle he is taken out too.
-.\INT. RESTAURANT office - CONTINUOUS
+.\INT. fancy RESTAURANT - office - CONTINUOUS
 ..Clarence pulls out drawers frantically, searching for ammo.
-.\INT. RESTAURANT hallway- CONTINUOUS
+.\INT. fancy RESTAURANT - hallway - CONTINUOUS
 >.Tony stalks throught the dark, abandoned halls. Approaching
 >.Pauly's office, with a prominent door and glass window, Tony
 ..is suddenly attacked by Woojin, wielding a cleaver.
@@ -4151,7 +4153,7 @@ Words:0
 ..cleaver, as if slaughtering a chicken.
 >.Still clutching the bloody knife, he runs up to the door of
 ..the office and kicks it open.
-.\INT. RESTAURANT office - CONTINUOUS
+.\INT. fancy RESTAURANT - office - CONTINUOUS
 ..Clarence stands next to the desk, pointing the gun at Tony.
 ._CLARENCE TRAN
 .:Whoever you are, stop there.
