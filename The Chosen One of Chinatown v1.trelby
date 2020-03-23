@@ -18,8 +18,6 @@ AutoCompletion/Transition/Items/9:MATCH CUT TO:
 AutoCompletion/Transition/Items/10:SLOW FADE TO BLACK
 AutoCompletion/Transition/Items/11:SMASH CUT TO:
 AutoCompletion/Transition/Items/12:TIME CUT:
-AutoCompletion/Shot/Enabled:True
-AutoCompletion/Shot/Items:0
 #End-Auto-Completion 
 #Begin-Config 
 FontSize:12
@@ -41,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:218
-Cursor/Column:25
+Cursor/Line:625
+Cursor/Column:19
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -797,10 +795,11 @@ Words:0
 .:reap our fury sooner or later. 
 ._DONNA
 >:You don't understand, he's been
->:very sick! Last week
-&:___________________________________
-&:___________________________________
-.:_____________________________
+>:very sick! He already has a weak
+>:heart. Then last week he started
+>:coughing and running a fever, and I
+>:had to take him to the hospital.
+.:He's got pneumonia!
 ._WOOJIN
 >:That's a real shame, Donna. Maybe
 >:if you told Clarence about it when
@@ -1713,14 +1712,13 @@ Words:0
 .:years. What's he got?
 ._WOOJIN
 >:He's been in the hospital with
-.:____. 
+.:pneumonia. 
 ._CLARENCE TRAN
 >:What did his wife say? She's still
->:gotta pay us at some point. You let
->:one of these dinky little stores
->:slide, and your grip loosens. You
->:end up like one of these guys over
-.:here.
+>:gotta pay us at some point. It
+>:doesn't matter if you run a city or
+>:a police department or a rinky-dink
+.:store. Everyone has to pay.
 ._WOOJIN
 >:I said we'd give her two days to
 .:come up with it.
@@ -1733,7 +1731,7 @@ Words:0
 ..over to Angelo, the knife in the other hand.
 ._CLARENCE TRAN
 >:Nothing wrong with showing them the
-.:quality of mercy now and then.
+.:quality of mercy now and then. 
 >.Clarence picks up Angelo's head by his hair, then holds his
 ..throat over the bucket.
 ._ANGELO
@@ -2219,10 +2217,10 @@ Words:0
 >:I don't have a wetsuit. It's got to
 .:be--
 ._TONY 
->:Very cold. It's the same water that
->:drowned many an Alcatraz escapee.
->:Don't worry, I won't let that
-.:happen.
+>:Very cold. Many men drowned in this
+>:water trying to escape from
+>:Alcatraz. Don't worry, I won't let
+.:that happen.
 ..Tony climbs into the boat.
 ._TONY (CONT'D)
 >:I'll sail alongside you. You swim
@@ -2817,7 +2815,7 @@ Words:0
 >:watch TV Land all day. And the
 >:nurses take care of me when I have
 >:to go to the bathroom! I don't even
-.:have to get it.
+.:have to get up.
 ..Donna rolls her eyes.
 ._DONNA
 >:He won't stop talking about the
@@ -4108,7 +4106,9 @@ Words:0
 ..white guy, standing in front of the door.
 >.[Tarantino paid homage to Yojimbo with the line "Go home to
 >.your mother!" In the Bride's fight scene. If only he hadn't
-..already used that hilarious line.]
+>.already used that hilarious line. Note: actually, this seems
+>.to be a standard martial arts trope, to scare off the last
+..fighter.]
 >.Tony walks to the door, glaring at him. The thug weakly
 ..opens the door for him. Tony goes through it without a word.
 >.[Perhaps the humor of this would distract. It could be done
@@ -4283,11 +4283,11 @@ Words:0
 ..Sylvia follows them, with another thug behind her.
 >.She's wearing black, with a look of studied anger. Her eyes
 ..sweep over the apartment quickly.
-._MOOK #3
-.:He's been gone for a while now.
+._Sylvia
+.:We missed him. And it wasn't close.
 >.The thugs start looking around, tearing the apartment apart.
->.Sylvia saunters around the flat, looking for some sort of
-..clue.
+>.Sylvia steps precisely through the flat, looking for some
+..sort of clue.
 >.The apartment is spotless, cleaner than we've ever seen it.
 ..No alcohol is visible. 
 >.His bedroom look as meticulously clean as the night he
@@ -4307,12 +4307,11 @@ Words:0
 ..He's gone home.
 .\Ext. Chinese village - twilight
 >.The same arch from the photo, now older and partially
->.ruined, stands watch over the sleepy village. A farmer leads
->.an ox into his barn, past an old Toyota truck and a tractor,
->.half-hidden in tall grass. The town feels emptied out of
->.young people gone to seek a new life in the city, with only
-..old-timers left to tend the fields.
->.Tony sits alone at an old wooden bar, with a single lamp
+>.ruined, stands watch over the sleepy village. Bside the
+>.arch, an elderly farmer leads an ox into his barn, past an
+..rusty Toyota truck and a tractor, half-hidden in tall grass.
+.\EXT. Village bar - twilight
+>.Tony sits alone at a decrepit wooden bar, with a single lamp
 >.illuminating the place. He has returned to his haggard look
 ..from the beginning: stubble, unkempt hair, patchy clothing.
 >.Tony finishes his drink of clear liquor on the rocks, sighs,
@@ -4321,10 +4320,13 @@ Words:0
 >:One more. Oh come on, promise it'll
 .:be the last one.
 >.There is no answer from behind the bar. A breeze blows. Tony
->.looks around, tensing up,  and notices the odd lack of
->.movement. The village seems deserted. He realizes what is
-..happening and seems to unspool a little bit.
-..
+>.looks around, tensing up, and notices the unnatural lack of
+>.movement. The village suddenly seems deserted. He realizes
+..what is happening and unspools a bit.
+._TONY
+>:Don't do anything to the bartender.
+.:He's a good man.
+..Sylvia
 ..
 ..
 ..
