@@ -39,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:625
-Cursor/Column:19
+Cursor/Line:2716
+Cursor/Column:0
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -350,9 +350,9 @@ Words:0
 ..name. Youth #2 seems pleased with his bravado.
 ._BENNY
 .:Guys, it's not like that.
->.There is an ugly silence. Youth #1, quite a bit taller than
->.Benny, takes a long drag of his cigarette and blows it in
-..the air above Benny's head.
+>.Ugly silence. Youth #1, quite a bit taller than Benny, takes
+>.a long drag of his cigarette and blows it in the air above
+..Benny's head.
 ._YOUTH #1
 >:Let's get out of here. This place
 .:is all fucked, man.
@@ -366,9 +366,9 @@ Words:0
 ..He stamps out his cigarette on the floor as he leaves.
 ._YOUTH #2
 .:These fucking places, man...
->.Tony avoids looking at Benny. It's hard to tell if his look
->.is one of shame or disinterest. There is a long pause that
-..Benny finally breaks by exhaling.
+>.Tony avoids looking at Benny. Not clear if he's ashamed or
+>.just not interested. Benny breaks a long, awkward pause by
+..exhaling.
 ._BENNY
 >:It's like every day I got a new
 >:situation to deal with. My hand
@@ -382,8 +382,9 @@ Words:0
 >:Not recently. If it's not them it's
 >:the kids they sell it to. I tell
 >:you, walking home feels like I'm
->:back in Vietnam, but they're
-.:needles instead of mines.
+>:back in Vietnam, but under my shoe
+>:they're used needles instead of
+.:mines.
 >.Tony grabs one bottle of bourbon and one of vodka, and
 ..brings it up to the counter.
 ._BENNY (CONT'D)
@@ -446,7 +447,7 @@ Words:0
 ._Reid (CONT'D)
 >:Now what happened to the famous
 >:Tony Kong situational awareness?
-.:Total focus, if I remember right?
+.:Total focus, isn't that right?
 >.Tony gives him his first truly genuine smile, the smile of
 >.old friends forged by years of camarederie and shared
 ..experiences.
@@ -1010,11 +1011,11 @@ Words:0
 >:was a student in China. He said
 >:that the police wanted to arrest
 >:Tony for fighting in public. They
->:sent a squadron of cops with clubs
->:to surprise him when he was bathing
->:at a river. Tony had a towel and
->:bar of soap with him. It wasn't a
-.:fair fight.
+>:sent a squadron of cops, 10 men
+>:with clubs, to surprise him when he
+>:was bathing at a river. Tony had a
+>:towe, a brush, and a bar of soap
+.:with him. It wasn't a fair fight.
 ..She chuckles to herself, enjoying the legend she is weaving.
 ._LUCY
 >:If this is true, how come my karate
@@ -1830,25 +1831,140 @@ Words:0
 ._NICO
 .:Have a good time, sir.
 ..Clarence leaves.
-.\Ext. Sfsu campus - day
->.The foggy city campus of San Francisco State bustles with
->.activity. A few quirky signs and maybe a homeless person can
->.be seen (classic San Francisco). [IS THIS REALLY WHAT SFSU
-..IS LIKE?]
-.\Int. University classroom - day
->.Lucy slumps back in her desk near the front of the class,
->.visibly exhausted. The classroom is somewhat cramped, a
->.political science class with about 15 to 20 students, some
-..scribbling, some dozed off in the back.
->.PROFESSOR PISTER, late 50s, gray-haired, fun but a bit
->.eccentric looking, stands at the board in front of the
->.class, open books jumbled on a desk in front of him. He
->.wears a loud Hawaiian shirt--he doesn't think much of
-..authority, intellectual or sartorial.
->.In the front of the class is JORDAN, 20, white, clean-cut, a
-..bit too well-dressed for a college student.
-._Jordan
-.:Professor,
+.\Ext. Chinatown street - night
+>.Lucy walks quickly through graffitied Oakland streets,
+>.clutching her cheap purse and a bouquet of flowers tightly.
+>.Recent rain makes the streets shine slickly. Oakland looks
+..like Gotham, or something out of a noir flick. 
+.\EXT. HOSPITAL - NIGHT
+..Lucy approaches a rundown hospital.
+..Lucy pushes open the front door--
+.\Int. Hospital room - continuous
+>.and opens the door to a hospital room hesitantly. Inside is
+>.Donna, sitting by the bedside of her husband YIMING HU, 61,
+>.white-haired and feeble-looking, watching an old sitcom on
+>.the TV with his hand wrapped around Donna's. Yiming is more
+>.heavily-accented, quieter, and less savvy--less hip,
+..perhaps--than his younger wife.
+._DONNA
+.:Oh, hello Lucy!
+._LUCY
+.:Hi Donna!
+._Yiming
+>:Lucy? Why, it's good to see you!
+.:And those flowers!
+._LUCY
+>:Yeah, I hope you like them. How are
+.:you feeling?
+._YIMING
+>:Oh, you know, the same as always.
+.:Day in, day out. 
+._DONNA
+>:The doctors say he still needs more
+>:treatment, though. Won't be out of
+>:the hospital for at least another
+.:week.
+._LUCY
+.:Oh, I'm really sorry to hear that.
+._YIMING
+>:I'm fine, you know. Donna runs the
+>:store and I get to stay in bed and
+>:watch TV Land all day. And the
+>:nurses take care of me when I have
+>:to go to the bathroom! I don't even
+.:have to get up.
+..Donna rolls her eyes.
+._DONNA
+>:He won't stop talking about the
+.:catheter. It's incessant with him.
+._YIMING
+>:I have always had a very small
+>:bladder! Whenever there's a long
+>:car ride or movie I have to worry
+>:about it! When do I have to go? How
+>:can I find a bathroom? Do we have
+.:to pull over?  Here, I don't.
+._DONNA
+.:He wants to bring it home.
+._YIMING
+.:Well, not really...I just--
+>.Lucy interrupts before the old-couple-type squabble gets too
+..graphic.
+._LUCY
+>:I hope you get out soon. It'll be a
+>:lot easier to run the store with
+.:you around.
+._YIMING
+>:Soon, soon. Donna says you are
+.:doing an excellent job helping her.
+._LUCY
+.:Well, not with everything.
+._YIMING
+.:What do you mean?
+>.Donna stares at Lucy quizzically. Doesn't want her to bring
+..this up.
+._LUCY
+>:I saw those two enforcer guys. The
+.:ones who collect for Clarence Tran.
+..Yiming doesn't seem fazed.
+._YIMING
+>:Thank you for helping with that.
+>:Without your extra time I could
+>:have never made the last payment.
+>:We're lucky Clarence gave us extra
+.:time.
+._LUCY
+.:Are you serious? Lucky?
+._Donna
+>:Better than what happened to
+>:Wan-Min! That store didn't burn
+.:down due to a gas leak.
+._YIMING
+>:She's right! She knows these
+.:things.
+._LUCY
+>:I just really think it's wrong that
+>:you have to pay out to operate a
+>:business. Someone should really do
+.:something.
+._YIMING
+>:Someone? No. Not the police. I'm
+>:more scared of them than Clarence.
+>:You know when you're in trouble
+.:with him.
+._LUCY
+.:Someone else.
+..Yiming shrugs.
+._YIMING
+>:You are very young, Lucy. I'm a
+>:poor, sick old man. I'm not trying
+>:to cause any trouble. It's not
+>:worth it. When I was twenty-one
+>:years old I saw a college professor
+>:thrown out of his home by the Red
+>:Guard. And when he tried to fight
+>:back they beat him and broke his
+>:glasses. And they shot him too. I
+>:didn't do anything like that, I
+>:just got out of there. I'm happy to
+>:be here with a nice bed and a TV.
+>:Pretty soon I'll be in hell...or
+.:heaven. [Bad Engrish joke?]
+>.As he says hell he points up, and points down when he says
+..heaven.
+._YIMING (CONT'D)
+.:I won't have to worry about it.
+._DONNA
+>:You should get some sleep. Thank
+.:you for the flowers, Lucy.
+..A nurse enters behind Lucy.
+._NURSE
+>:Alright, Mr. Hu, let's check that
+.:IV.
+>.She muscles Lucy out of the way. She puts the flowers down
+..on the table. Smiles hollowly.
+._LUCY
+.:Get well soon.
 .\INT. benny's LIQUOR STORE - day
 >.Tony comes in and goes straight into one of the aisles.
 >.Benny stands behind the counter, his back turned. He can
@@ -2774,140 +2890,6 @@ Words:0
 ._CLARENCE TRAN
 .:To success.
 ..They clink glasses.
-.\Ext. Chinatown street - night
->.Lucy walks quickly through the menacing Oakland streets,
->.clutching her cheap purse and a bouquet of flowers tightly.
->.Recent rain makes the streets shine slickly. Oakland looks
-..like Gotham, or something out of a noir flick. 
-.\EXT. HOSPITAL - NIGHT
-..Lucy approaches a rundown hospital.
-..Lucy pushes open the front door--
-.\Int. Hospital room - continuous
->.and opens the door to a hospital room hesitantly. Inside is
->.Donna, sitting by the bedside of her husband YIMING HU, 61,
->.white-haired and feeble-looking, watching an old sitcom on
->.the TV with his hand wrapped around Donna's. Yiming is more
->.heavily-accented, quieter, and less savvy--less hip,
-..perhaps--than his younger wife.
-._DONNA
-.:Oh, hello Lucy!
-._LUCY
-.:Hi Donna!
-._Yiming
->:Lucy? Why, it's good to see you!
-.:And those flowers!
-._LUCY
->:Yeah, I hope you like them. How are
-.:you feeling?
-._YIMING
->:Oh, you know, the same as always.
-.:Day in, day out. 
-._DONNA
->:The doctors say he still needs more
->:treatment, though. Won't be out of
->:the hospital for at least another
-.:week.
-._LUCY
-.:Oh, I'm really sorry to hear that.
-._YIMING
->:I'm fine, you know. Donna runs the
->:store and I get to stay in bed and
->:watch TV Land all day. And the
->:nurses take care of me when I have
->:to go to the bathroom! I don't even
-.:have to get up.
-..Donna rolls her eyes.
-._DONNA
->:He won't stop talking about the
-.:catheter. It's incessant with him.
-._YIMING
->:I have always had a very small
->:bladder! Whenever there's a long
->:car ride or movie I have to worry
->:about it! When do I have to go? How
->:can I find a bathroom? Do we have
-.:to pull over?  Here, I don't.
-._DONNA
-.:He wants to bring it home.
-._YIMING
-.:Well, not really...I just--
->.Lucy interrupts before the old-couple-type squabble gets too
-..graphic.
-._LUCY
->:I hope you get out soon. It'll be a
->:lot easier to run the store with
-.:you around.
-._YIMING
->:Soon, soon. Donna says you are
-.:doing an excellent job helping her.
-._LUCY
-.:Well, not with everything.
-._YIMING
-.:What do you mean?
->.Donna stares at Lucy quizzically. Doesn't want her to bring
-..this up.
-._LUCY
->:I saw those two enforcer guys. The
-.:ones who collect for Clarence Tran.
-..Yiming doesn't seem fazed.
-._YIMING
->:Thank you for helping with that.
->:Without your extra time I could
->:have never made the last payment.
->:We're lucky Clarence gave us extra
-.:time.
-._LUCY
-.:Are you serious? Lucky?
-._Donna
->:Better than what happened to
->:Wan-Min! That store didn't burn
-.:down due to a gas leak.
-._YIMING
->:She's right! She knows these
-.:things.
-._LUCY
->:I just really think it's wrong that
->:you have to pay out to operate a
->:business. Someone should really do
-.:something.
-._YIMING
->:Someone? No. Not the police. I'm
->:more scared of them than Clarence.
->:You know when you're in trouble
-.:with him.
-._LUCY
-.:Someone else.
-..Yiming shrugs.
-._YIMING
->:You are very young, Lucy. I'm a
->:poor, sick old man. I'm not trying
->:to cause any trouble. It's not
->:worth it. When I was twenty-one
->:years old I saw a college professor
->:thrown out of his home by the Red
->:Guard. And when he tried to fight
->:back they beat him and broke his
->:glasses. And they shot him too. I
->:didn't do anything like that, I
->:just got out of there. I'm happy to
->:be here with a nice bed and a TV.
->:Pretty soon I'll be in hell...or
-.:heaven. [Bad Engrish joke?]
->.As he says hell he points up, and points down when he says
-..heaven.
-._YIMING (CONT'D)
-.:I won't have to worry about it.
-._DONNA
->:You should get some sleep. Thank
-.:you for the flowers, Lucy.
-..A nurse enters behind Lucy.
-._NURSE
->:Alright, Mr. Hu, let's check that
-.:IV.
->.She muscles Lucy out of the way. She puts the flowers down
-..on the table. Smiles hollowly.
-._LUCY
-.:Get well soon.
 .\EXT. OAKLAND marina - day
 >.Another session. Sunset, Lucy standing at the pier. It feels
 >.like it will never end for Lucy. But today, with her hair
@@ -3907,21 +3889,21 @@ Words:0
 ..the mooks who watched Lucy die.
 ..The radio is on. 
 ._Radio announcer (VO)
->:...The Warriors have extended their
->:winning streak to 10 games with
->:last night's victory in LA against
-.:the Lakers. 
+>:...and with last night's victory in
+>:LA, the Warriors have now extended
+.:their winning streak to 10 games.
 >.A group of cars pull up to the restaurant. Everyone outside 
 ..the restaurant starts crowding around the entrance.
 ..Clarence Tran's entourage. Tony perks up, eyes alert.
 ._RADIO ANNOUNCER (VO)
 >:Meanwhile, authorities are
->:continuing the search for Lucy Mao,
->:an Oakland native and SFSU student
->:whose body was found floating in
->:San Francisco Bay five days ago.
->:Anyone with knowledge of this case
->:should report it immediately to the
+>:continuing their investigation into
+>:the death of Lucy Mao, an Oakland
+>:native and SFSU student whose body
+>:was found floating in San Francisco
+>:Bay five days ago. Anyone with
+>:knowledge of this case should
+>:report it immediately to the
 .:Oakland Police Department.
 >.Tony sees a few mooks step out, with Woojin and Nico leaving
 ..the center car. 
@@ -4179,25 +4161,53 @@ Words:0
 ..He gestures at his gun.
 ..Tony smiles coldly.
 ._TONY
->:I don't care if I lose. As long as
-.:you do too.
-..He steps forward, ready to die.
-..Clarence pulls the trigger. CLICK.
-..No bullets.
-..Clarence throws away the gun and puts up his fists.
+>:Death doesn't scare me. I'm ready
+.:for the darkness.
+>.As quick as lightning Tony moves back and turns off the
+>.light. Clarence, not expecting this, fires wildly and
+..misses. 
+>.The glow from the shot briefly illuminates the office, and
+..Tony is seen jumping onto the desk. 
+>.With a quick blow he kicks the gun out of Clarence's hand,
+>.and then, leaping down from the desk, lands a STRONG kick
+..right into Clarence's chest.
+>.Clarence is knocked back through the office door into the
+..dimly lit kitchen.
+.\INT. fancy RESTAURANT - kitchen
+>.Clarence, shaken but not defeated, gets up slowly as Tony
+..enters the kitchen.
 ._CLARENCE TRAN
+>:So that's how you want to end this?
+.:A fair fight, eh?
+..Tony just looks at Clarence with dagger eyes.
+._CLARENCE TRAN (CONT'D)
+>:You're an honorable man. No matter.
 >:I'll kill you like I killed your
 .:little girl.
 ..Tony attacks in a fit of rage.
->.Clarence's cold poise is cracked now. Tony's anger is too
-..much for him.
+>.Clarence grabs anything he can find--pots and pans--to use
+..as weapons.
+>.But Clarence's cold poise is cracked now. Tony's anger is
+..too much for him.
 >.He attacks relentlessly, wailing on Clarence, who can barely
 ..block his blows.
->.Clarence tries to run behind the desk for some room, but
->.Tony jumps on it and kicks Clarence in his raised arms, then
-..kicks him into the wall.
->.Tony jumps down and attacks again. Every jab, chop, and kick
-..is filled with hate.
+..Anything Clarence tries to use is knocked out of his hands.
+>.But finally he finds what he was looking for--a knife. He
+..has a glint in his eye as Tony backs away.
+._CLARENCE TRAN
+>:Did you know I killed her with a
+.:knife too?
+>.He jabs at Tony, who tries to dodge him. But the attack has
+..drawn blood.
+>.Clarence is now emboldened. He slashes at Tony, who backs up
+..avoiding the blows.
+..Tony notices a bottle of wine on the counter and grabs it.
+>.As Clarence makes one more slash, Tony blocks it with the
+..wine bottle, which EXPLODES and splatters Clarence's face.
+>.Blinded, Clarence can't block Tony's kick. He knocks the
+..knife out of Clarence's hand.
+>.Now Tony attacks again. Every jab, chop, and kick is filled
+..with hate.
 >.Over and over he hits Clarence, who crumples to his knees.
 ..With a swift hit he BREAKS Clarence's glasses.
 >.Clarence lies back. Defeated. Near death. Tony steps around
@@ -4213,7 +4223,7 @@ Words:0
 >.Tony stands over his prize, looking small. The restaurant is
 >.deathly quiet. This is not a triumphant moment but a tragic
 ..one. Horrifying, even.
->.Tony steps out of the office, past the crumpled and broken
+>.Tony steps out of the kitchen, past the crumpled and broken
 ..bodies of the men he killed. He looks at their faces.
 >.He passes through the back room of the restaurant, empty and
 >.silent. He looks towards the front, then turns back and
