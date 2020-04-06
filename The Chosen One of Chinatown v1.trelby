@@ -39,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:2716
-Cursor/Column:0
+Cursor/Line:4207
+Cursor/Column:53
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -221,16 +221,17 @@ Words:0
 >.a white tanktop to show his still lean frame. While still no
 >.one to fuck with, with his gray stubble and unkempt hair he
 ..clearly hasn't taken care of himself in years.
-..TITLE CARD "THE CHOSEN ONE OF CHINATOWN"
+.=TITLE CARD: "THE CHOSEN ONE OF CHINATOWN"
 >.Credits roll as sunlight streams into his cramped and dingy
 >.apartment. There is a small bookshelf and an old TV, but no
 >.trophies, medals, or other signs of his former kung fu
-..glory--except for two framed photos.
+..glory--except for two framed photos on a mantle.
 >.One shows Tony as a young man clad in robes, standing with
 >.his wife after a tournament win. Next to it is a photo of a
 >.family standing around a distinctive temple arch in a
 >.village in China; it is Tony as a child in his family's
-..ancestral village, one we will see again.
+>.ancestral village, one we will see again. Next to the photos
+..is a small wooden statue of the Buddha.
 .\Int. Tony's apartment - kitchen - day
 >.Tony walks over to his messy kitchen, pours himself a mug of
 >.tea from a kettle, and grabs a piece of toast from the
@@ -1502,8 +1503,6 @@ Words:0
 >:ago, or why you've shriveled into
 >:this. But I know you could still
 .:help me. 
-._TONY
-.:SAYS SOMETHINGh
 ..Lucy leaves. 
 >.Tony leans back in his chair, in deep thought. He hasn't
 ..thought about this part of his life for a while.
@@ -1550,11 +1549,10 @@ Words:0
 >.a doorway in the back. We linger on that doorway, wondering
 ..what terrible thing lies behind it.
 >.At the front of the church, another door opens, spilling
->.light into the dark pews and pulpit. The chapel looks like
->.something out of John Woo's "The Killer." Through the
->.doorway enters ANGELO, early 40s, a bald, Italian made man
->.straight out of "The Sopranos." He shivers with fear. Woojin
-..and Nico come behind him, closing the door. 
+>.light into the dark pews and pulpit. Through the doorway
+>.enters ANGELO, early 40s, a bald, Italian made man straight
+>.out of "The Sopranos." He shivers with fear. Woojin and Nico
+..come behind him, closing the door. 
 >.On the other side of the church there is a sliver of light
 ..coming out from under a door.
 ._ANGELO
@@ -1648,7 +1646,7 @@ Words:0
 >:one is left to come for you. I did
 >:what the cops never could. I rooted
 >:your kind out of this city, and the
-.:whole Bay.
+.:entire Bay.
 ._ANGELO
 >:I swear it's not gonna happen
 >:again. I'm gonna get out of town
@@ -1840,12 +1838,12 @@ Words:0
 ..Lucy approaches a rundown hospital.
 ..Lucy pushes open the front door--
 .\Int. Hospital room - continuous
->.and opens the door to a hospital room hesitantly. Inside is
->.Donna, sitting by the bedside of her husband YIMING HU, 61,
+>.and opens the door to a hospital room. Inside is Donna,
+>.sitting by the bedside of her husband YIMING HU, 61,
 >.white-haired and feeble-looking, watching an old sitcom on
 >.the TV with his hand wrapped around Donna's. Yiming is more
->.heavily-accented, quieter, and less savvy--less hip,
-..perhaps--than his younger wife.
+>.heavily-accented, quieter, and less savvy--less hip--than
+..his younger wife.
 ._DONNA
 .:Oh, hello Lucy!
 ._LUCY
@@ -1862,8 +1860,8 @@ Words:0
 ._DONNA
 >:The doctors say he still needs more
 >:treatment, though. Won't be out of
->:the hospital for at least another
-.:week.
+>:the hospital for another couple
+.:days.
 ._LUCY
 .:Oh, I'm really sorry to hear that.
 ._YIMING
@@ -1919,21 +1917,29 @@ Words:0
 >:Better than what happened to
 >:Wan-Min! That store didn't burn
 .:down due to a gas leak.
+._LUCY
+.:Is that what happened to her store?
 ._YIMING
 >:She's right! She knows these
 .:things.
+._DONNA
+>:I told you, I try to protect you
+>:from these things. I didn't want
+>:you to know everything that
+>:happened behind the scenes. The way
+.:the world really works.
 ._LUCY
->:I just really think it's wrong that
->:you have to pay out to operate a
->:business. Someone should really do
-.:something.
+>:I can't believe you just accept
+>:that this is normal, that you  have
+>:to live in fear! Someone needs to
+.:do something.
 ._YIMING
 >:Someone? No. Not the police. I'm
 >:more scared of them than Clarence.
 >:You know when you're in trouble
 .:with him.
 ._LUCY
-.:Someone else.
+.:Someone else then.
 ..Yiming shrugs.
 ._YIMING
 >:You are very young, Lucy. I'm a
@@ -1947,13 +1953,35 @@ Words:0
 >:glasses. And they shot him too. I
 >:didn't do anything like that, I
 >:just got out of there. I'm happy to
->:be here with a nice bed and a TV.
->:Pretty soon I'll be in hell...or
-.:heaven. [Bad Engrish joke?]
->.As he says hell he points up, and points down when he says
-..heaven.
+.:be here with a nice bed and a TV. 
+._LUCY
+>:What happens if you need to stay
+>:longer? If it's a choice between
+>:paying Clarence Tran and paying the
+.:hospital?
+._YIMING
+>:I would always choose the ones I
+.:love over myself.
+>.Lucy is not surprised but still looks angry at the thought
+..of it coming to that.
 ._YIMING (CONT'D)
-.:I won't have to worry about it.
+.:How else can I keep you safe? 
+.((beat)
+>:I don't need to risk myself or
+>:Donna trying to change things. And
+>:when your parents passed I promised
+.:I wouldn't risk you either.
+..Lucy looks shaken a bit by the mention of her parents.
+._YIMING (CONT'D)
+>:They wouldn't want you saying these
+>:sorts of things. They just wanted
+>:you to get good grades, have a
+.:steady job. Not do anything crazy.
+._LUCY
+>:I know that's what they wanted of
+>:me. That's what everyone wants of
+.:me.
+..Lucy trails off, leaving an awkward silence.
 ._DONNA
 >:You should get some sleep. Thank
 .:you for the flowers, Lucy.
@@ -1961,7 +1989,7 @@ Words:0
 ._NURSE
 >:Alright, Mr. Hu, let's check that
 .:IV.
->.She muscles Lucy out of the way. She puts the flowers down
+>.She muscles Lucy out of the way. Lucy puts the flowers down
 ..on the table. Smiles hollowly.
 ._LUCY
 .:Get well soon.
@@ -2462,8 +2490,8 @@ Words:0
 >.seems to improve; Tony is always too quick for her. He
 >.defeats her on the land and at sea. Over and over she falls
 ..into the water.
->.--Lucy drifts off in class, sometimes showing up with
-..bruises.
+>.--Lucy drifts off in her martial arts class, sometimes
+..showing up with bruises.
 >.--Meanwhile, Woojin and Nico deliver money to Clarence
 ..Tran's office in the church.
 >.--Drugs change hands on the street; Clarence's influence
@@ -2806,18 +2834,19 @@ Words:0
 ._CLARENCE TRAN
 >:San Francisco? I hate that fucking
 >:city. It's always cold. Even in the
->:summer it's always cold. Dead men
-.:feel cold.
+>:summer it's always cold. Cold and
+.:clammy like a dead body.
 ._SYLVIA
-.:A funny comparison to make.
+.((raises eyebrows)
+.:Quite a comparison.
 ._CLARENCE TRAN
 >:Is it? Something the matter? Should
 >:I be worried you're going to run
->:off with a tech executive? Or a
+>:off with a tech executive? Maybe a
 >:corporate lawyer? Or a fat Italian
 .:restaurant owner? 
 ._SYLVIA
-.:You shouldn't be.
+.:No. You shouldn't be.
 ..Clarence smiles coldly and pours them some wine.
 ._SYLVIA (CONT'D)
 .:Besides, I like men of character. 
@@ -2886,7 +2915,7 @@ Words:0
 >.She refills Clarence's glass, almost like a mother helping
 ..her child. She raises her own.
 ._SYLVIA
-.:To another successful year?
+.:To another year?
 ._CLARENCE TRAN
 .:To success.
 ..They clink glasses.
@@ -3614,7 +3643,7 @@ Words:0
 ..She turns around confidently.
 >.Lucy clenches her fists, opening up her scars and staining
 ..the bandages wrapped around them red.
-.\EXT. OAKLAND DOCKS - night
+.\EXT. OAKLAND bayside park - night
 >.Lucy stands in a red tracksuit on a hill, wind flapping her
 >.hair, the lights of San Francisco and the Golden Gate Bridge
 ..behind her. 
@@ -3875,6 +3904,30 @@ Words:0
 >.conspicously empty; a folded-up newspaper is in front of the
 >.empty chair. We can see enough of it to determine what it
 ..says.
+>.-Tony walks alongside the Bay as the sun sets. He sees the
+>.cranes of the Port of Oakland in the distance, and turns
+..away.
+.\INT. TONY'S APARTMENT - NIGHT
+>.Tony trudges into his apartment. He automaticaly walks over
+>.to the sink and opens up the shelf above it to reveal a line
+>.of liquor. He pulls a bottle of whiskey out and sets it down
+..on the kitchen table.
+>.He glances at the label. It is the same Russell's Reserve he
+>.bought back when Lucy fought him for the first time. He
+..smiles ruefully. 
+>.But, staring at the bottle, a look of resolve comes over his
+>.face. He puts the bottle down. Walks over to his mantle and
+>.looks at the two pictures--the first of him and his wife,
+..the second of him as a boy in his childhood village.
+>.Tony picks up the wooden Buddha statue next to the photos.
+>.Opens up a latch on the bottom. He shakes it and gets
+..something out of the hollow statue.
+>.A twisted, old bullet slug. One clearly pulled out of
+..someone's body.
+>.Tony regards the bullet for a second. Looks at the Buddha. A
+>.last chance to keep his vow of nonviolence? Then he looks at
+..the photos again. Puts the bullet down on the mantle. 
+..His face is hard. He knows what he will do.
 .\EXT. CHINATOWN STREET - night
 >.Tony sits in a car outside of the fancy restaurant, Carollo
 ..Ristorante, that he and Lucy ate at. 
@@ -3957,9 +4010,8 @@ Words:0
 ..glances around, checking the guards one more time.
 >.One of the guards steps away from the restaurant for a
 ..second. He sticks a cigarette in his mouth and lights it.
->.Out of the darkness a foot HITS him in the face, knocking
->.the cigarette into his mouth. [Is a kick too ridiculous, so
-..that the foot should be replaced with a fist?]
+>.Out of the darkness a fist SMASHES him in the face. The
+..cigarette falls to the ground.
 ..Tony emerges from the darkness.
 ..He kneels down and finishes the guard with his elbow.
 >.One of the other guards notices and alerts a guard next to
@@ -3972,7 +4024,7 @@ Words:0
 >.the middle of the confusion and approaches the door, with
 ..two terrified guards flanking it.
 >.Tony quickly takes out the first, then BREAKS the arm of the
->.second with a loud crunch, and SMASHES the man's face with
+>.second with a loud crunch, and smashes the man's face with
 ..his knee.
 .\INT. FANCY RESTAURANT - NIGHT
 >.In the back of the restaurant, Clarence, Sylvia, and Pauly
@@ -3984,7 +4036,7 @@ Words:0
 .:I don't know, I--
 ..She looks at Clarence, who is alert now.
 ._SYLVIA
-.:Honey? [Different word for honey?]
+.:Clarence?
 .\Int. Fancy restaurant - lobby - night
 >.Back at the front of the restaurant, three mooks attack
 ..Tony.
@@ -4133,11 +4185,12 @@ Words:0
 ..His eyes dart towards the office.
 >.Tony glances at it, then chops open Woojin's throat with the
 ..cleaver, as if slaughtering a chicken.
->.Still clutching the bloody knife, he runs up to the door of
-..the office and kicks it open.
+>.He tosses the bloody knife aside, runs up to the door of the
+..office and kicks it open.
 .\INT. fancy RESTAURANT - office - CONTINUOUS
 ..Clarence stands next to the desk, pointing the gun at Tony.
 ._CLARENCE TRAN
+.((calmly)
 .:Whoever you are, stop there.
 ..Tony stops, eyes boring into Clarence Tran.
 ._CLARENCE TRAN (CONT'D)
@@ -4153,21 +4206,21 @@ Words:0
 ._CLARENCE TRAN
 .:Her father?
 ._TONY
->:She called me master. But I am her
-.:pupil now. [Cheesy?]
+.:She called me master.
 ._CLARENCE TRAN
->:You can't take me down with your
+>:That was a master's display. But
+>:you can't take me down with your
 .:fists. I'll always win with this.
 ..He gestures at his gun.
 ..Tony smiles coldly.
 ._TONY
 >:Death doesn't scare me. I'm ready
 .:for the darkness.
->.As quick as lightning Tony moves back and turns off the
->.light. Clarence, not expecting this, fires wildly and
-..misses. 
->.The glow from the shot briefly illuminates the office, and
-..Tony is seen jumping onto the desk. 
+>.As quick as lightning Tony lurches back to the office wall
+>.and turns off the light. Clarence, not expecting this, fires
+..wildly and misses. 
+>.He fires again--BANG--and the glow from the shot briefly
+..illuminates the office, showing Tony jumping onto the desk. 
 >.With a quick blow he kicks the gun out of Clarence's hand,
 >.and then, leaping down from the desk, lands a STRONG kick
 ..right into Clarence's chest.
@@ -4233,26 +4286,25 @@ Words:0
 >.the darkness, as a first police car pulls up on the other
 ..side.
 .\Ext. Under freeway overpass - night
->.Tony walks quickly but calmly in the dark, removing his
->.blood-splattered clothes and tossing them into a pile of
+>.Tony walks quickly but methodically in the dark, removing
+>.his blood-splattered clothes and tossing them into a pile of
 >.trash built up by the homeless encampment under the freeway.
 >.A sleeping homeless man wakes up and looks, stunned, at this
 >.muscle-bound older man tossing aside a shirt covered in
 ..blood.
->.Tony steps into a dark corner and fishes around for
->.something unseen. He pulls out an old leather suitcase,
->.opens it, and pulls out an old burner phone. As he opens up
->.the suitcase and starts putting on some fresh clothes, he
-..dials a number on it.
+>.Tony, in his underwear now, steps into a dark corner and
+>.fishes around for something unseen. He pulls out an old
+>.leather suitcase, opens it, and pulls out an old burner
+>.phone. As he opens up the suitcase and starts putting on
+..some fresh clothes, he dials a number on it.
 ._TONY
-.:Hi Reid? It's Tony.
+.:Reid? It's Tony.
 ._Reid (OS)
->:Tony! Glad to hear your voice, my
-.:friend.
+.:Glad to hear your voice, my friend.
 ._TONY
 .:It's done. Now's the time to move.
 .\Int. Reid's apartment - night
->.Reid sits at his desk, still fully dressed, nervous but
+>.Reid stands by his desk, still fully dressed, nervous but
 ..relieved that his friend has survived his ordeal.
 ._REID
 >:Well if anyone could have pulled
@@ -4268,8 +4320,8 @@ Words:0
 ._TONY
 .:Not alive.
 ._REID
->:I mean...so how likely is it that
->:they won't find you? That this
+>:I mean...what's the chance that
+>:they don't find you? That this
 .:works?
 ._TONY
 >:There's no way that it works.
@@ -4279,8 +4331,7 @@ Words:0
 .:right.
 ..Tony looks positively miserable hearing this. 
 ._TONY
->:I'm just doing what I can to
-.:survive.
+.:I don't know what's right anymore.
 ._REID
 .:Good-bye, Tony.
 ._TONY
@@ -4306,11 +4357,10 @@ Words:0
 >:Where could a man like this have
 .:gone...?
 >.Sylvia looks at his bookshelf, seeing an empty spot where a
-..book once was. Then she goes over to the two framed photos.
->.She picks up the first one, showing Tony in robes with his
->.wife. She opens the frame, removes the picture, and places
-..it in her jacket.
->.She picks up the other photo, and regards it for a moment.
+..book once was. Then she goes over to the two picture frames.
+>.The first picture frame, which used to show Tony in robes
+..with his wife, is empty. 
+>.She picks up the other photo and regards it for a moment.
 ..This is what she is looking for.
 >.She sees Tony with his family standing around a temple arch
 ..in their native village in China. 
