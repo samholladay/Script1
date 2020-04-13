@@ -39,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:4207
-Cursor/Column:53
+Cursor/Line:4326
+Cursor/Column:35
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -4127,7 +4127,7 @@ Words:0
 ..approaches him.
 >.He stabs at Tony, but he dodges it and strikes the big man
 >.in his legs. Nico withstands it and jumps onto Tony,
-..SMASHING a table.
+..smashing a table.
 >.Now on top of Tony, Nico tries to stab him again, but Tony
 >.grabs his hand before Nico can thrust. The much smaller Tony
 ..twists out of the lock, knees Nico, and flips him over.
@@ -4350,9 +4350,8 @@ Words:0
 >.Sylvia steps precisely through the flat, looking for some
 ..sort of clue.
 >.The apartment is spotless, cleaner than we've ever seen it.
-..No alcohol is visible. 
->.His bedroom look as meticulously clean as the night he
-..rejected Lucy.   
+>.No alcohol is visible. His bedroom look as meticulously
+..clean as the night he rejected Lucy.   
 ._SYLVIA
 >:Where could a man like this have
 .:gone...?
@@ -4360,8 +4359,8 @@ Words:0
 ..book once was. Then she goes over to the two picture frames.
 >.The first picture frame, which used to show Tony in robes
 ..with his wife, is empty. 
->.She picks up the other photo and regards it for a moment.
-..This is what she is looking for.
+>.She picks up the other photo, regards it for a moment, and
+..realizes that this is what she is looking for.
 >.She sees Tony with his family standing around a temple arch
 ..in their native village in China. 
 ..He's gone home.
@@ -4374,21 +4373,137 @@ Words:0
 >.Tony sits alone at a decrepit wooden bar, with a single lamp
 >.illuminating the place. He has returned to his haggard look
 ..from the beginning: stubble, unkempt hair, patchy clothing.
->.Tony finishes his drink of clear liquor on the rocks, sighs,
-..and places it down gently.
+>.Tony finishes his drink--a bottle of ginger ale,
+..non-alcoholic. He sighs, and places it down gently.
 ._TONY
->:One more. Oh come on, promise it'll
-.:be the last one.
->.There is no answer from behind the bar. A breeze blows. Tony
->.looks around, tensing up, and notices the unnatural lack of
->.movement. The village suddenly seems deserted. He realizes
-..what is happening and unspools a bit.
+.:One more. Last one before dinner.
+..There is no answer from behind the bar. A breeze blows. 
+>.Tony looks around, tensing up, and notices the unnatural
+>.lack of movement. The village suddenly seems deserted. He
+..realizes what is happening and unspools a bit.
 ._TONY
 >:Don't do anything to the bartender.
 .:He's a good man.
-..Sylvia
-..
-..
+..Sylvia enters from behind the bar.
+._SYLVIA
+.:Today is a day off for him.
+>.Tony is surprised to see Sylvia; not who he expected to
+..track him down.
+._SYLVIA (CONT'D)
+>:Even with footage from the
+>:restaurant, it was hard to track
+>:you, Mr. Kong. Hard enough just to
+>:find your name. Then you managed to
+>:leave the States without anyone
+>:finding out. Truly impressive. But
+>:then you got sentimental. To flee
+>:to your childhood village
+.:seems...sloppy.
+._TONY
+>:It was never about hiding forever.
+>:Sooner or later someone would catch
+>:up to me. I just didn't think you
+.:would be the one to do it.
+._SYLVIA
+>:You expected one of his friends?
+>:Business partners? What do they
+>:care about Clarence? They're happy
+>:enough to take over his turf. They
+>:didn't even feel the need to go to
+>:his funeral out of respect. They
+>:were circling like vultures even
+.:before you came around.
+>.Sylvia pulls out a bottle of baijiu (Chinese liquor) and
+>.offers some to him. Tony shakes his head, and she shrugs,
+..pouring herself a glass.
+._SYLVIA (CONT'D)
+>:But I'm his wife. I'm the only
+>:thing he has left. Who else will
+.:fight for him?
+._TONY
+>:That's how I felt about her. About
+.:Lucy.
+._SYLVIA
+.((understanding)
+>:I heard about that girl. Maybe you
+>:feel it was your duty to avenge
+>:her. My husband made many enemies.
+>:I always knew this day would come.
+>:But it is also my duty to avenge my
+.:husband.
+._TONY
+.((resigned)
+>:It is. You have every right to kill
+.:me.
+..Sylvia puts down her drink, taken aback.
+._SYLVIA
+>:That's it? From the man who killed
+>:Clarence Tran and thirty of his men
+.:in one night?
+._TONY
+>:You wouldn't be standing in front
+>:of me if you didn't have a gun
+.:trained on the back of my head.
+..Sylvia takes this point.
+._SYLVIA
+>:Regardless, I didn't expect you to
+.:lay down like an old dog.
+._TONY
+>:Is that what you think this is? You
+>:think this is all pre-written, a
+>:great story, all of us fulfilling
+>:our destinies. I take vengeance for
+>:the death of my pupil, so you, the
+>:avenging wife, find me through your
+>:own skill and cunning. I resist,
+>:but righteousness prevails and you
+>:triumph over me. You return home,
+.:having done your duty.
+.((beat)
+>:No. I will not play my part. Your
+>:husband was the last man I will
+>:ever kill. I believe what I did was
+>:necessary. I also believe it was
+>:wrong. No one else will die on my
+>:account. So do your duty. I'm
+.:ready.
+>.Tony gets out of his chair, sits down on the ground
+>.Indian-style, and closes his eyes. Sylvia nurses her drink
+..and appraises him.
+._SYLVIA
+>:You think I didn't know what my
+>:husband did? That I didn't know
+>:where I got the money for my
+.:lifestyle?
+..Tony doesn't answer, doesn't even betray an expression.
+._SYLVIA (CONT'D)
+>:To tell the truth, I don't know if
+>:I even cared for him much when he
+>:was alive. He had his world and I
+.:had mine. 
+>.She lets down her hard exterior for a moment and thinks
+..wistfully of the past.
+._SYLVIA (CONT'D)
+>:But when you killed him, I don't
+>:know...all that feeling came
+>:rushing back. Those memories of the
+>:good times. I realized...he was
+.:still my husband. I am his wife.
+>.Tony sits quietly, an enigmatic look on his face, letting
+..her words hang in the air.
+._TONY
+.((quietly)
+.:You are doing what a wife does.
+._SYLVIA
+>:But you are not doing what a kung
+.:fu master does.
+..Tony opens his eyes. He is sadder than he let on.
+._TONY
+>:I am not that man anymore. I tried
+.:never to be that man. But I failed.
+._SYLVIA
+>:My husband did what men like him
+.:have always done.
 ..
 ..
 ._
