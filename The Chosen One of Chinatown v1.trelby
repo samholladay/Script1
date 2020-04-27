@@ -39,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:4362
-Cursor/Column:29
+Cursor/Line:2549
+Cursor/Column:14
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -272,10 +272,8 @@ Words:0
 >.loud music and driven by two tough-looking teenagers, drives
 ..by him slowly.
 .\INT. benny's Liquor store - continuous
->.Tony nods to the owner, BENNY, mid 50s, a friendly-looking
->.man. Tony glances around the store, seeing only two tattooed
->.wannabe-tough teenagers, YOUTH #1 and YOUTH #2 (the same who
-..drove by earlier), browsing by the flavored vodka.
+>.Tony nods to the owner, BENNY (61), an avuncular and
+..rail-thin man standing behind the counter.
 ._Benny
 >:A pretty day outside for you to
 .:come in here.
@@ -290,23 +288,25 @@ Words:0
 ._TONY
 .:How's Victoria doing, Benny?
 ._BENNY
->:Oh, she's fine. Just finished up
->:her first year at UCLA. I guess I
->:should be thanking you for helping
-.:pay her tuition!
+>:Oh, she's fine. She just started
+.:her first year at UCLA.
 ._TONY
-.((sarcastic)
->:You know me, I do all I can to
-.:help.
->.Tony turns away to search for some whiskey. He walks by the
->.two youths, who give the older man an amused and
->.condescending look. Tony tries to ignore the look and looks
->.up and down the store aisles, placing his finger on the
-..bottles as he brushes by them.
+>:Is that where she chose to go? Bit
+.:of a ways from Oakland, isn't she?
+._BENNY
+.:That's the idea.
+>.Tony turns away to search for some whiskey. Two tattooed,
+>.wannabe-tough teenagers, YOUTH #1 and YOUTH #2 (the same who
+>.drove by earlier), enter the store, talking loudly. They
+>.walk by Tony, giving the older man an amused and
+>.condescending look. Tony ignores them and looks up and down
+>.the store aisles, placing his finger on the bottles as he
+..brushes by them.
 >.The youths continue talking and laughing and Youth #1 lights
 ..a cigarette.
 ._BENNY
-.:Excuse me! You can't smoke in here. 
+>:Hey, excuse me! You can't smoke in
+.:here. 
 ..They stop talking and look over, surprised.
 ._YOUTH #1
 .:What's that, boss?
@@ -323,7 +323,7 @@ Words:0
 .:It ain't gonna hurt your store.
 ._YOUTH #2
 >:You really got a problem with one
-.:cig?
+.:cigarette?
 ._BENNY
 .:I know, I know, but...
 ._YOUTH #2
@@ -333,7 +333,8 @@ Words:0
 >:I'm your customer, you're supposed
 .:to be helping me out, man.
 ._BENNY
-.:Listen, it's just the store rules.
+>:Listen, you gotta do it outside.
+.:It's store policy. 
 >.Tony, standing by a shelf, looks over to the counter, where
 >.the two youths are now standing threateningly in front of
 ..Benny, who looks smaller than ever. Tony looks conflicted.
@@ -359,12 +360,14 @@ Words:0
 .:is all fucked, man.
 ._YOUTH #2
 >:Ain't gonna buy no more liquor
-.:here.
+.:here. Ever.
 >.As they walk out Youth #1 makes aggressive eye contact with
 ..Benny. He glances back at Tony with a look of great disdain.
 ._YOUTH #1
-.:Yeah, if you lucky.
-..He stamps out his cigarette on the floor as he leaves.
+.((mocking)
+.:What's up, big fella?
+>.Tony looks right back without moving. The youth smiles and
+..stamps out his cigarette on the floor as he leaves.
 ._YOUTH #2
 .:These fucking places, man...
 >.Tony avoids looking at Benny. Not clear if he's ashamed or
@@ -380,14 +383,13 @@ Words:0
 ._TONY
 .:The kids don't stop coming.
 ._BENNY
->:Not recently. If it's not them it's
->:the kids they sell it to. I tell
->:you, walking home feels like I'm
->:back in Vietnam, but under my shoe
->:they're used needles instead of
-.:mines.
->.Tony grabs one bottle of bourbon and one of vodka, and
-..brings it up to the counter.
+>:If it's not them it's the kids they
+>:sell it to. I tell you, walking
+>:home feels like I'm back in
+>:Vietnam, but under my shoe there
+.:are used needles instead of mines.
+>.Tony grabs one bottle of bourbon, and brings it up to the
+..counter.
 ._BENNY (CONT'D)
 >:I'm so glad Victoria is away from
 >:all this nonsense. She left at just
@@ -396,14 +398,45 @@ Words:0
 .:Anytime's the right time.
 .\EXT. Benny's liquor store - day
 >.Tony walks out of the store, holding a paper bag with his
->.purchases, framed by some graffiti on the wall to his right
-..and a empty boot standing up in the alley to his left. 
->.A black SUV drives by with its window open. A book is tossed
->.out and hits the wall. Tony steps over and looks down at the
-..pavement to see the book: "Cracking the Coding Interview."
->.Tony opens the front cover with his foot. The page is
->.covered with scrawling notes, and the owner wrote, in large
-..red letters across the cover, "THIS IS BULLSHIT".
+>.purchase, framed by some graffiti on the wall to his right
+..and a empty boot standing up in the alley to his left.
+>.He walks past a huge, aggressive-looking mural of a dragon
+>.on a brick wall, then a bike-share station full of bikes
+>.with missing wheels and seats. An extremely loud motorcyle
+..roars by him and sets off multiple car alarms.
+>.Tony opens the bottle inside the bag and takes a swig out of
+>.it as he walks. As he rounds the corner a cop car pulls up
+..behind him, with COP #1 looking out the rolled-down window.
+._Cop #1
+>:Sir, I need you to stop right
+.:there.
+._TONY
+.:What's the problem?
+._COP #1
+>:You can't walk around on the street
+.:and drink that liquor.
+._TONY
+>:Don't you have something better to
+.:do?
+>.The cop gets out of the car and approaches Tony, while COP
+..#2 sits in the car waiting.
+._COP #1
+>:Do you want a citation? I need you
+>:to throw away the bottle in the
+.:garbage.
+._TONY
+.:I just bought it.
+._COP #1
+>:Well, you can't drink it on the
+.:street. Buy another one.
+>.Tony sees a trashcan at the very end of the block. He walks
+>.down there, throws away the bag, and walks right back to the
+..cop.
+._TONY
+>:That was the last bottle of
+.:Russell's Reserve.
+>.He walks right back toward the store for another bottle as
+..the cop gets back in his car.
 .\INT. Trendy coffee shop - day
 >.Later that day, Tony enters the bright, spacious cafe full
 >.of chatting young professional types, clad in tech T-shirts
@@ -428,14 +461,13 @@ Words:0
 ..The barista is completely unfazed.
 ._BARISTA
 >:Always a good choice! How do you
->:like your tea, sir? [This comedy is
-.:a bit hacky]
+.:take your tea?
 ._TONY
 .:In a cup.
->.From the side his friend REID MAYER approaches. Reid is
->.white, well-built, about the same age as Tony, with silver
->.temples and an avuncular look. He wears an open-neck shirt
->.and khaki blazer, looking like a king next to the casual
+>.From the side his friend REID MAYER (52) approaches. Reid is
+>.white, well-built, with silver temples and a confident,
+>.rather distinguished look. He wears an open-neck shirt and
+>.blue checked blazer, looking like a king next to the casual
 ..younger people in the cafe.
 ._Reid
 .:Tony, there you are.
@@ -453,7 +485,7 @@ Words:0
 >.old friends forged by years of camarederie and shared
 ..experiences.
 ._TONY
-.:I get worse every year, Reid. 
+.:Gets worse every year, Reid. 
 ._Reid
 >:Not the first time I've told you
 .:you're out of practice.
@@ -912,7 +944,7 @@ Words:0
 ._DONNA
 >:Honey, this is what it takes to run
 >:a business here. Everyone has to do
-.:it. Think of it as a private tax.
+.:it. Think of it as an extra tax.
 ._LUCY
 >:Are you crazy? Clarence Tran? This
 >:is really dangerous. I can't
@@ -932,8 +964,9 @@ Words:0
 >:now, this is the reality we deal
 .:with. There's no other way.
 ._LUCY
->:Has anyone ever tried to...you
-.:know, take him down?
+>:Has anyone ever tried to...I don't
+>:know, do something about it? Take
+.:him down?
 ..Donna laughs.
 ._DONNA
 >:What, take down Clarence Tran? Like
@@ -952,16 +985,16 @@ Words:0
 >:the dragons, either. It's not
 .:wuxia.
 ._LUCY
->:Please don't make fun of me. I just
->:think it's ridiculous that we
->:tolerate it and no one does
->:anything. And for the record, I
->:know about Clarence Tran. I see his
->:guys on the street, I know he runs
->:everything around her. But I didn't
->:think he reached his tentacles in
->:here. [YIKES! This dialogue is
-.:bad.]
+>:Don't make fun of me. I just think
+>:it's ridiculous that we tolerate it
+>:and no one does anything. And by
+>:the way, I do know about Clarence
+>:Tran. I see his guys on the street,
+>:I know he runs this whole
+>:neighborhood. He corrupts
+>:everything he touches. And now I
+>:know that this store--our
+.:store--isn't safe either.
 ._DONNA
 .((beat)
 >:You talk so well. It reminds me of
@@ -994,7 +1027,8 @@ Words:0
 .((smiles)
 >:Oh, he's older now. He doesn't
 >:fight. Unless you tried to take
-.:away his liquor, of course.
+.:away his whiskey, of course.
+..Lucy has a sudden look of recognition.
 ._LUCY
 >:Are you talking about Mr. Kong? The
 .:stories are true?
@@ -1068,7 +1102,7 @@ Words:0
 >.She leaves in a huff, slamming the door. Donna goes back to
 ..sweeping.
 ._DONNA
-.:Fucking college kids.
+.:Goddamn college kids.
 .\Int. karate dojo - day
 >.Lucy kicks the air in front of her, one in a line of
 >.students practicing. She is dressed in her karate robes, a
@@ -1102,19 +1136,18 @@ Words:0
 ._MASTER DOUGLAS
 .((suddenly shouts)
 .:Got that, Kevin?
->.Kevin, a doofy looking, redheaded white college kid, starts
-..suddenly.
+..KEVIN, a doofy-looking, lanky readhead, starts suddenly.
 ._Kevin
 >:I've been practicing every day,
 .:sensei!
 ._MASTER DOUGLAS
->:Practicing the ___ kick is good
+>:Practicing the axe kick is good
 >:alone. But perfect technique means
 >:nothing if you can't use it
 >:effectively  against your opponent.
 >:We're going to break out into pairs
 >:to spar. I want you to focus on
-.:using the ___. Understood?
+.:using the axe kick. Understood?
 ._All students
 .:Yes, master!
 ._MASTER DOUGLAS
@@ -1189,7 +1222,19 @@ Words:0
 >:You don't have to tone it down, you
 >:just have to consider what you're
 >:doing when you're sparring versus
->:when you're competing. But that
+>:when you're competing. I noticed
+>:that you did some research on your
+>:own. I taught the class the regular
+>:axe kick, you used the seven axe
+.:kick on Kevin!
+._LUCY
+.:I thought I'd try it out.
+._MASTER DOUGLAS
+>:A difficult move to get right,
+>:especially in a competitive
+>:scenario. I see the risks you take
+>:sometimes, and I worry if you leave
+>:yourself open to attack. But that
 >:drive you have, that passion is
 .:good!
 ..He sits down behind his desk, and opens up his computer.
@@ -1311,7 +1356,6 @@ Words:0
 >:You know who Clarence Tran is.
 .:Don't you?
 ._TONY
-.((frowns)
 >:I don't think there's much I can
 >:tell you about him. I stay out of
 .:that sort of thing.
@@ -1359,12 +1403,12 @@ Words:0
 ..Lucy now climbs up one more step on the porch.
 ._LUCY
 >:Mr. Kong, you know exactly what I
->:mean. I know you try to bury it,
->:but I've heard stories about you
->:for years. Stories about the guy
->:who lives down the street, the old
->:guy who drinks too much, who used
->:to be some sort of kung fu legend.
+>:mean. You can try to bury it, but
+>:I've heard stories about you for
+>:years. Stories about the guy who
+>:lives down the street, the old guy
+>:who drinks too much, who used to be
+>:some sort of kung fu legend.
 >:Growing up, I always thought the
 >:other kids were making up stuff
 >:because no one knew what you did or
@@ -1401,10 +1445,11 @@ Words:0
 >.grins and chuckles a bit, amused with himself for doing such
 ..an over-the-top maneuver. 
 ._TONY
->:I thought I might have a problem
->:with you, Lucy. But now I know I
->:won't. What you're saying is
-.:ridiculous. [Kind of weak]
+>:I was getting ready for a serious
+>:request from you. So you can
+>:imagine my relief when instead you
+>:ask for the most ridiculous thing
+.:I've ever heard.
 ._LUCY
 >:I know it doesn't sound
 .:very...conventional.
@@ -1418,7 +1463,8 @@ Words:0
 .:You mean Japanese swing dancing?
 ._LUCY
 .:I want you to train me!
-..Tony leans back in his chair, pauses, and finally smiles.
+>.Tony leans back in his chair and smiles for a brief moment
+..before his face turns back to stone.
 ._TONY
 >:Thank you for making an old man
 >:laugh. I haven't laughed that hard
@@ -1453,16 +1499,15 @@ Words:0
 >:Are you saying you couldn't fight
 .:them and win?
 ._TONY
-.((burps drunkenly)
 >:That's a very unoriginal strategy
->:there, dear, and it won't work. I
->:don't fall for cheap ego plays,
-.:even after a couple of beers.
+>:there, and it won't work. I don't
+>:fall for cheap ego plays, even
+.:after a couple of beers.
 ._LUCY
 >:Mr. Kong, I've heard stories about
 .:your skills...
 ._TONY
->:And they're bullshit! Just like
+>:And they're all bullshit! Just like
 >:your plan! If you've heard anything
 >:about me, you probably know that I
 >:don't fight, and I don't teach.
@@ -1476,15 +1521,14 @@ Words:0
 >:Exactly! I wouldn't train you if
 >:you just came here and gave me a
 >:thick wad of cash for a few casual
->:lessons! Much less for some
->:pie-in-the-sky, dumbass plan to
->:take down the biggest crime boss in
->:Oakland with our magical fists of
-.:fury!
+>:lessons. Much less for some
+>:pie-in-the-sky plan to take down
+>:the biggest crime boss in Oakland
+.:with our magical fists of fury!
 ._LUCY
 >:You see, that's why you should help
 >:me! I'm not doing this for some
->:stupid, selfish reason! This isn't
+>:stupid, selfish reason. This isn't
 >:about me, it isn't about training,
 >:it's not even about you or what you
 >:used to be! It's about this
@@ -1501,8 +1545,8 @@ Words:0
 ._LUCY
 >:I don't know what happened years
 >:ago, or why you've shriveled into
->:this. But I know you could still
-.:help me. 
+>:this. That's the real reason you
+.:won't help me. 
 ..Lucy leaves. 
 >.Tony leans back in his chair, in deep thought. He hasn't
 ..thought about this part of his life for a while.
@@ -1527,13 +1571,13 @@ Words:0
 >.He takes a look at the empty chair on the porch, then
 ..clutches his mouth.
 ..He runs to the bathroom and throws himself on the toilet.
-./CUT TO:
->.A view of Tony's bedroom, an immaculately made, empty bed
->.with an empty wooden chair next to it. The sound of his
->.vomit is heard from the next room.  A shocking contrast to
->.the messiness of his apartment, and melancholy in its
->.conspicuous emptiness. Today was supposed to be a relaxed,
-..more mature night, and his now organized room reflects that.
+>.Tony's bedroom is neat and tidy, featuring an immaculately
+>.made, empty bed with an empty wooden chair next to it. The
+>.sound of his vomit is heard from the next room.  A shocking
+>.contrast to the messiness of his apartment, and melancholy
+>.in its conspicuous emptiness. Today was supposed to be a
+>.relaxed, more mature night, and his now organized room
+..reflects that.
 ..Only Lucy's revelation sparked the descent.
 .\INT. TONY'S APARTMENT - KITCHEN - night
 >.Tony pours himself a fairly strange looking mixture of
@@ -1621,9 +1665,10 @@ Words:0
 >:Jesus, a little warning? You could
 .:have hit me!
 ./CUT TO:
->.CLARENCE TRAN, early 40s, lean, hawkish, sprawling over a
->.large wooden desk wearing a light gray, open-neck suit and
-..gold-rimmed glasses. He stands, revealing his height.
+>.CLARENCE TRAN (42) - lean, hawkish, sitting with a
+>.ramrod-straight back at a wooden desk, wearing a light gray,
+>.open-neck suit and gold-rimmed glasses. He stands, revealing
+..his height.
 ._Clarence tran
 .:Only if I wanted to.
 ..He motions with his head for Nico to shut the door.
@@ -1786,8 +1831,8 @@ Words:0
 >:Clarence. It's hard for me to keep
 >:explaining to people why I miss
 >:these events. We're not going to
->:get to meet Elon Musk or the mayor
-.:for a while.
+>:get to meet Mark Zuckerberg or the
+.:mayor for a while.
 ._CLARENCE TRAN
 .((glances at his Rolex)
 >:I'm almost done here. If I drive
@@ -1824,8 +1869,8 @@ Words:0
 ..into the doorway.
 ._CLARENCE TRAN
 >:Get it all off the floor, too. I
->:don't want a spot of hemoglobin in
-.:this office.
+>:don't want one spot of hemoglobin
+.:in this office.
 ._NICO
 .:Have a good time, sir.
 ..Clarence leaves.
@@ -2007,7 +2052,7 @@ Words:0
 ._BENNY
 >:Might still be a bottle in the
 >:back, I'd have to check. There's
->:not exactly a great demand for it
+>:not exactly a lot of demand for it
 .:in Chinatown.
 ._TONY
 .:Take your time.
@@ -2043,7 +2088,7 @@ Words:0
 >:what you were like before you
 >:discovered this. But I know what
 .:you're like now.
-..Lucy throws the bottle on the ground.
+..Lucy SMASHES the bottle on the ground.
 ._LUCY
 .:It's pathetic. You're pathetic.
 ._BENNY
@@ -2077,7 +2122,7 @@ Words:0
 ..She picks up another bottle.
 ._LUCY
 .:A drunk old man. Pitiful.
-..She throws it straight at him. 
+..She LAUNCHES it straight at him. 
 >.Tony spins and KICKS the bottle, exploding it into a shower
 >.of liquor and glass shards in mid air. We feel the dazzling
 ..impact.
@@ -2087,21 +2132,22 @@ Words:0
 ..The two bottles smash together in mid air.
 >.Benny cannot believe what he is seeing. He goes to the door
 ..and hurriedly locks it.
->.Lucy is unbelievable pumped now. She grabs a bottle with
+>.Lucy is unbelievably pumped now. She grabs a bottle with
 ..each hand and charges toward Tony.
 >.Tony dodges one blow and hits her hand, making her drop the
 ..bottle.
 >.She kicks, but he blocks it, kicking her leg back into the
-..shelf, smashing some whiskey. 
-..A bottle teeters on top of the shelf, then falls onto Lucy. 
->.She dodges and swings into the middle of the aisle, then
-..swings the other liquor bottle at Tony.
+..shelf and smashing some whiskey. 
+>.A bottle teeters on top of the shelf, then falls down right
+..toward Lucy. 
+>.She catches the bottle, and without missing a beat swings
+..the liquor bottle in her other hand at Tony.
 >.He kicks high and smashes the bottle with it still in her
->.hand. She doesn't seem injured; this is pure, delirious
->.style. Slow motion lets us appreciate the flying shards and
-..globules of liquor.
->.She stabs toward him with the broken nub of the bottle, but
->.he dodges. Tony is surprised by her ferocity; it wasn't
+>.hand. She doesn't seem injured, even as tiny shards of
+>.glasses and globules of liquor spray across the store like a
+..mist.
+>.She jabs at him with the broken nub of the bottle, but he
+>.dodges. Tony is surprised by her ferocity; it wasn't
 ..something he expected from someone like her.
 >.Tony pulls her arm and throws her into the shelf on the
 ..other side of the aisle.
@@ -2115,17 +2161,17 @@ Words:0
 .:He did have Russell's Reserve!
 ._LUCY
 .:Let go of it!
->.Lucy grabs a bottle behind her and hits Tony on the side
+>.Lucy grabs a bottle behind her and tries to Tony on the side
 ..with it, not acknowledging his previous kindness.
->.Tony grabs the bottle between his elbow and knee, then
+>.Tony intercepts the bottle between his elbow and knee, then
 >.smoothly tosses it aside in a fluid motion, somehow SMASHING
-..the one bottle left on the shelf behind him.
+..the only remaining bottle left on the shelf behind him.
 ._TONY
 .:You are very ungrateful.
 ._LUCY
 .:Is that how you fight?
 >.Lucy attacks, with Tony blocking her blows rather easily
-..with one bottle still in his hand.
+..with the bottle of Russell's Reserve still in his hand.
 ._TONY
 .((glancing at bottle)
 .:This is priceless!
@@ -2144,8 +2190,8 @@ Words:0
 ..seems to be learning from the maestro.
 ._LUCY
 .:Are you a master, Tony?
->.Her confidence flying high, she tries the ___ kick. Her
-..signature. 
+>.Her confidence flying high, she tries the seven axe kick.
+..Her signature. 
 >.But she slips on the liquor now splattered on the ground,
 ..falling right on her back. 
 ..Back down to earth.
@@ -2164,7 +2210,7 @@ Words:0
 ._BENNY
 .:What have you done to my store?
 >.Tony looks around the store; we see glass shards and liquor
-..everywhere; half the place is trashed.
+..everywhere. Half the place is trashed.
 ._TONY
 >:You can't trust college students
 .:around alcohol, Benny.
@@ -2586,9 +2632,8 @@ Words:0
 ._HOSTESS
 .:Right this way.
 >.They follow the HOSTESS past laughing, suited couples and
->.groups of trendy people drinking wine--a beautiful Bay Area
->.world unknown to people like Lucy. Maybe it unfolds in one
-..shot, like the Copacabana sequence from "Goodfellas."
+>.groups of trendy people drinking wine--a beautiful,
+..glittering Bay Area world unknown to people like Lucy. 
 ._LUCY
 >:This is so fancy. I don't think
 >:I've ever eaten in one of these
@@ -2619,7 +2664,7 @@ Words:0
 >:Alright. Let me know if you have
 >:any questions about the menu. The
 >:special today is a spaghetti alla
->:chitarra with Chino Farm corn,
+>:chitarra with Chino Farms corn,
 >:summer chanterelles, haricots
 .:verts, and fennel breadcrumbs.
 ..Lucy looks confused and intrigued by the dish.
@@ -2655,9 +2700,25 @@ Words:0
 >:You know, when I first came to this
 >:country, I didn't know anything
 >:about American food or how they ate
-.:here.
-..TELLS STORY--------------------
-..
+>:here. In China, when you go out to
+>:eat for a nice meal, you try to
+>:order everything, just to try it.
+>:So I went on my first date here
+>:with a girl, and I took her to a
+>:restaurant in San Francisco. She
+>:went to the bathroom and said,
+>:"Order for me. Surprise me." So
+>:when she comes back I told her I've
+>:ordered 3 appetizers and 5 entrees.
+>:I thought we could try everything.
+>:We tried to eat it all but had to
+>:leave about half of it behind. She
+>:didn't want to take it back in a
+>:box. Then she fell asleep on the
+>:way back home and said she was too
+>:bloated to talk anymore. I don't
+>:think I ate for another 2 days
+.:after that!
 ._LUCY
 .:Wow, I didn't know you laughed!
 ._TONY
@@ -2960,7 +3021,7 @@ Words:0
 >.Tony deflects it, but Lucy suddenly attacks with a jab. The
 ..jab Tony taught her.
 ..She jabs again. Tony is opened up.
-..She goes for the __ kick, just like in judo.
+..She goes for the seven axe kick, just like in judo.
 ..It lands.
 ..Tony falls flat on his back.
 ..Lucy, for once, towers over him.
@@ -3635,8 +3696,8 @@ Words:0
 .:Alright, we'll tell him. 
 ._LUCY
 >:I'll be waiting tonight by the
->:docks. The Shoreline Park by the
-.:Middle Harbor. [Real park name?]
+>:docks. Shoreline Park by the Middle
+.:Harbor. 
 ..Their eyes widen. 
 ._LUCY (CONT'D)
 .:Tell him that.
@@ -3851,11 +3912,10 @@ Words:0
 >.Clarence's eyes widen. Leaning against the hill, fear enters
 ..them for the first time.
 ..Lucy attacks. It's time to finish him.
-..She uses the ___ kick.
-..She exposes herself. Her side is wide open.
-..Clarence punishes her.
->.He grabs the leg in mid-air, hits it, and rams it against
-..the hill.
+..She uses the seven axe kick.
+..But she exposes herself. Her side is wide open.
+>.Clarence punishes her. He grabs the leg in mid-air, hits it,
+..and rams it against the hill.
 >.He STRIKES her leg with his elbow, landing with a sickening
 ..crunch.
 ..Lucy screams in agony, her head to the sky, leg BROKEN.
@@ -3936,7 +3996,7 @@ Words:0
 >.There is a gala going on tonight at the restaurant. People
 >.in suits walk in and out of the restaurant, with a grand,
 >.lit-up entrance, complete with balloons, a carpet, and a
-..banner reading "FUNDRAISER SIGN."
+..banner reading "EAST BAY DIABETES RESEARCH FOUNDATION."
 >.Tony carefully watches the mingling guests, noticing the
 >.occasional guard in suits standing around the restaurant:
 ..the mooks who watched Lucy die.
@@ -3981,8 +4041,8 @@ Words:0
 ._PAULY CAROLLO
 .((laughing)
 >:We're gonna raise a lot of money
->:for ___ tonight. This was a great
-.:idea on your part.
+>:for diabetes research tonight. This
+.:was a great idea on your part.
 ._SYLVIA
 >:Well, Clarence did help me with the
 .:planning.
@@ -4138,16 +4198,8 @@ Words:0
 ..teeth out.
 >.Just one thug left in the front room. A shrimpy looking
 ..white guy, standing in front of the door.
->.[Tarantino paid homage to Yojimbo with the line "Go home to
->.your mother!" In the Bride's fight scene. If only he hadn't
->.already used that hilarious line. Note: actually, this seems
->.to be a standard martial arts trope, to scare off the last
-..fighter.]
 >.Tony walks to the door, glaring at him. The thug weakly
 ..opens the door for him. Tony goes through it without a word.
->.[Perhaps the humor of this would distract. It could be done
->.in a non-humorous way, where Tony just runs right past the
-..guy, who quickly opens the door for this badass man.]
 .\INT. FANCY RESTAURANT - NIGHT
 >.The back room is empty. Tony notices the hallway in the
 ..back, and goes towards it.
@@ -4222,7 +4274,7 @@ Words:0
 >.He fires again--BANG--and the glow from the shot briefly
 ..illuminates the office, showing Tony jumping onto the desk. 
 >.With a quick blow he kicks the gun out of Clarence's hand,
->.and then, leaping down from the desk, lands a STRONG kick
+>.and then, leaping down from the desk, lands a strong KICK
 ..right into Clarence's chest.
 >.Clarence is knocked back through the office door into the
 ..dimly lit kitchen.
