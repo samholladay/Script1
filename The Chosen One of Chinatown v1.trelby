@@ -39,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:1635
-Cursor/Column:25
+Cursor/Line:3181
+Cursor/Column:23
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -584,7 +584,7 @@ Words:0
 ..coffee beans.
 .\Int subway car - day
 >.Cramped between a diverse group of Bay Area passengers on
->.BART (a tableau similar to the mural), we meet LUCY MAO, 21,
+>.BART (a tableau similar to the mural), we meet LUCY MAO, 20,
 >.a pretty college student wearing a backpack, coming back
 >.home to Oakland from classes at SFSU. She's slim, not very
 >.physically intimidating, but seems to have a kind of wiry
@@ -1224,8 +1224,8 @@ Words:0
 >:when you're competing. I noticed
 >:that you did some research on your
 >:own. I taught the class the regular
->:axe kick, you used the seven axe
-.:kick on Kevin!
+>:axe kick, but you used the Seven
+.:Axe Kick on Kevin!
 ._LUCY
 .:I thought I'd try it out.
 ._MASTER DOUGLAS
@@ -2188,7 +2188,7 @@ Words:0
 ..seems to be learning from the maestro.
 ._LUCY
 .:Are you a master, Tony?
->.Her confidence flying high, she tries the seven axe kick.
+>.Her confidence flying high, she tries the Seven Axe Kick.
 ..Her signature. 
 >.But she slips on the liquor now splattered on the ground,
 ..falling right on her back. 
@@ -3019,7 +3019,7 @@ Words:0
 >.Tony deflects it, but Lucy suddenly attacks with a jab. The
 ..jab Tony taught her.
 ..She jabs again. Tony is opened up.
-..She goes for the seven axe kick, just like in judo.
+..She goes for the Seven Axe Kick, just like in judo.
 ..It lands.
 ..Tony falls flat on his back.
 ..Lucy, for once, towers over him.
@@ -3234,8 +3234,9 @@ Words:0
 .:on my admissions essays. 
 ._TONY
 >:Maybe you should. You'd be better
->:out there. You're a wanderer. A
-.:refugee without a homeland.
+>:out there. Something like you with
+>:ambition, what do they owe to a
+.:place that just beats them down?
 ..Lucy looks around the bar.
 ._LUCY
 .:This is my home. And yours.
@@ -3244,136 +3245,117 @@ Words:0
 .:much. I aim to leave.
 ._LUCY
 .:Well, I'm not trying to leave.
-._TONY
-.:That's the best way to get killed.
-._LUCY
-.:You're not dead.
->.Turning the conversation to him upsets Tony. An unusual view
-..of such a composed man. He finishes off his bourbon.
-._TONY
-.:We, uh...don't have the same...
->.He looks around and pulls out a flask, pouring some into his
->.glass. He pauses, the words oozing out of him slowly, like
-..blood from a wound.
-._TONY
-.:I never really...
-.((beat)
->:...tried in that way. I didn't have
->:much courage. It's been a long time
-.:since I've, uh tried...
-..Perceptive as always, she tries to rescue him.
-._LUCY
->:Do you want to grab a table? I'd
-.:rather not just sit at the bar.
-._TONY
-.:Let's refill our drinks first.
-..She raises her hand for the bartender.
-._LUCY
-.:Excuse me, sir?
+>.Silence while they sip their drinks. At this break in the
+..conversation Oscar comes around to see his old friend.
 ._OSCAR
-.:What's up?
+>:How's he treating you, honey?
+>:Having a good time with this
+.:old-timer?
 ._LUCY
-.:Can we get another one each?
+.((laughs)
+>:Oh yes, of course. We always have a
+.:great time on the town together.
 ._OSCAR
->:Sure, yeah. Another one for you,
-.:Tony?
+>:I tell you, I never thought I'd see
+>:the day. To see you talking to your
+>:family again, it warms my heart.
+>:Especially after what happened with
+.:your wife--
 ._TONY
-.:Yes.
->.He refills them, Tony looking straight ahead, Lucy glancing
-..at him every so often. Her anticipation is electric.
-..Tony gets his bourbon first and starts upon it immediately. 
->.When Lucy gets hers she takes a sip and gets up to find a
-..table in the back.
->.She looks for Tony and sees him still at the bar. She walks
->.up to see he's already finished his drink and has ordered
-..another.
->.Lucy goes back and sits down alone. Waiting nervously.
->.Expecting something huge. She sips the gin and tonic from a
-..straw. 
->.Eventually Tony sits down next to her, a little bit
-..unsteady. Seemingly a bit more primed to share.
-._LUCY
->:When was the last time you fought
-.:anyone?
+.:That's enough, Oscar.
+>.Tony suddenly turns cold, and the genial Oscar is bewildered
+..by the change.
+._OSCAR
+>:What, Tony? I just...you know,
+.:she's your niece--
 ._TONY
->:Anyone? It was 1987. At my wife's
-.:funeral.
+>:I don't need another drink. I think
+.:we're good here.
+._OSCAR
+.:All right, whatever you say...
+>.He turns away shaking his head, while Lucy now regards Tony
+..warily.
 ._LUCY
-.((beat)
-.:Oh. I'm really sorry.
+>:Same as always, huh? Really opening
+.:up?
 ._TONY
->:Don't be. I won. He said some cruel
-.:things and I had to sort it out.
->.A long silence. Lucy tries to think of the best way to
-..phrase this. She can't afford to screw this up.
+>:I don't know what you're talking
+.:about.
 ._LUCY
-.:So is that the reason that you--
+.:What happened with your wife?
 ._TONY
->:Don't fight? No! Don't be silly.
->:It's nothing like that. It was
->:because I had a realization. A
->:truly philosophical one. I realized
->:that violence cannot solve your
-.:problems. [Improve]
->.Lucy looks surprised. She thought he was about to finally
-..share. That she had broken through.
+.:Can you just--
 ._LUCY
-.:That's why?
-..Tony now looks uncommonly cheerful.
+.:Is that why you don't fight--
 ._TONY
->:Oh yes. I looked at my life's work,
->:and I, I saw that it was all about
->:violence. Perfecting it, teaching
->:it, living in it. And it offended
-.:me philosophically.
+.:This is way out of line--
 ._LUCY
-.:Philosophically?
+.:Why you drink--
 ._TONY
->:Violence is bad for society, it's
->:bad for everyone, aggressors and
->:victims. I couldn't live like that.
->:I hung up my robes and quit the
->:life. Never looked back. And ever
->:since then I've refused every
->:invitation to return. And that's
->:why I feel secure now. I feel
-.:totally secure in my decision.
->.Lucy slumps back, bitterly disappointed by his lies. She
->.lost the moment, the one moment for real connection. The
-..wall is back up, but it has a cheerful face now.
+>:That's what people always think,
+>:isn't it? You would love it if
+>:everything were tied up in a neat
+>:little bow like that, so easy to
+.:understand.
 ._LUCY
->:Well, that's very principled of
-.:you, Tony.
+>:I'm just trying to understand here.
+>:You're supposed to be my master and
+>:all I hear is that I can't do this
+>:and violence isn't the answer, but
+>:you can't let me know anything
+.:about yourself--
 ._TONY
->:And I still think your mission
->:won't work because of that. You
->:really will accomplish much more if
->:you give it up and take a, uh,
->:peaceful approach. Even with
->:Clarence Tran. That's why I've said
->:everything I've said. Maybe you can
-.:understand now.
->.She's dejected now. She can't bear to listen to more
-..falseness.
+>:Oh, you think this has something to
+>:do with you? Why I don't want to
+.:train you?
 ._LUCY
->:I understand. It's late, Tony, I'm
->:gonna head home. I'll be pretty
-.:busy tomorrow.
-..She stands up, her gin and tonic half-finished.
+.:I don't know, Tony.
 ._TONY
->:Ok. That's good, then. You need
->:your sleep, you're looking tired.
->:And it will help us in our lessons,
-.:too.
+>:Let me tell you something. You
+>:don't know anything about me or my
+>:wife and you'll never know
+>:anything. You don't know a goddamn
+>:thing about real struggle or real
+>:sacrifice and that's why you
+>:thought up this scheme and are
+.:trying to drag me into it.
 ._LUCY
->:Thanks for the concern. See you
-.:tomorrow.
-..She walks straight out, quickly, not looking back.
->.Tony's pleasant face slowly slips. He seems nervous now,
->.wondering how well he performed. Whether he's put this topic
-..to rest.
->.He gets up suddenly from the table. His glass falls on the
-..ground and breaks.
+>:Is it so hard to imagine that I
+>:want to help? Can that not even
+.:cross your mind?
+._TONY
+>:I think you're impulsive and you
+>:can't fight for shit. And you're
+>:gonna get yourself killed. And it
+.:won't be my fault.
+._LUCY
+.:Is that what happened to your wife?
+>.Tony gets up immediately from the bar. He knocks over his
+..glass and it falls to the ground, shattering.
+._LUCY
+.:Jesus--
+._OSCAR
+.:Hey Tony, you ok?
+>.Tony pauses for a second, composing himself. Within a few
+..moments he is Zen again.
+._TONY
+.:I'm fine. Sorry about the glass.
+>.He puts a couple dollars on the bar and walks out without
+>.even glancing at Lucy. She is filled with a mix of shock,
+..rage, and sadness.
+._OSCAR
+.:Honey, listen, your uncle is--
+..Lucy gets up in much the same way that Tony did.
+._LUCY
+>:I don't need to hear anything. He
+>:wouldn't want me talking about him
+>:behind his back. Thanks for the
+.:drink.
+._OSCAR
+.:Yeah, sure. No problem.
+..Lucy is on her way out.
+._LUCY
+.:I'm not 21, by the way.
 .\EXT. Donna's store - night
 >.Woojin and Nico sit inside an old sedan, watching the
 >.exterior of Donna's store. Woojin smokes a joint. The radio
@@ -3449,7 +3431,7 @@ Words:0
 ..Woojin smiles wearily. 
 ._WOOJIN
 >:Listen, this is starting to really
->:annoy us. Go home, all right?
+>:get annoying. Go home, all right?
 .:That's all we want to do.
 ..Lucy puts down her bag and jacket.
 ..Woojin looks at Nico, confused.
@@ -3638,7 +3620,7 @@ Words:0
 .:What happened?
 ._WAN-MIN
 >:They think someone burned down the
-.:store last night. Donna---
+.:store last night. Donna--
 ._LUCY
 .:Is Donna okay?
 ..Wan-Min shakes her head, covering her mouth.
@@ -3717,9 +3699,8 @@ Words:0
 >.She stares at it for a while, then starts. A retinue of
 >.three cars are pulling up in the dark street in front of
 ..her.
-..Lucy goes down the hill. 
->.Five tough-looking men pile out of the front and back cars
-..each.
+>.Lucy walks down the hill. Five tough-looking men pile out of
+..the front and back cars each.
 >.The men surround Lucy in a large semicircle, her back to the
 >.hill. She stares them down. Alone in front of this private
 ..army, she has never looked smaller.
@@ -3915,7 +3896,7 @@ Words:0
 >.Clarence's eyes widen. Leaning against the hill, fear enters
 ..them for the first time.
 ..Lucy attacks. It's time to finish him.
-..She uses the seven axe kick.
+..She uses the Seven Axe Kick.
 ..But she exposes herself. Her side is wide open.
 >.Clarence punishes her. He grabs the leg in mid-air, hits it,
 ..and rams it against the hill.
@@ -4167,7 +4148,7 @@ Words:0
 >:Sylvia, you have to get out of
 .:here.
 ._SYLVIA
-.:I don't understand...
+.:I don't understand--
 ._CLARENCE TRAN
 >:This is my job! How do you think
 >:you afford that fucking dress and
@@ -4330,7 +4311,7 @@ Words:0
 ..Clarence Tran collapses, neck broken.
 ..Tony is not triumphant. Just quiet.
 ._TONY
-.:I'm a killer.
+.:Not again.
 >.Tony stands over his prize, looking small. The restaurant is
 >.deathly quiet. This is not a triumphant moment but a tragic
 ..one. Horrifying, even.
