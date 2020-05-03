@@ -39,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:3181
-Cursor/Column:23
+Cursor/Line:4397
+Cursor/Column:15
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -303,7 +303,7 @@ Words:0
 ..bottles as he brushes by them.
 >.The youths continue talking and laughing and Youth #1 lights
 ..a cigarette.
-._BENNY
+._BENNY (CONT'D)
 >:Hey, excuse me! You can't smoke in
 .:here. 
 ..They stop talking and look over, surprised.
@@ -493,7 +493,7 @@ Words:0
 .:it's entirely by choice.
 >.Tony and Reid sit together at a table, Reid leaning back on
 ..the column with a large latte in hand. 
-._TONY
+._TONY (CONT'D)
 >:I suppose I don't have to ask how
 .:the business is doing.
 ._Reid
@@ -827,7 +827,9 @@ Words:0
 >:the wind. He knew he would have to
 .:reap our fury sooner or later. 
 ._DONNA
->:You don't understand, he's been
+.:You don't understand, he's been
+.((MORE)
+._DONNA (CONT'D)
 >:very sick! He already has a weak
 >:heart. Then last week he started
 >:coughing and running a fever, and I
@@ -889,10 +891,10 @@ Words:0
 .:loving feeling.
 >.They turn away to leave. Woojin, however, steps up to the
 ..counter.
-._WOOJIN
+._WOOJIN (CONT'D)
 .:Hey, give me a pack of the Camels.
 ..Lucy glares at him.
-._WOOJIN
+._WOOJIN (CONT'D)
 >:You seem to feel pretty strongly
 >:about smoking. Don't worry, I've
 >:seen the videos with the fucked-up
@@ -914,7 +916,7 @@ Words:0
 >:Jean-Paul Belmondo and Big Tobacco
 .:to think smoking is cool.
 ..Woojin looks at Nico with disbelief, who shrugs.
-._Nico
+._Nico (CONT'D)
 >:Read some Chomsky. You'll learn all
 .:about it.
 ._WOOJIN
@@ -999,14 +1001,14 @@ Words:0
 >:You talk so well. It reminds me of
 .:your mother. 
 ..Donna goes to the corner to pick up a broom.
-._DONNA
+._DONNA (CONT'D)
 >:You've had a long night. You should
 .:go home, I can clean up.
 >.Lucy looks dejected. She closes up the cash register,
 ..removes her apron, and starts to pack up.
 >.She emerges from the back room, slinging on her backpack.
 ..Donna has stopped sweeping and looks thoughtful.
-._DONNA
+._DONNA (CONT'D)
 >:You know, it's funny what you said
 .:about wuxia. 
 ._LUCY
@@ -1100,7 +1102,7 @@ Words:0
 .:Lucy!
 >.She leaves in a huff, slamming the door. Donna goes back to
 ..sweeping.
-._DONNA
+._DONNA (CONT'D)
 .:Goddamn college kids.
 .\Int. karate dojo - day
 >.Lucy kicks the air in front of her, one in a line of
@@ -1115,16 +1117,16 @@ Words:0
 .:doesn't need to be that high!
 >.Lucy kicks the air over and over, clearly quicker and better
 ..than the other students.
-._MASTER DOUGLAS
+._MASTER DOUGLAS (CONT'D)
 .:Don't leave yourself exposed!
 ..The other students seem to struggle. Not Lucy.
-._MASTER DOUGLAS
+._MASTER DOUGLAS (CONT'D)
 .:That's enough!
 ..The students all stop, slumping.
-._MASTER DOUGLAS
+._MASTER DOUGLAS (CONT'D)
 .: Kiotsuke! 
 ..Now they stand at attention.
-._MASTER DOUGLAS
+._MASTER DOUGLAS (CONT'D)
 >:Students, I'm pleased with your
 >:progress. As long as you have been
 >:keeping up your fitness
@@ -1132,7 +1134,7 @@ Words:0
 >:well placed for the belt exam next
 .:Friday.
 ..He glances briefly at Lucy, his star pupil.
-._MASTER DOUGLAS
+._MASTER DOUGLAS (CONT'D)
 .((suddenly shouts)
 .:Got that, Kevin?
 ..KEVIN, 22, a doofy-looking, lanky readhead, starts suddenly.
@@ -1154,7 +1156,7 @@ Words:0
 .:demonstrate for us. Any volunteers?
 >.Lucy's hand shoots up. Master Douglas smiles, seeing his
 ..favorite student volunteer.
-._MASTER DOUGLAS
+._MASTER DOUGLAS (CONT'D)
 .:It has been a while, Lucy. Step up.
 ..He looks around. Kevin reluctantly raises his hand.
 ._KEVIN
@@ -1204,12 +1206,12 @@ Words:0
 >.students are seen picking up their bags and leaving the gym.
 >.A group of students are gathered around Kevin, who rubs his
 ..face.
-..A mortified Lucy follows Master Douglas into his office.
+>.A mortified Lucy follows an amused Master Douglas into his
+..office.
 ._LUCY
 >:Sensei, I'm so sorry about that. I
 .:just...kind of went for it.
 ._MASTER DOUGLAS
-.((laughs)
 >:Oh, Lucy, I shouldn't be laughing,
 >:but I'm only human. It's alright,
 >:ok? I know you're just trying to be
@@ -1248,7 +1250,6 @@ Words:0
 >:the martial artists and masters in
 .:the Bay Area?
 ._MASTER DOUGLAS
-.((thinks for a moment)
 >:Yeah, I'd say so. Definitely in
 >:East Bay. It's not the biggest
 >:community, especially if you take
@@ -1271,7 +1272,9 @@ Words:0
 .:Retired?
 ._MASTER DOUGLAS
 >:Well, I don't know if you call it
->:retired. I've heard from some of
+.:retired. I've heard from some of
+.((MORE)
+._MASTER DOUGLAS (CONT'D)
 >:the old-timers that he quit. Left
 >:and never came back, didn't want
 >:anything to do with kung fu,
@@ -1359,7 +1362,9 @@ Words:0
 >:tell you about him. I stay out of
 .:that sort of thing.
 ._LUCY
->:He runs everything in this
+.:He runs everything in this
+.((MORE)
+._LUCY (CONT'D)
 >:neighborhood. He owns the strip
 >:club down the street, he
 >:intimidates all the local
@@ -1406,7 +1411,9 @@ Words:0
 >:I've heard stories about you for
 >:years. Stories about the guy who
 >:lives down the street, the old guy
->:who drinks too much, who used to be
+.:who drinks too much, who used to be
+.((MORE)
+._LUCY (CONT'D)
 >:some sort of kung fu legend.
 >:Growing up, I always thought the
 >:other kids were making up stuff
@@ -1420,9 +1427,8 @@ Words:0
 >:Listen very carefully, Miss Lucy
 >:Mao. Everything you've heard about
 >:me is wrong. They're all a bunch of
->:goddamn lies. I don't know why
->:Donna would tell you something like
-.:that. 
+>:lies. I don't know why Donna would
+.:tell you something like that. 
 ._LUCY
 >:Please don't deny it. I'm not here
 >:to convince you of something we
@@ -1447,8 +1453,8 @@ Words:0
 >:I was getting ready for a serious
 >:request from you. So you can
 >:imagine my relief when instead you
->:ask for the most ridiculous thing
-.:I've ever heard.
+>:just ask for the most ridiculous
+.:thing I've ever heard.
 ._LUCY
 >:I know it doesn't sound
 .:very...conventional.
@@ -1498,7 +1504,9 @@ Words:0
 >:Are you saying you couldn't fight
 .:them and win?
 ._TONY
->:That's a very unoriginal strategy
+.:That's a very unoriginal strategy
+.((MORE)
+._TONY (CONT'D)
 >:there, and it won't work. I don't
 >:fall for cheap ego plays, even
 .:after a couple of beers.
@@ -1656,13 +1664,12 @@ Words:0
 >.A KNIFE flies through the air and lodges itself deep into
 ..Angelo's thigh.
 ..Angelo grabs his leg and collapses.
-._Angelo
+._Angelo (CONT'D)
 .:Oh fuck!
 ..Woojin looks not surprised but annoyed.
 ._WOOJIN
 >:Jesus, a little warning? You could
 .:have hit me!
-./CUT TO:
 >.CLARENCE TRAN, 44 - lean, hawkish, sitting with a
 >.ramrod-straight back at a wooden desk, wearing a light gray,
 >.open-neck suit and gold-rimmed glasses. He stands, revealing
@@ -1674,7 +1681,9 @@ Words:0
 >:Angelo, I remember a time when I
 >:was a kid when the Mafia was like a
 >:dragon. They were untouchable. All
->:the pearl-clutchers could talk
+.:the pearl-clutchers could talk
+.((MORE)
+._CLARENCE TRAN (CONT'D)
 >:about was how we were ever gonna
 >:get rid of them. Even out here all
 >:the Asian gangs were subordinate to
@@ -1684,7 +1693,7 @@ Words:0
 .:to his face. He had to take it.
 >.Clarence now stands directly over the wounded Angelo,
 ..glowering in his face.
-._CLARENCE TRAN
+._CLARENCE TRAN (CONT'D)
 >:But now it's just you, isn't it? No
 >:one is left to come for you. I did
 >:what the cops never could. I rooted
@@ -1702,7 +1711,7 @@ Words:0
 >:Get up now! You can fight, can't
 .:you? What kind of a man are you?
 ..Angelo simply clutches his leg, pleading with his eyes.
-._CLARENCE TRAN
+._CLARENCE TRAN (CONT'D)
 >:Get up now or you'll never get up
 .:again.
 >.Angelo weakly pushes himself up. Nico helps pull him to his
@@ -1713,7 +1722,7 @@ Words:0
 >:I want to see if their grand
 .:tradition dies without a fight.
 ..Clarence moves into a fighting position.
-._CLARENCE TRAN
+._CLARENCE TRAN (CONT'D)
 >:Land a blow on me, Angelo, and I'll
 >:let you walk out with the keys to
 .:my car. Just one blow.
@@ -1771,7 +1780,7 @@ Words:0
 .:call there.
 >.Clarence picks up the bucket from the closet and carries it
 ..over to Angelo, the knife in the other hand.
-._CLARENCE TRAN
+._CLARENCE TRAN (CONT'D)
 >:Nothing wrong with showing them the
 .:quality of mercy now and then. 
 >.Clarence picks up Angelo's head by his hair, then holds his
@@ -1793,11 +1802,12 @@ Words:0
 .:myself.
 >.Suddenly Clarence's phone starts ringing, a special romantic
 ..song chosen as the ringtone for his wife.
-._CLARENCE TRAN
-.:Well, shit.
+._CLARENCE TRAN (CONT'D)
+.((sarcastic)
+.:Perfect timing.
 >.Clarence pulls up Angelo's body and buries his head in the
 ..bucket. He stands up and starts pulling off his glove.
-._CLARENCE TRAN
+._CLARENCE TRAN (CONT'D)
 .:Come help me with this.
 >.Nico gamely comes over and pulls one of the gloves off, then
 ..tosses it onto Angelo's head.
@@ -1849,7 +1859,7 @@ Words:0
 >.Clarence puts away his phone, and starts packing up his
 >.suitcase at his desk. He glances down at Angelo's body in
 ..the doorway.
-._CLARENCE TRAN
+._CLARENCE TRAN (CONT'D)
 >:You two clean that up. I'll call
 >:you in the morning. Do not call me
 .:tonight.
@@ -1865,7 +1875,7 @@ Words:0
 .:still recognizable after.
 >.Clarence picks up his suitcase and steps over Angelo's body
 ..into the doorway.
-._CLARENCE TRAN
+._CLARENCE TRAN (CONT'D)
 >:Get it all off the floor, too. I
 >:don't want one spot of hemoglobin
 .:in this office.
@@ -2096,7 +2106,7 @@ Words:0
 .:Benny, stay back there!
 >.Benny, cowed, returns to the counter, looking nervously out
 ..the window.
-._TONY
+._TONY (CONT'D)
 >:You can't provoke me, Lucy. I've
 >:changed. I can see what you're
 .:doing.
@@ -2177,7 +2187,7 @@ Words:0
 ..He wants this over.
 >.Lucy slams into the shelf; with no bottles left, it falls
 ..over.
-._TONY
+._TONY (CONT'D)
 >:You're outmatched. I don't want to
 .:hurt you.
 ._LUCY
@@ -2186,7 +2196,7 @@ Words:0
 ..His old grace is returning. 
 >.Lucy manages to kick the bottle out of Tony's hand--she
 ..seems to be learning from the maestro.
-._LUCY
+._LUCY (CONT'D)
 .:Are you a master, Tony?
 >.Her confidence flying high, she tries the Seven Axe Kick.
 ..Her signature. 
@@ -2200,7 +2210,7 @@ Words:0
 >:it's not enough. You need a
 .:teacher.
 ..Lucy smiles. Tony gives her his hand and helps her up.
-._TONY
+._TONY (CONT'D)
 .:I will be your master.
 ..One last bottle falls offscreen, SHATTERING loudly.
 >.Benny, cowering behind the counter before, peers up and
@@ -2256,7 +2266,7 @@ Words:0
 .((smiles)
 .:No. I don't play mind games.
 ..Tony finds a suitable spot, then lays the mat onto it.
-._TONY
+._TONY (CONT'D)
 >:By the way, those robes are
 >:ridiculous. Don't wear them next
 .:time.
@@ -2308,7 +2318,7 @@ Words:0
 .:dangerous. They're unpredictable.
 >.Tony suddenly attacks her. Lucy weakly parries, taken aback,
 ..but Tony throws her onto the mat.
-._TONY
+._TONY (CONT'D)
 >:You're a psychologist now, Lucy. A
 >:profiler. You have to recognize who
 >:you're fighting and how they're
@@ -2319,10 +2329,10 @@ Words:0
 >:You must train harder than you've
 >:ever thought possible. You cannot
 >:simply be good, you must be
->:perfect. Flawless. One misstep
-.:leads to death.
+>:perfect. Flawless. In a true fight,
+.:one misstep leads to death.
 ..Tony kicks out her leg.
-._TONY
+._TONY (CONT'D)
 >:Do you think you can keep living
 >:your life? You can commit entirely
 >:or quit now. You can't be
@@ -2330,7 +2340,7 @@ Words:0
 >:college application. Total focus is
 .:required. 
 ..Tony attacks briefly, Lucy growing more exhausted.
-._TONY
+._TONY (CONT'D)
 >:There is but one path to your goal
 >:of greatness, and that is the path
 >:of commitment and suffering. If you
@@ -2484,7 +2494,7 @@ Words:0
 >.Tony attacks with a low jab. Lucy parries but can barely
 >.stand, and with a second blow is pushed into the water
 ..again.
-._TONY 
+._TONY (CONT'D)
 >:That jab I just used is a potent
 >:weapon. It doesn't expose you and
 >:it can open your opponent up for a
@@ -2492,7 +2502,7 @@ Words:0
 .:Learn it and master it.
 >.Lucy is weak now. She paddles up, but stops at the side of
 ..the boat, panting and shivering.
-._TONY 
+._TONY (CONT'D)
 >:You can't stay on the threshold.
 >:Get in the water or get on the
 .:boat.
@@ -2506,11 +2516,11 @@ Words:0
 ..She paddles up and grabs it. Tony reels her in. 
 >.He deposits her on the boat, shivering. Hands her a Thermos
 ..and a blanket.
-._TONY 
+._TONY (CONT'D)
 >:Don't worry. It's hot chocolate.
 .:Donna said you like it.
 ..Lucy gulps it down greedily.
-._TONY 
+._TONY (CONT'D)
 .:She also said you like swimming.
 ._LUCY
 >:Oh, really? This is supposed to be
@@ -2576,8 +2586,8 @@ Words:0
 >:Great. Chlorine gas and a
 >:mud-filled trench actually sound
 .:wonderful right now. 
->.Tony turns around and puts on his leather jacket, not
-..answering.
+>.Tony turns around and puts on his leather jacket without
+..looking at her.
 ._TONY
 >:I warned you this would be
 .:difficult. 
@@ -2595,7 +2605,7 @@ Words:0
 ._LUCY
 >:Well, you've succeeded. There's
 .:nothing left.
-..Tony pauses for a while.
+..Tony pauses to think this over.
 ._TONY
 .:You want to get some dinner, Lucy?
 ._LUCY
@@ -2659,7 +2669,9 @@ Words:0
 .((beat)
 .:Just water for now.
 ._WAITRESS
->:Alright. Let me know if you have
+.:Alright. Let me know if you have
+.((MORE)
+._WAITRESS (CONT'D)
 >:any questions about the menu. The
 >:special today is a spaghetti alla
 >:chitarra with Chino Farms corn,
@@ -2702,7 +2714,9 @@ Words:0
 >:eat for a nice meal, you try to
 >:order everything, just to try it.
 >:So I went on my first date here
->:with a girl, and I took her to a
+.:with a girl, and I took her to a
+.((MORE)
+._TONY (CONT'D)
 >:restaurant in San Francisco. She
 >:went to the bathroom and said,
 >:"Order for me. Surprise me." So
@@ -2750,7 +2764,7 @@ Words:0
 .:wanted to!
 ._TONY
 >:Lower your voice! He's not unarmed,
->:not here. He owns this place. He's
+.:not here. He owns this place. He's
 >:got bodyguards around here. I see
 >:him come here all the time and no
 .:one ever tries to do anything.
@@ -2794,10 +2808,12 @@ Words:0
 >:Square. I was alone. I wore this
 >:little patched up dress. Walked
 >:behind some family's luggage, came
->:through the lobby as quickly as I
+.:through the lobby as quickly as I
+.((MORE)
+._LUCY (CONT'D)
 >:could. I just wanted to ride the
->:glass elevators. I'd never seen one
->:before. I rode it to the highest
+.:glass elevators. I'd never seen one
+.:before. I rode it to the highest
 >:floor I could, where I could look
 >:through the glass at the whole
 >:city. All the skyscrapers in San
@@ -2877,7 +2893,7 @@ Words:0
 ._PAULY CAROLLO
 .:I'll be honored. Thanks, Sylvia.
 ..Pauly starts to leave, and then pauses.
-._PAULY CAROLLO
+._PAULY CAROLLO (CONT'D)
 .:Thanks for the help, Clarence.
 ..Clarence is silent. Pauly walks away a bit too quickly.
 ..The two sit at the table in silence for a second.
@@ -2931,7 +2947,9 @@ Words:0
 ..always.
 ._CLARENCE TRAN (CONT'D)
 >:And it seems like every weekend,
->:when I should be out there running
+.:when I should be out there running
+.((MORE)
+._CLARENCE TRAN (CONT'D)
 >:the business with my guys, I have
 >:to go to another cocktail party. I
 .:wear the suit more than my gloves.
@@ -2973,7 +2991,7 @@ Words:0
 .:about.
 >.She refills Clarence's glass, almost like a mother helping
 ..her child. She raises her own.
-._SYLVIA
+._SYLVIA (CONT'D)
 .:To another year?
 ._CLARENCE TRAN
 .:To success.
@@ -3029,11 +3047,11 @@ Words:0
 .:Now that...is what I want.
 >.They both know the significance. Tony gets up, calm. Lucy is
 ..still at the ready.
-._TONY
+._TONY (CONT'D)
 >:There's no need, Lucy. That's the
 .:end of today's lesson.
 ..Lucy doesn't lower her fists.
-._TONY
+._TONY (CONT'D)
 .:You want to get a drink?
 >.Lucy looks more surprised by this than by her success. She
 ..lowers her fists.
@@ -3048,7 +3066,7 @@ Words:0
 .:Then let's go.
 >.Lucy looks awkward. Tony turns to leave, but then stops,
 ..seeing her expression.
-._TONY
+._TONY (CONT'D)
 .:What? You don't drink?
 ._LUCY
 .:I don't know.
@@ -3071,7 +3089,7 @@ Words:0
 .:I have a spot. 
 >.Lucy gathers up her things and starts walking with Tony
 ..towards his car.
-._TONY
+._TONY (CONT'D)
 >:By the way, Benny is still furious
 >:at you for what you did to his
 .:store.
@@ -3087,8 +3105,8 @@ Words:0
 ._TONY
 >:This place is great. Never had a
 .:bad drink here.
->.The bartender, OSCAR, 60s, a tough-looking white man wearing
-..a baseball cap, spots Tony.
+>.The bartender, OSCAR, mid-60s, a tough-looking white man
+..wearing a baseball cap, spots Tony.
 ._Oscar
 .:Tony! How the hell you doing?
 ._TONY
@@ -3203,8 +3221,11 @@ Words:0
 ._TONY
 >:You can do more to help Chinatown
 >:with a briefcase than with your
->:fists. You should be studying with
-.:your professors, not with me.
+>:fists. I don't know why you think
+>:violence is gonna solve this
+>:problem of violence. You should be
+>:studying with your professors, not
+.:with me. 
 ._LUCY
 >:I know you're probably right. It's
 >:what everyone tells me, and how can
@@ -3332,7 +3353,7 @@ Words:0
 .:Is that what happened to your wife?
 >.Tony gets up immediately from the bar. He knocks over his
 ..glass and it falls to the ground, shattering.
-._LUCY
+._LUCY (CONT'D)
 .:Jesus--
 ._OSCAR
 .:Hey Tony, you ok?
@@ -3402,14 +3423,14 @@ Words:0
 .:Fucking right.
 >.Through the window, they see Lucy open the door and step
 ..out.
-._WOOJIN
+._WOOJIN (CONT'D)
 .:Look, look, check it out!
 >.Lucy says goodbye to Donna, who stays in the store and dims
 ..the lights.
-._WOOJIN
+._WOOJIN (CONT'D)
 .:Fucking finally, man.
 ..Lucy walks around the corner and ducks into an alley.
-._WOOJIN
+._WOOJIN (CONT'D)
 >:All right. Let's collect it and get
 .:out of here.
 ..The two men get out of the car. They approach the store.
@@ -3436,12 +3457,12 @@ Words:0
 ..Lucy puts down her bag and jacket.
 ..Woojin looks at Nico, confused.
 ..Lucy raises her fists, ready to fight, and approaches them.
-._WOOJIN
+._WOOJIN (CONT'D)
 .:What the fuck--
 >.Lucy STRIKES him quickly, knocking him down with a one-two
 ..hit.
 ..Nico helps up his friend, who wipes blood out of his mouth.
-._WOOJIN
+._WOOJIN (CONT'D)
 >:Bitch, what the fuck is wrong with
 .:you?
 ..Lucy steels herself. Gives him nothing.
@@ -3470,7 +3491,7 @@ Words:0
 >.Woojin looks surprised at seeing the bigger man pushed
 ..aside. Lucy takes this opportunity to kick out his legs.
 ..Woojin is angry now. The stoner vibe is all worn off.
-._WOOJIN
+._WOOJIN (CONT'D)
 .:Jesus fuck!
 >.Nico attacks again, this time just pushing Lucy. She's much
 ..lighter, and she flies back into the trashcan.
@@ -3494,7 +3515,7 @@ Words:0
 ..off the ground.
 >.His face is bloody; he looks unsteady. He half-heartedly
 ..raises his fists.
-._WOOJIN
+._WOOJIN (CONT'D)
 .:You fucking bitch, we're gonna--
 >.Lucy attacks. Her experience is clear now; Woojin is
 ..outmatched.
@@ -3725,7 +3746,7 @@ Words:0
 >:right. That you have a death wish.
 .:Or a big tumor in your brain.
 ..He nods his head. The men behind him pull out some guns.
-._CLARENCE TRAN
+._CLARENCE TRAN (CONT'D)
 >:I had to come. Just to find out for
 >:myself. I've never heard of
 >:anything like this. I could have
@@ -3767,7 +3788,7 @@ Words:0
 .:you.
 ..For the first time, Clarence Tran smiles.
 ..The man holding her down cocks his gun.
-._LUCY
+._LUCY (CONT'D)
 >:You can just kill me now. I'm not
 >:afraid to die here tonight. But I
 >:can't do it without fighting you
@@ -3808,7 +3829,7 @@ Words:0
 >.Clarence Tran looks at them with dagger eyes. Nico and
 ..Woojin stand back.
 ..He glances at the man holding Lucy.
-._CLARENCE TRAN
+._CLARENCE TRAN (CONT'D)
 .:Let her up.
 ..Lucy stands up, ready to fight.
 ._WOOJIN
@@ -3830,11 +3851,10 @@ Words:0
 ..Lucy ties up her hair. She's ready. An exterminating angel.
 >.His socks now off, Clarence pulls a GUN out of his suit
 ..jacket and hands it to Nico.
-._CLARENCE TRAN
+._CLARENCE TRAN (CONT'D)
 .:Shoot any man who dares intervene.
 ..He turns around to face his men.
-._CLARENCE TRAN
-.((CONT'D)
+._CLARENCE TRAN (CONT'D)
 >:Not a goddamn soul inside this
 .:circle!
 ..All the men back up a step, faces waxen with fear.
@@ -3842,7 +3862,7 @@ Words:0
 >.He steps toward her. She stands alone in the circle, wind
 ..from the Bay swaying the grass around her.
 ..He draws close, not pausing.
-._CLARENCE TRAN
+._CLARENCE TRAN (CONT'D)
 .:I'll kill you quickly, Ms. Mao.
 ..Clarence strikes without breaking his stride.
 ..Lucy dodges, but Clarence attacks again.
@@ -3995,7 +4015,10 @@ Words:0
 ._RADIO ANNOUNCER (VO)
 >:Meanwhile, authorities are
 >:continuing their investigation into
->:the death of Lucy Mao, an Oakland
+.:the death of Lucy Mao, an Oakland
+.((MORE)
+.:
+._RADIO ANNOUNCER (CONt'D)
 >:native and SFSU student whose body
 >:was found floating in San Francisco
 >:Bay five days ago. Anyone with
@@ -4082,7 +4105,7 @@ Words:0
 ._SYLVIA
 .:I don't know, I--
 ..She looks at Clarence, who is alert now.
-._SYLVIA
+._SYLVIA (CONT'D)
 .:Clarence?
 .\Int. Fancy restaurant - lobby - night
 >.Back at the front of the restaurant, three mooks attack
@@ -4106,7 +4129,7 @@ Words:0
 >.Tony runs over, and without looking down, STOMPS the shard
 ..into his brain.
 ..Woojin and Nico look at each other, horrified.
-._WOOJIN
+._WOOJIN (CONT'D)
 >:You hold him back for a bit! I
 .:gotta go tell Clarence!
 .\Int. Fancy restaurant - night
@@ -4127,14 +4150,13 @@ Words:0
 .:Don't you run!
 >.Sylvia looks horrified. Clarence runs up and grabs the
 ..terrified Pauly.
-._CLARENCE TRAN
-.((CONT'D)
+._CLARENCE TRAN (CONT'D)
 >:You got any weapons in this place?
 >:Shotguns, pistols, anything better
 .:than a knife?
 >.Pauly whimpers. Clarence looks down at Pauly's pants, then
 ..looks up again.
-._CLARENCE TRAN
+._CLARENCE TRAN (CONT'D)
 .:Tell me now.
 ._PAULY CAROLLO
 >:There's, there's a pistol in my
@@ -4253,8 +4275,8 @@ Words:0
 ..He gestures at his gun.
 ..Tony smiles coldly.
 ._TONY
->:Death doesn't scare me. I'm ready
-.:for the darkness.
+>:You see, death doesn't scare me.
+.:I'm ready for the darkness.
 >.As quick as lightning Tony lurches back to the office wall
 >.and turns off the light. Clarence, not expecting this, fires
 ..wildly and misses. 
@@ -4286,7 +4308,7 @@ Words:0
 ..Anything Clarence tries to use is knocked out of his hands.
 >.But finally he finds what he was looking for--a knife. He
 ..has a glint in his eye as Tony backs away.
-._CLARENCE TRAN
+._CLARENCE TRAN (CONT'D)
 >:Did you know I killed her with a
 .:knife too?
 >.He jabs at Tony, who tries to dodge him. But the attack has
@@ -4391,7 +4413,7 @@ Words:0
 >.The apartment is spotless, cleaner than we've ever seen it.
 >.No alcohol is visible. His bedroom look as meticulously
 ..clean as the night he rejected Lucy.   
-._SYLVIA
+._SYLVIA (CONT'D)
 >:Where could a man like this have
 .:gone...?
 >.Sylvia looks at his bookshelf, seeing an empty spot where a
@@ -4420,7 +4442,7 @@ Words:0
 >.Tony looks around, tensing up, and notices the unnatural
 >.lack of movement. The village suddenly seems deserted. He
 ..realizes what is happening and unspools a bit.
-._TONY
+._TONY (CONT'D)
 >:Don't do anything to the bartender.
 .:He's a good man.
 ..Sylvia enters from behind the bar.
@@ -4483,6 +4505,7 @@ Words:0
 >:of me if you didn't have a gun
 .:trained on the back of my head.
 ..Sylvia takes this point.
+..
 ._SYLVIA
 >:Regardless, I didn't expect you to
 .:lay down like an old dog.
@@ -4548,7 +4571,7 @@ Words:0
 ..with a CLICK. Tony does nothing but close his eyes.
 >.Suddenly she raises the knife and brings it down on Tony!
 ..But stops the blade just at his neck.
-._SYLVIA
+._SYLVIA (CONT'D)
 .:You took revenge! Why shouldn't I?
 ._TONY
 >:There is no one left who cares
