@@ -39,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:4397
-Cursor/Column:15
+Cursor/Line:3
+Cursor/Column:51
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -170,7 +170,7 @@ Words:0
 #End-Spell-Checker-Dict 
 #Title-String 0.000000,105.000000,24,cb,Helvetica,,The Chosen One of Chinatown-Draft 1
 #Title-String 0.000000,120.460000,12,c,Courier,,by\n\nSam Holladay
-#Title-String 15.000000,248.460000,12,,Courier,,2017\n985-640-8234\nsam.holladay@gmail.com
+#Title-String 15.000000,248.460000,12,,Courier,,2020\n985-640-8234\nsam.holladay@gmail.com
 #Header-String 1,0,r,,${PAGE}.
 #Header-Empty-Lines 1
 #Start-Script 
@@ -2764,7 +2764,7 @@ Words:0
 .:wanted to!
 ._TONY
 >:Lower your voice! He's not unarmed,
-.:not here. He owns this place. He's
+>:not here. He owns this place. He's
 >:got bodyguards around here. I see
 >:him come here all the time and no
 .:one ever tries to do anything.
@@ -4017,7 +4017,6 @@ Words:0
 >:continuing their investigation into
 .:the death of Lucy Mao, an Oakland
 .((MORE)
-.:
 ._RADIO ANNOUNCER (CONt'D)
 >:native and SFSU student whose body
 >:was found floating in San Francisco
@@ -4505,7 +4504,6 @@ Words:0
 >:of me if you didn't have a gun
 .:trained on the back of my head.
 ..Sylvia takes this point.
-..
 ._SYLVIA
 >:Regardless, I didn't expect you to
 .:lay down like an old dog.
@@ -4602,9 +4600,4 @@ Words:0
 ..The candlelight flickers as it shines on the bullet.
 ./FADE OUT.
 .@The end
-./
-.:
-.:
-.:
-._
 .:
