@@ -25,8 +25,8 @@ Margin/Bottom:25.40
 Margin/Left:38.10
 Margin/Right:25.40
 Margin/Top:12.70
-Paper/Height:297.00
-Paper/Width:210.00
+Paper/Height:279.40
+Paper/Width:215.90
 PageBreakActionLines:2
 PageBreakDialogueLines:2
 SceneContinueds:False
@@ -39,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:3
-Cursor/Column:51
+Cursor/Line:2036
+Cursor/Column:23
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -2097,6 +2097,8 @@ Words:0
 >:discovered this. But I know what
 .:you're like now.
 ..Lucy SMASHES the bottle on the ground.
+._TONY
+.:That's not even your bottle.
 ._LUCY
 .:It's pathetic. You're pathetic.
 ._BENNY
@@ -2205,6 +2207,10 @@ Words:0
 ..Back down to earth.
 >.Tony stands over her, looming. Lucy pants for a second,
 ..chastened.
+._TONY
+.:You're serious, aren't you?
+._LUCY
+.:I'm not going to stop. 
 ._TONY
 >:You fight with passion, Lucy. But
 >:it's not enough. You need a
@@ -4017,7 +4023,7 @@ Words:0
 >:continuing their investigation into
 .:the death of Lucy Mao, an Oakland
 .((MORE)
-._RADIO ANNOUNCER (CONt'D)
+._RADIO ANNOUNCER (VO) (CONt'D)
 >:native and SFSU student whose body
 >:was found floating in San Francisco
 >:Bay five days ago. Anyone with
